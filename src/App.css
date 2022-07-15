@@ -22,4 +22,6 @@ img{
   width: 100%;
   max-width: 300px;
   max-height: 450px;
+  filter: brightness(1.1);
+  mix-blend-mode: multiply;
 }
