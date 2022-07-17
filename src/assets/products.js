@@ -1,20 +1,5 @@
 export const productos = [
   {
-    nombre: 'McFarlane Toys DC Multiverse The Dark Knight Return Batman',
-    img: 'https://m.media-amazon.com/images/I/51E-bMUwVXL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/dp/B09BF32X81/?coliid=IVW08CS7VNBOG&colid=RBQ15CHVVBLV&psc=1&ref_=lv_ov_lig_dp_it'
-  },
-  {
-    nombre: 'McFarlane - DC Build-A 7In Figures Wave 4 - Death Metal - Wonder Woman',
-    img: 'https://m.media-amazon.com/images/I/71gHSs12YGL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/dp/B08FP8BZL3/?coliid=I1C3JYSL5AJS82&colid=RBQ15CHVVBLV&psc=1&ref_=lv_ov_lig_dp_it'
-  },
-  {
-    nombre: 'McFarlane Toys Spawn Action Figures Deluxe Box Set',
-    img: 'https://m.media-amazon.com/images/I/81j2cQAwX0L._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/dp/B09F84N768/?coliid=I267Z7JZI4K9XQ&colid=RBQ15CHVVBLV&psc=1&ref_=lv_ov_lig_dp_it'
-  },
-  {
     nombre: 'Dark Nights Death Metal - Dc Comics Deluxe',
     img: 'https://http2.mlstatic.com/D_NQ_NP_2X_887153-MLM50437229923_062022-F.webp',
     buyLink: 'https://articulo.mercadolibre.com.mx/MLM-1445438675-dark-nights-death-metal-dc-comics-deluxe-_JM#position=4&search_layout=stack&type=item&tracking_id=b1e10a0f-87be-4682-9da0-782438f0c9e2'
@@ -35,9 +20,9 @@ export const productos = [
     buyLink: 'https://articulo.mercadolibre.com.mx/MLM-779819647-liga-de-la-justicia-y-un-misterio-en-el-espacio-scott-snyder-_JM'
   },
   {
-    nombre: 'Justice League La Sexta Dimension',
-    img: 'https://http2.mlstatic.com/D_NQ_NP_2X_772601-MLM45077106839_032021-F.webp',
-    buyLink: 'https://articulo.mercadolibre.com.mx/MLM-884147654-justice-league-la-sexta-dimension-_JM'
+    nombre: 'Aquaman by Geoff Johns Omnibus',
+    img: 'https://images-na.ssl-images-amazon.com/images/I/A1-bTmKIA5L.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/1401285465/ref=ox_sc_act_title_1?smid=AVDBXBAVVSXLQ&psc=1'
   },
   {
     nombre: 'Invincible Compendium Volume 2',
@@ -52,7 +37,22 @@ export const productos = [
   {
     nombre: 'DC Multiverse - Green Lantern Modern Comic',
     img: 'https://m.media-amazon.com/images/I/71D+nS24kUL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/dp/B09DB7RMP3/?coliid=I1O3G9ZTN5CBAW&colid=RBQ15CHVVBLV&psc=1&ref_=lv_ov_lig_dp_it'
+    buyLink: 'https://articulo.mercadolibre.com.mx/MLM-962667469-figura-green-lantern-john-stewart-multiverse-linterna-verde-_JM#position=6&search_layout=stack&type=item&tracking_id=be2c0505-5492-48e7-8380-b49b05010c3f'
+  },
+  {
+    nombre: 'McFarlane - DC Build-A 7In Figures Wave 4 - Death Metal - Wonder Woman',
+    img: 'https://m.media-amazon.com/images/I/71gHSs12YGL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/dp/B08FP8BZL3/?coliid=I1C3JYSL5AJS82&colid=RBQ15CHVVBLV&psc=1&ref_=lv_ov_lig_dp_it'
+  },
+  {
+    nombre: 'McFarlane Toys DC Multiverse The Dark Knight Return Batman',
+    img: 'https://m.media-amazon.com/images/I/51E-bMUwVXL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/dp/B09BF32X81/?coliid=IVW08CS7VNBOG&colid=RBQ15CHVVBLV&psc=1&ref_=lv_ov_lig_dp_it'
+  },
+  {
+    nombre: 'McFarlane Toys Spawn Action Figures Deluxe Box Set',
+    img: 'https://m.media-amazon.com/images/I/81j2cQAwX0L._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/dp/B09F84N768/?coliid=I267Z7JZI4K9XQ&colid=RBQ15CHVVBLV&psc=1&ref_=lv_ov_lig_dp_it'
   },
   {
     nombre: 'Batman Damned',
