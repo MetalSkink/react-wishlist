@@ -24,4 +24,5 @@ img{
   max-height: 450px;
   filter: brightness(1.1);
   mix-blend-mode: multiply;
+  border-radius: 10px;
 }
