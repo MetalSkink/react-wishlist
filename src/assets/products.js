@@ -5,6 +5,11 @@ export const productos = [
     buyLink: 'https://www.amazon.com.mx/dp/1684058414/ref=cm_sw_r_as_gl_api_gl_i_4RC9D92ADHJ5488RPTVJ?_encoding=UTF8&psc=1&linkCode=ml1&tag=ofertasgeek-20'
   },
   {
+    nombre: 'Daredevil Yellow Deluxe',
+    img: 'https://http2.mlstatic.com/D_NQ_NP_2X_685983-MLM44063280125_112020-F.webp',
+    buyLink: 'https://articulo.mercadolibre.com.mx/MLM-838716178-daredevil-yellow-deluxe-_JM#reco_item_pos=1&reco_backend=machinalis-homes-pdp-boos&reco_backend_type=function&reco_client=home_navigation-recommendations&reco_id=7044c20d-0577-4c8c-ad12-1a64dbdf7e2f&c_id=/home/navigation-recommendations/element&c_element_order=2&c_uid=cb88ce7d-d6d8-49dc-a868-c31248c70c49'
+  },
+  {
     nombre: 'The Amazing Spider-man Colección Definitiva Libro 4 - Marvel',
     img: 'https://http2.mlstatic.com/D_NQ_NP_2X_607170-MLM50655206834_072022-F.webp',
     buyLink: 'https://articulo.mercadolibre.com.mx/MLM-1455727258-the-amazing-spider-man-coleccion-definitiva-libro-4-marvel-_JM#position=7&search_layout=grid&type=item&tracking_id=1032778e-49f2-412b-ae55-3dd542d886bf'
