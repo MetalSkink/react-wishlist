@@ -20,12 +20,12 @@ export const productos = [
     buyLink: 'https://www.amazon.com.mx/gp/product/1401285465/ref=ox_sc_saved_image_2?smid=AVDBXBAVVSXLQ&psc=1'
   },
   // {
-    //   nombre: '',
-    //   img: '',
-    //   buyLink: ''
-    // },
-    {
-      nombre: 'Invincible Compendium Volume 2',
+  //     nombre: '',
+  //     img: '',
+  //     buyLink: ''
+  // },
+  {
+    nombre: 'Invincible Compendium Volume 2',
     img: 'https://images-na.ssl-images-amazon.com/images/I/71sGkh+82DL.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/1607067722/ref=ox_sc_saved_title_9?smid=AVDBXBAVVSXLQ&psc=1'
   },
@@ -33,31 +33,6 @@ export const productos = [
     nombre: 'STAR WARS La colección Vintage - Juguete ARC Trooper',
     img: 'https://m.media-amazon.com/images/I/81txVzCPA-L._AC_SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/B09LVWTHDH/ref=ox_sc_saved_image_8?smid=AVDBXBAVVSXLQ&psc=1'
-  },
-  {
-    nombre: 'Mcfarlane Toys Munitions Pack Weapon',
-    img: 'https://http2.mlstatic.com/D_NQ_NP_2X_610868-MLM50772643740_072022-F.webp',
-    buyLink: 'https://articulo.mercadolibre.com.mx/MLM-1461860222-mcfarlane-toys-munitions-pack-weapon-exclusivo-7-pulgadas-_JM#position=10&search_layout=grid&type=item&tracking_id=f75a37da-9f92-4114-a280-744fc0c8eaa3'
-  },
-  {
-    nombre: 'Marvel Legends Series - Hobgoblin',
-    img: 'https://m.media-amazon.com/images/I/81ZmFDUJAXL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/B09DQ9XBDS/ref=ox_sc_saved_image_6?smid=AVDBXBAVVSXLQ&psc=1'
-  },
-  {
-    nombre: 'Marvel Legends Series - Shocker',
-    img: 'https://m.media-amazon.com/images/I/81jvV7mgx7L._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/B09DQ7YB4X/ref=ox_sc_saved_image_7?smid=AVDBXBAVVSXLQ&psc=1'
-  },
-  // {
-  //   nombre: '',
-  //   img: '',
-  //   buyLink: ''
-  // },
-  {
-    nombre: 'Metroid Dread',
-    img: 'https://m.media-amazon.com/images/I/7167nQX+-4S._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Metroid-Dread-Standard-Nintendo-Switch/dp/B098SL8LY9/ref=sr_1_16?keywords=juegos+nintendo+switch&qid=1664818317&qu=eyJxc2MiOiI4LjE4IiwicXNhIjoiNy4yMiIsInFzcCI6IjYuMDAifQ%3D%3D&sprefix=juegos+%2Caps%2C131&sr=8-16'
   },
   {
     nombre: 'The Legend of Zelda: Skyward Sword HD',
@@ -68,11 +43,6 @@ export const productos = [
     nombre: 'New Super Mario Bros. U Deluxe',
     img: 'https://m.media-amazon.com/images/I/71Sv4dPnq7S._AC_SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/New-Super-Mario-Bros-Deluxe/dp/B09361WPHW/ref=sr_1_17?keywords=juegos+nintendo+switch&qid=1664818436&qu=eyJxc2MiOiI4LjE4IiwicXNhIjoiNy4yMiIsInFzcCI6IjYuMDAifQ%3D%3D&sprefix=juegos+%2Caps%2C131&sr=8-17'
-  },
-  {
-    nombre: 'Dragon Ball Super N.16',
-    img: 'https://images-na.ssl-images-amazon.com/images/I/71-dEkSNu4L.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/6075687548/ref=ox_sc_saved_image_1?smid=AVDBXBAVVSXLQ&psc=1'
   },
   {
     nombre: 'GUARDIÁN DE NUEVA YORK Mediana',
