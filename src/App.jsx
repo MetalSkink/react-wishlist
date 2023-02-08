@@ -33,6 +33,7 @@ function App() {
                     <h4 className="text-white">{product.nombre}</h4>
                     <div className="m-3">
                       <img src={product.img} alt={product.nombre} />
+                      <p>{product.note}</p>
                       <a href={product.buyLink} target="_blank" rel="noreferrer">
                         <button className='btn btn-primary ms-3 mt-3' >
                           Visitar 
