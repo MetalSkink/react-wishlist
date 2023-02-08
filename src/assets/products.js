@@ -12,6 +12,18 @@ export const productos = [
     note: ""
   },
   {
+    nombre: 'Batman la Boda tpb',
+    img: 'https://http2.mlstatic.com/D_NQ_NP_2X_864988-MLM43409724922_092020-F.webp',
+    buyLink: 'https://articulo.mercadolibre.com.mx/MLM-814807900-batman-la-boda-_JM#position=1&search_layout=grid&type=item&tracking_id=7c8039a8-94fc-4032-be18-847b49b1394b',
+    note: ""
+  },
+  {
+    nombre: 'Batman ¿novia O Ladrona?',
+    img : 'https://http2.mlstatic.com/D_NQ_NP_2X_669392-MLM41531658227_042020-F.webp',
+    buyLink: 'https://articulo.mercadolibre.com.mx/MLM-771607493-batman-novia-o-ladrona-_JM#position=1&search_layout=grid&type=item&tracking_id=61185953-e29e-4d05-98b3-7b7f7e3a6ff0',
+    note: ""
+  },
+  {
     nombre: 'Batman Año Dos Ed. 30 Aniversario - Dc Essential',
     img: 'https://http2.mlstatic.com/D_NQ_NP_2X_718890-MLM52819147796_122022-F.webp',
     buyLink: 'https://articulo.mercadolibre.com.mx/MLM-1693847519-batman-ano-dos-ed-30-aniversario-dc-essential-_JM#position=25&search_layout=stack&type=item&tracking_id=6a023ff0-7207-4466-aa10-542c4dc81b90',
