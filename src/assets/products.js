@@ -1,14 +1,20 @@
 export const productos = [
   {
-    nombre: 'Jujutsu kaisen vol 20',
-    img: 'https://tiendapanini.com.mx/media/catalog/product/q/j/qjuju020_1200.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=897&width=960&canvas=960:897',
-    buyLink: 'https://tiendapanini.com.mx/jujutsu-kaisen-n20',
-    note: "Este lo puedes encontrar en el liverpool de la plaza jejeje"
+    nombre: 'Death Note Black Edition N.2',
+    img: 'https://ss365.liverpool.com.mx/xl/1128338299.jpg',
+    buyLink: 'https://www.liverpool.com.mx/tienda/pdp/death-note-black-edition-n.2/1128338299?skuid=1128338299',
+    note: ""
   },
   {
-    nombre: 'ONE PUNCH MAN vol 26',
-    img : 'https://tiendapanini.com.mx/media/catalog/product/o/n/one_punch_man_n.26_qmopu026_1200.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=897&width=960&canvas=960:897&dpr=1%201x',
-    buyLink: 'https://tiendapanini.com.mx/one-punch-man-n26',
+    nombre: 'Death Note Black Edition N.3',
+    img: 'https://ss365.liverpool.com.mx/xl/1132067437.jpg',
+    buyLink: 'https://www.liverpool.com.mx/tienda/pdp/c%C3%B3mic-death-note-black-edition-no.3/1132067437?skuid=1132067437',
+    note: ""
+  },
+  {
+    nombre: 'My Hero Academia N.34',
+    img: 'https://ss365.liverpool.com.mx/xl/1129640347.jpg.jpg',
+    buyLink: 'https://www.liverpool.com.mx/tienda/pdp/my-hero-academia-n.34/1129640347?skuid=1129640347',
     note: ""
   },
   {
@@ -22,12 +28,6 @@ export const productos = [
     img : 'https://http2.mlstatic.com/D_NQ_NP_2X_669392-MLM41531658227_042020-F.webp',
     buyLink: 'https://articulo.mercadolibre.com.mx/MLM-771607493-batman-novia-o-ladrona-_JM#position=1&search_layout=grid&type=item&tracking_id=61185953-e29e-4d05-98b3-7b7f7e3a6ff0',
     note: ""
-  },
-  {
-    nombre: 'Batman Año Dos Ed. 30 Aniversario - Dc Essential',
-    img: 'https://http2.mlstatic.com/D_NQ_NP_2X_718890-MLM52819147796_122022-F.webp',
-    buyLink: 'https://articulo.mercadolibre.com.mx/MLM-1693847519-batman-ano-dos-ed-30-aniversario-dc-essential-_JM#position=25&search_layout=stack&type=item&tracking_id=6a023ff0-7207-4466-aa10-542c4dc81b90',
-    note: "Este lo puedes encontrar en el sanborns"
   },
   {
     nombre: 'La Edad De Bronce Swamp Thing Clásico',
