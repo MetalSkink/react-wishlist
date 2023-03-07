@@ -1,20 +1,26 @@
 export const productos = [
   {
-    nombre: 'Death Note Black Edition N.2',
-    img: 'https://ss365.liverpool.com.mx/xl/1128338299.jpg',
-    buyLink: 'https://www.liverpool.com.mx/tienda/pdp/death-note-black-edition-n.2/1128338299?skuid=1128338299',
+    nombre: 'NARUTO GOLD EDITION N.1',
+    img: 'https://tiendapanini.com.mx/media/catalog/product/q/n/qnago001-1200px.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=240&canvas=240:300&dpr=1',
+    buyLink: 'https://tiendapanini.com.mx/naruto-gold-edition-n1',
+    note: "Estos me aguantaria a unos descuentos"
+  },
+  {
+    nombre: 'NARUTO GOLD EDITION N.2',
+    img: 'https://tiendapanini.com.mx/media/catalog/product/q/n/qnago002_1200.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=240&canvas=240:300&dpr=1',
+    buyLink: 'https://tiendapanini.com.mx/naruto-gold-edition-n2',
     note: ""
   },
   {
-    nombre: 'Death Note Black Edition N.3',
-    img: 'https://ss365.liverpool.com.mx/xl/1132067437.jpg',
-    buyLink: 'https://www.liverpool.com.mx/tienda/pdp/c%C3%B3mic-death-note-black-edition-no.3/1132067437?skuid=1132067437',
+    nombre: 'NARUTO GOLD EDITION N.3',
+    img: 'https://d14d9vp3wdof84.cloudfront.net/image/589816272436/image_bcimfdt5653ibbr56dh7341n1f/-S300-FWEBP?dpr=1',
+    buyLink: 'https://tiendapanini.com.mx/naruto-gold-edition-n3',
     note: ""
   },
   {
-    nombre: 'My Hero Academia N.34',
-    img: 'https://ss365.liverpool.com.mx/xl/1129640347.jpg.jpg',
-    buyLink: 'https://www.liverpool.com.mx/tienda/pdp/my-hero-academia-n.34/1129640347?skuid=1129640347',
+    nombre: 'NARUTO GOLD EDITION N.4',
+    img: 'https://d14d9vp3wdof84.cloudfront.net/image/589816272436/image_345d5p63td04jekb8aqunodf3l/-S300-FWEBP?dpr=1',
+    buyLink: 'https://tiendapanini.com.mx/naruto-gold-edition-n4',
     note: ""
   },
   {
