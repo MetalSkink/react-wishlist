@@ -1,26 +1,26 @@
 export const productos = [
   {
-    nombre: 'NARUTO GOLD EDITION N.1',
-    img: 'https://tiendapanini.com.mx/media/catalog/product/q/n/qnago001-1200px.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=240&canvas=240:300&dpr=1',
-    buyLink: 'https://tiendapanini.com.mx/naruto-gold-edition-n1',
-    note: "Estos me aguantaria a unos descuentos"
-  },
-  {
     nombre: 'NARUTO GOLD EDITION N.2',
     img: 'https://tiendapanini.com.mx/media/catalog/product/q/n/qnago002_1200.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=240&canvas=240:300&dpr=1',
     buyLink: 'https://tiendapanini.com.mx/naruto-gold-edition-n2',
     note: ""
   },
   {
-    nombre: 'NARUTO GOLD EDITION N.3',
-    img: 'https://d14d9vp3wdof84.cloudfront.net/image/589816272436/image_bcimfdt5653ibbr56dh7341n1f/-S300-FWEBP?dpr=1',
-    buyLink: 'https://tiendapanini.com.mx/naruto-gold-edition-n3',
+    nombre: 'HELLS PARADISE N.11',
+    img: 'https://tiendapanini.com.mx/media/catalog/product/q/h/qhepa011_1200.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=897&width=960&canvas=960:897&dpr=1%201x',
+    buyLink: 'https://tiendapanini.com.mx/hells-paradise-n11',
+    note: "ya nomas me faltan estos 3 para acabar la serie"
+  },
+  {
+    nombre: 'HELLS PARADISE N.12',
+    img: 'https://tiendapanini.com.mx/media/catalog/product/q/h/qhepa012_1200.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=897&width=960&canvas=960:897&dpr=1%201x',
+    buyLink: 'https://tiendapanini.com.mx/hells-paradise-n12',
     note: ""
   },
   {
-    nombre: 'NARUTO GOLD EDITION N.4',
-    img: 'https://d14d9vp3wdof84.cloudfront.net/image/589816272436/image_345d5p63td04jekb8aqunodf3l/-S300-FWEBP?dpr=1',
-    buyLink: 'https://tiendapanini.com.mx/naruto-gold-edition-n4',
+    nombre: 'HELLS PARADISE N.13',
+    img: 'https://tiendapanini.com.mx/media/catalog/product/q/h/qhepa013_1200.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=897&width=960&canvas=960:897&dpr=1%201x',
+    buyLink: 'https://tiendapanini.com.mx/hells-paradise-n13',
     note: ""
   },
   {
