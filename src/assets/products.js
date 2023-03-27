@@ -1,5 +1,17 @@
 export const productos = [
   {
+    nombre: 'Dare Devil Visionarios Vol. 2',
+    img: 'https://m.media-amazon.com/images/I/81Ntt1+LKmL.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/B0BD66JSFY/ref=ewc_pr_img_2?smid=A14DD64FVDITC8&psc=1',
+    note: ""
+  },
+  {
+    nombre: 'Dare Devil Visionarios Vol. 3',
+    img: 'https://m.media-amazon.com/images/I/81JQ+SnelBL.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/B0BN4Q8VVZ/ref=ewc_pr_img_3?smid=A14DD64FVDITC8&psc=1',
+    note: ""
+  },
+  {
     nombre: 'NARUTO GOLD EDITION N.2',
     img: 'https://tiendapanini.com.mx/media/catalog/product/q/n/qnago002_1200.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=240&canvas=240:300&dpr=1',
     buyLink: 'https://tiendapanini.com.mx/naruto-gold-edition-n2',
@@ -24,21 +36,9 @@ export const productos = [
     note: ""
   },
   {
-    nombre: 'Batman la Boda tpb',
-    img: 'https://http2.mlstatic.com/D_NQ_NP_2X_864988-MLM43409724922_092020-F.webp',
-    buyLink: 'https://articulo.mercadolibre.com.mx/MLM-814807900-batman-la-boda-_JM#position=1&search_layout=grid&type=item&tracking_id=7c8039a8-94fc-4032-be18-847b49b1394b',
-    note: ""
-  },
-  {
-    nombre: 'Batman ¿novia O Ladrona?',
-    img : 'https://http2.mlstatic.com/D_NQ_NP_2X_669392-MLM41531658227_042020-F.webp',
-    buyLink: 'https://articulo.mercadolibre.com.mx/MLM-771607493-batman-novia-o-ladrona-_JM#position=1&search_layout=grid&type=item&tracking_id=61185953-e29e-4d05-98b3-7b7f7e3a6ff0',
-    note: ""
-  },
-  {
-    nombre: 'La Edad De Bronce Swamp Thing Clásico',
-    img: 'https://http2.mlstatic.com/D_NQ_NP_2X_958385-MLM45413147068_042021-F.webp',
-    buyLink: 'https://articulo.mercadolibre.com.mx/MLM-769188264-la-edad-de-bronce-swamp-thing-clasico-_JM',
+    nombre: 'INMORTAL HULK VOL.01',
+    img: 'https://m.media-amazon.com/images/I/61yXrD3f8AL.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/6076367652/ref=ox_sc_saved_image_1?smid=AVDBXBAVVSXLQ&psc=1',
     note: ""
   },
   {
@@ -68,12 +68,6 @@ export const productos = [
     nombre: 'STAR WARS La colección Vintage - Juguete ARC Trooper',
     img: 'https://m.media-amazon.com/images/I/81txVzCPA-L._AC_SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/B09LVWTHDH/ref=ox_sc_saved_image_8?smid=AVDBXBAVVSXLQ&psc=1',
-    note: ""
-  },
-  {
-    nombre: 'GUARDIÁN DE NUEVA YORK Mediana',
-    img: 'https://cdn.shopify.com/s/files/1/2997/2714/products/16093_590x.jpg?v=1657117488',
-    buyLink: 'https://mascaradelatex.com/products/playera-para-hombre-guardian-de-nueva-york',
     note: ""
   },
   {
