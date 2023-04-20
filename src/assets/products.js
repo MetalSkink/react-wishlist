@@ -35,24 +35,30 @@ export const productos = [
     buyLink: 'https://tiendapanini.com.mx/hells-paradise-n13',
     note: ""
   },
-  // {
-  //     nombre: 'The Legend of Zelda: Tears of the Kingdom - Nintendo Switch',
-  //     img: 'https://m.media-amazon.com/images/I/710+L4ulGIL._AC_SL1500_.jpg',
-  //     buyLink: 'https://www.amazon.com.mx/Legend-Zelda-Breath-Sequel-Nintendo/dp/B096TKNZ4P/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2M6YY9ZJNA9CD&keywords=juegos+switch&qid=1681869399&sprefix=juegos+switch%2Caps%2C123&sr=8-1',
-  //     note: 'Este sale hasta el 12 de mayo'
-  // },
-  // {
-  //     nombre: 'New Super Mario Bros. U Deluxe - Nintendo Switch',
-  //     img: 'https://m.media-amazon.com/images/I/71Sv4dPnq7S._AC_SL1500_.jpg',
-  //     buyLink: 'https://www.amazon.com.mx/New-Super-Mario-Bros-Deluxe/dp/B09361WPHW/ref=sr_1_10?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2M6YY9ZJNA9CD&keywords=juegos+switch&qid=1681869447&sprefix=juegos+switch%2Caps%2C123&sr=8-10',
-  //     note: "Este estaria bonito para que jugaramos en pareja <3"
-  // },
-  // {
-  //   nombre: 'Batman by Paul Dini Omnibus',
-  //   img: 'https://m.media-amazon.com/images/I/91-KsoNZnUL.jpg',
-  //   buyLink: 'https://www.amazon.com.mx/gp/product/1779505515/ref=ox_sc_saved_image_4?smid=AVDBXBAVVSXLQ&psc=1',
-  //   note: "Este esta muy caro pero lo meti por si algun dia baja de precio"
-  // },
+  {
+      nombre: 'The Legend of Zelda: Tears of the Kingdom - Nintendo Switch',
+      img: 'https://m.media-amazon.com/images/I/710+L4ulGIL._AC_SL1500_.jpg',
+      buyLink: 'https://www.amazon.com.mx/Legend-Zelda-Breath-Sequel-Nintendo/dp/B096TKNZ4P/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2M6YY9ZJNA9CD&keywords=juegos+switch&qid=1681869399&sprefix=juegos+switch%2Caps%2C123&sr=8-1',
+      note: 'Este sale hasta el 12 de mayo se ve que va estar bien god'
+  },
+  {
+      nombre: 'New Super Mario Bros. U Deluxe - Nintendo Switch',
+      img: 'https://m.media-amazon.com/images/I/71Sv4dPnq7S._AC_SL1500_.jpg',
+      buyLink: 'https://www.amazon.com.mx/New-Super-Mario-Bros-Deluxe/dp/B09361WPHW/ref=sr_1_10?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2M6YY9ZJNA9CD&keywords=juegos+switch&qid=1681869447&sprefix=juegos+switch%2Caps%2C123&sr=8-10',
+      note: "Este estaria bonito para que jugaramos en pareja <3"
+  },
+  {
+    nombre: '',
+    img: '',
+    buyLink: '',
+    note: ''
+  },
+  {
+    nombre: 'Batman by Paul Dini Omnibus',
+    img: 'https://m.media-amazon.com/images/I/91-KsoNZnUL.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/1779505515/ref=ox_sc_saved_image_4?smid=AVDBXBAVVSXLQ&psc=1',
+    note: "Este esta muy caro pero lo meti por si algun dia baja de precio"
+  },
   // {
   //     nombre: '',
   //     img: '',
