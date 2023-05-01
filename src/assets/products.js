@@ -1,5 +1,29 @@
 export const productos = [
   {
+    nombre: 'Metroid Prime Remastered - Nintendo Switch',
+    img: 'https://m.media-amazon.com/images/I/71U0vFEudKL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/dp/B0BVST748H/?coliid=I1M3BIDS5TMTW3&colid=3CW9Y6HRWAB2Z&psc=1&ref_=lv_ov_lig_dp_it',
+    note: ''
+  },
+  {
+    nombre: 'The Legend of Zelda: Skyward Sword HD ',
+    img: 'https://m.media-amazon.com/images/I/81ty2Tz3OfS._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/dp/B092YJ62Y6/?coliid=I3U0UXT5BVEDNG&colid=3CW9Y6HRWAB2Z&psc=1&ref_=lv_ov_lig_dp_it',
+    note: ''
+  },
+  {
+    nombre: 'Metroid Dread',
+    img: 'https://http2.mlstatic.com/D_NQ_NP_619582-MLA47874649958_102021-O.webp',
+    buyLink: 'https://www.amazon.com.mx/dp/B098SL8LY9/?coliid=I25FKZFKCS6KC6&colid=3CW9Y6HRWAB2Z&psc=1&ref_=lv_ov_lig_dp_it',
+    note: ''
+  },
+  {
+    nombre: 'Estuche Rígido Negro para Nintendo Switch',
+    img: 'https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/663293109128.jpg',
+    buyLink: 'https://www.sanborns.com.mx/producto/118823/estuche-rigido-negro-para-nintendo-switch/',
+    note: 'Este es el que vimos en sanborns pero si encuentras otro igual esta bien'
+  },
+  {
     nombre: 'Dare Devil Visionarios Vol. 2',
     img: 'https://m.media-amazon.com/images/I/81Ntt1+LKmL.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/B0BD66JSFY/ref=ewc_pr_img_2?smid=A14DD64FVDITC8&psc=1',
@@ -9,12 +33,6 @@ export const productos = [
     nombre: 'Dare Devil Visionarios Vol. 3',
     img: 'https://m.media-amazon.com/images/I/81JQ+SnelBL.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/B0BN4Q8VVZ/ref=ewc_pr_img_3?smid=A14DD64FVDITC8&psc=1',
-    note: ""
-  },
-  {
-    nombre: 'NARUTO GOLD EDITION N.2',
-    img: 'https://tiendapanini.com.mx/media/catalog/product/q/n/qnago002_1200.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=240&canvas=240:300&dpr=1',
-    buyLink: 'https://tiendapanini.com.mx/naruto-gold-edition-n2',
     note: ""
   },
   {
@@ -34,24 +52,6 @@ export const productos = [
     img: 'https://tiendapanini.com.mx/media/catalog/product/q/h/qhepa013_1200.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=897&width=960&canvas=960:897&dpr=1%201x',
     buyLink: 'https://tiendapanini.com.mx/hells-paradise-n13',
     note: ""
-  },
-  {
-      nombre: 'The Legend of Zelda: Tears of the Kingdom - Nintendo Switch',
-      img: 'https://m.media-amazon.com/images/I/710+L4ulGIL._AC_SL1500_.jpg',
-      buyLink: 'https://www.amazon.com.mx/Legend-Zelda-Breath-Sequel-Nintendo/dp/B096TKNZ4P/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2M6YY9ZJNA9CD&keywords=juegos+switch&qid=1681869399&sprefix=juegos+switch%2Caps%2C123&sr=8-1',
-      note: 'Este sale hasta el 12 de mayo se ve que va estar bien god'
-  },
-  {
-      nombre: 'New Super Mario Bros. U Deluxe - Nintendo Switch',
-      img: 'https://m.media-amazon.com/images/I/71Sv4dPnq7S._AC_SL1500_.jpg',
-      buyLink: 'https://www.amazon.com.mx/New-Super-Mario-Bros-Deluxe/dp/B09361WPHW/ref=sr_1_10?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2M6YY9ZJNA9CD&keywords=juegos+switch&qid=1681869447&sprefix=juegos+switch%2Caps%2C123&sr=8-10',
-      note: "Este estaria bonito para que jugaramos en pareja <3"
-  },
-  {
-    nombre: '',
-    img: '',
-    buyLink: '',
-    note: ''
   },
   {
     nombre: 'Batman by Paul Dini Omnibus',
