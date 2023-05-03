@@ -24,6 +24,16 @@ export const productos = [
     note: 'Este es el que vimos en sanborns pero si encuentras otro igual esta bien'
   },
   {
+      nombre: 'ESTUCHE RIGIDO NINTENDO SWITCH OLED',
+      img: 'https://cdn.gameplanet.com/wp-content/uploads/2023/02/07195651/810050910989-estuche-hori-rigido-oled-1.jpg',
+      buyLink: 'https://gameplanet.com/producto/estuche-rigido-nintendo-switch-oled-nsw/'
+  },
+  {
+      nombre: 'Gomitas Texturizadas Grips Compatible Con Nintendo Switch (8 Unidades)',
+      img: 'https://m.media-amazon.com/images/I/41iE-U7HfnL._AC_SL1000_.jpg',
+      buyLink: 'https://www.amazon.com.mx/Nintendo-Gomitas-Texturizadas-Compatible-Unidades/dp/B073T7W9PY/ref=zg_bs_17715938011_sccl_4/137-9444642-6765259?psc=1'
+  },
+  {
     nombre: 'Dare Devil Visionarios Vol. 2',
     img: 'https://m.media-amazon.com/images/I/81Ntt1+LKmL.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/B0BD66JSFY/ref=ewc_pr_img_2?smid=A14DD64FVDITC8&psc=1',
