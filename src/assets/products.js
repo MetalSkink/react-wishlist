@@ -1,9 +1,21 @@
 export const productos = [
   {
-    nombre: 'Metroid Prime Remastered - Nintendo Switch',
-    img: 'https://m.media-amazon.com/images/I/71U0vFEudKL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/dp/B0BVST748H/?coliid=I1M3BIDS5TMTW3&colid=3CW9Y6HRWAB2Z&psc=1&ref_=lv_ov_lig_dp_it',
-    note: ''
+    nombre: 'Dare Devil Visionarios Vol. 2',
+    img: 'https://m.media-amazon.com/images/I/81Ntt1+LKmL.jpg',
+    buyLink: 'https://articulo.mercadolibre.com.mx/MLM-1499227337-daredevil-visionarios-frank-miller-volumen-2-marvel-deluxe-_JM#position=4&search_layout=grid&type=item&tracking_id=f6c076db-cee5-4758-bf8b-be1cd4093855',
+    note: ""
+  },
+  {
+    nombre: 'Dare Devil Visionarios Vol. 3',
+    img: 'https://m.media-amazon.com/images/I/81JQ+SnelBL.jpg',
+    buyLink: 'https://www.mercadolibre.com.mx/marvel-deluxe-daredevil-visionarios-frank-miller-volumen-3/p/MLM21385502?pdp_filters=seller_id:403517033#searchVariation=MLM21385502&position=2&search_layout=grid&type=product&tracking_id=f6c076db-cee5-4758-bf8b-be1cd4093855',
+    note: ""
+  },
+  {
+    nombre: 'The Legend of Zelda: Breath of the Wild ',
+    img: 'https://m.media-amazon.com/images/I/716IChJgUzS._AC_SL1200_.jpg',
+    buyLink: 'https://www.amazon.com.mx/dp/B086RCVVN6/?coliid=IYTTT2CB9ZIG6&colid=3CW9Y6HRWAB2Z&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it',
+    note: 'Todos los jeugos de switch cambian a diario de precio no conviene comprarlos si cuestan mas de 1100'
   },
   {
     nombre: 'The Legend of Zelda: Skyward Sword HD ',
@@ -32,18 +44,6 @@ export const productos = [
       nombre: 'Gomitas Texturizadas Grips Compatible Con Nintendo Switch (8 Unidades)',
       img: 'https://m.media-amazon.com/images/I/41iE-U7HfnL._AC_SL1000_.jpg',
       buyLink: 'https://www.amazon.com.mx/Nintendo-Gomitas-Texturizadas-Compatible-Unidades/dp/B073T7W9PY/ref=zg_bs_17715938011_sccl_4/137-9444642-6765259?psc=1'
-  },
-  {
-    nombre: 'Dare Devil Visionarios Vol. 2',
-    img: 'https://m.media-amazon.com/images/I/81Ntt1+LKmL.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/B0BD66JSFY/ref=ewc_pr_img_2?smid=A14DD64FVDITC8&psc=1',
-    note: ""
-  },
-  {
-    nombre: 'Dare Devil Visionarios Vol. 3',
-    img: 'https://m.media-amazon.com/images/I/81JQ+SnelBL.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/B0BN4Q8VVZ/ref=ewc_pr_img_3?smid=A14DD64FVDITC8&psc=1',
-    note: ""
   },
   {
     nombre: 'HELLS PARADISE N.11',
@@ -78,12 +78,12 @@ export const productos = [
     nombre: 'Invincible Compendium Volume 2',
     img: 'https://images-na.ssl-images-amazon.com/images/I/71sGkh+82DL.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/1607067722/ref=ox_sc_saved_title_9?smid=AVDBXBAVVSXLQ&psc=1',
-    note: ""
+    note: "Este justo ahorita esta en su mas bajo historico"
   },
   {
     nombre: 'STAR WARS La colección Vintage - Juguete ARC Trooper',
     img: 'https://m.media-amazon.com/images/I/81txVzCPA-L._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/B09LVWTHDH/ref=ox_sc_saved_image_8?smid=AVDBXBAVVSXLQ&psc=1',
+    buyLink: 'https://articulo.mercadolibre.com.mx/MLM-1397340182-figura-de-accion-star-wars-the-vintage-collection-4-_JM#position=11&search_layout=stack&type=item&tracking_id=b2ec254f-b112-481f-bbe3-6c6c3244a149',
     note: ""
   },
   {
