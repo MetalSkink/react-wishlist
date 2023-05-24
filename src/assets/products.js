@@ -11,12 +11,12 @@ export const productos = [
     buyLink: 'https://www.amazon.com.mx/Flashpoint-Anniversary-Omnibus-Geoff-Johns/dp/1779509774/ref=pd_bxgy_img_sccl_1/137-9444642-6765259?pd_rd_w=Ff8E9&content-id=amzn1.sym.073f9082-4467-4f70-939c-f1e02d32ade1&pf_rd_p=073f9082-4467-4f70-939c-f1e02d32ade1&pf_rd_r=2PG7EFBAEYY87PSVMKC6&pd_rd_wg=UVCDW&pd_rd_r=c907c1b3-cc2f-4cba-8f5d-28ab71465310&pd_rd_i=1779509774&psc=1',
     note: "Este si esta carito cuando lo agregue estaba en $1500 pero trae mas de 1500 paginas"
   },
-  {
-    nombre: 'Batman by Paul Dini Omnibus',
-    img: 'https://m.media-amazon.com/images/I/91-KsoNZnUL.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/1779505515/ref=ox_sc_saved_image_4?smid=AVDBXBAVVSXLQ&psc=1',
-    note: "Este esta muy caro pero lo meti por si algun dia baja de precio"
-  },
+  // {
+  //   nombre: 'Batman by Paul Dini Omnibus',
+  //   img: 'https://m.media-amazon.com/images/I/91-KsoNZnUL.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/gp/product/1779505515/ref=ox_sc_saved_image_4?smid=AVDBXBAVVSXLQ&psc=1',
+  //   note: "Este esta muy caro pero lo meti por si algun dia baja de precio"
+  // },
   {
     nombre: 'Batman by Grant Morrison Vol 3',
     img: 'https://m.media-amazon.com/images/I/91B34-ab2eL.jpg',
@@ -64,6 +64,21 @@ export const productos = [
   //     buyLink: 'https://www.amazon.com.mx/Nintendo-Gomitas-Texturizadas-Compatible-Unidades/dp/B073T7W9PY/ref=zg_bs_17715938011_sccl_4/137-9444642-6765259?psc=1'
   // },
   {
+      nombre: 'EL INMORTAL HULK VOL.03',
+      img: 'https://d14d9vp3wdof84.cloudfront.net/image/589816272436/image_of2ivd1dhl4a1akp9khq09225r/-S897-FWEBP',
+      buyLink: 'https://tiendapanini.com.mx/el-inmortal-hulk-vol03-de-12'
+  },
+  {
+      nombre: 'EL INMORTAL HULK VOL.04',
+      img: 'https://d14d9vp3wdof84.cloudfront.net/image/589816272436/image_tjntcoch2h4598657n05c9cj7h/-S897-FWEBP',
+      buyLink: 'https://tiendapanini.com.mx/el-inmortal-hulk-vol04-de-12'
+  },
+  {
+      nombre: 'NARUTO GOLD EDITION N.6',
+      img: 'https://d14d9vp3wdof84.cloudfront.net/image/589816272436/image_4eoicg899d60pcse2t84p8qp2k/-S897-FWEBP',
+      buyLink: 'https://tiendapanini.com.mx/naruto-gold-edition-n6'
+  },
+  {
     nombre: 'HELLS PARADISE N.11',
     img: 'https://tiendapanini.com.mx/media/catalog/product/q/h/qhepa011_1200.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=897&width=960&canvas=960:897&dpr=1%201x',
     buyLink: 'https://tiendapanini.com.mx/hells-paradise-n11',
@@ -81,11 +96,6 @@ export const productos = [
     buyLink: 'https://tiendapanini.com.mx/hells-paradise-n13',
     note: ""
   },
-  // {
-  //     nombre: '',
-  //     img: '',
-  //     buyLink: ''
-  // },
   {
     nombre: 'Invincible Compendium Volume 2',
     img: 'https://images-na.ssl-images-amazon.com/images/I/71sGkh+82DL.jpg',
