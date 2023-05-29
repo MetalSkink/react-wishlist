@@ -1,15 +1,9 @@
 export const productos = [
   {
-    nombre: 'Batman by Grant Morrison Vol 2',
-    img: 'https://m.media-amazon.com/images/I/91qib8BYH9L.jpg',
-    buyLink: 'https://www.amazon.com.mx/Batman-Grant-Morrison-Omnibus-Vol/dp/1401288839/ref=sr_1_15?keywords=batman+omnibus&qid=1684732583&s=books&sprefix=batman+om%2Cstripbooks%2C125&sr=1-15',
-    note: "Este esta a muy buen precio para ser un omnibus"
-  },
-  {
-    nombre: 'Flashpoint: The 10th Anniversary Omnibus',
-    img: 'https://m.media-amazon.com/images/I/A1BXZtRFkxS.jpg',
-    buyLink: 'https://www.amazon.com.mx/Flashpoint-Anniversary-Omnibus-Geoff-Johns/dp/1779509774/ref=pd_bxgy_img_sccl_1/137-9444642-6765259?pd_rd_w=Ff8E9&content-id=amzn1.sym.073f9082-4467-4f70-939c-f1e02d32ade1&pf_rd_p=073f9082-4467-4f70-939c-f1e02d32ade1&pf_rd_r=2PG7EFBAEYY87PSVMKC6&pd_rd_wg=UVCDW&pd_rd_r=c907c1b3-cc2f-4cba-8f5d-28ab71465310&pd_rd_i=1779509774&psc=1',
-    note: "Este si esta carito cuando lo agregue estaba en $1500 pero trae mas de 1500 paginas"
+    nombre: 'Gotham Central Omnibus',
+    img: 'https://m.media-amazon.com/images/I/91FWAFzkIlL.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/1779515634/ref=ox_sc_saved_image_2?smid=AVDBXBAVVSXLQ&psc=1',
+    note: ""
   },
   // {
   //   nombre: 'Batman by Paul Dini Omnibus',
@@ -18,15 +12,9 @@ export const productos = [
   //   note: "Este esta muy caro pero lo meti por si algun dia baja de precio"
   // },
   {
-    nombre: 'Batman by Grant Morrison Vol 3',
-    img: 'https://m.media-amazon.com/images/I/91B34-ab2eL.jpg',
-    buyLink: 'https://www.amazon.com.mx/Batman-Grant-Morrison-Omnibus-Vol/dp/1779502710/ref=sr_1_20?keywords=batman+omnibus&qid=1684732590&s=books&sprefix=batman+om%2Cstripbooks%2C125&sr=1-20',
-    note: ""
-  },
-  {
-    nombre: 'Dare Devil Visionarios Vol. 2',
-    img: 'https://m.media-amazon.com/images/I/81Ntt1+LKmL.jpg',
-    buyLink: 'https://articulo.mercadolibre.com.mx/MLM-1499227337-daredevil-visionarios-frank-miller-volumen-2-marvel-deluxe-_JM#position=4&search_layout=grid&type=item&tracking_id=f6c076db-cee5-4758-bf8b-be1cd4093855',
+    nombre: 'McFarlane Toys DC Multiverse The Dark Knight Return Batman',
+    img: 'https://m.media-amazon.com/images/I/61nhlBozr2L._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/B09BF32X81/ref=ox_sc_saved_image_3?smid=AVDBXBAVVSXLQ&psc=1',
     note: ""
   },
   {
