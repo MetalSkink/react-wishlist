@@ -1,10 +1,10 @@
 export const productos = [
-  {
-    nombre: 'Gotham Central Omnibus',
-    img: 'https://m.media-amazon.com/images/I/91FWAFzkIlL.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/1779515634/ref=ox_sc_saved_image_2?smid=AVDBXBAVVSXLQ&psc=1',
-    note: ""
-  },
+  // {
+  //   nombre: 'Gotham Central Omnibus',
+  //   img: 'https://m.media-amazon.com/images/I/91FWAFzkIlL.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/gp/product/1779515634/ref=ox_sc_saved_image_2?smid=AVDBXBAVVSXLQ&psc=1',
+  //   note: ""
+  // },
   // {
   //   nombre: 'Batman by Paul Dini Omnibus',
   //   img: 'https://m.media-amazon.com/images/I/91-KsoNZnUL.jpg',
@@ -62,9 +62,8 @@ export const productos = [
       buyLink: 'https://tiendapanini.com.mx/el-inmortal-hulk-vol04-de-12'
   },
   {
-      nombre: 'NARUTO GOLD EDITION N.6',
-      img: 'https://d14d9vp3wdof84.cloudfront.net/image/589816272436/image_4eoicg899d60pcse2t84p8qp2k/-S897-FWEBP',
-      buyLink: 'https://tiendapanini.com.mx/naruto-gold-edition-n6'
+    nombre: 'CHAINSAW MAN N.12',
+    img: 'https://d14d9vp3wdof84.cloudfront.net/image/589816272436/image_871qje5sph31pemon5s3cfu75a/-S897-FWEBP'
   },
   {
     nombre: 'HELLS PARADISE N.11',

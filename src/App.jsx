@@ -34,12 +34,15 @@ function App() {
                     <div className="m-3">
                       <img src={product.img} alt={product.nombre} />
                       <p>{product.note}</p>
-                      <a href={product.buyLink} target="_blank" rel="noreferrer">
-                        <button className='btn btn-primary ms-3 mt-3' >
-                          Visitar 
-                          <i className="fa-solid fa-shop ms-2"></i>
-                        </button>
-                      </a>
+                      {
+                        product.buyLink?.length > 0 && 
+                        <a href={product.buyLink} target="_blank" rel="noreferrer">
+                          <button className='btn btn-primary ms-3 mt-3' >
+                            Visitar 
+                            <i className="fa-solid fa-shop ms-2"></i>
+                          </button>
+                        </a>
+                      }
                     </div>
                   </div>
                 </div>
