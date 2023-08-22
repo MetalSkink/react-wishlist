@@ -1,10 +1,5 @@
 export const productos = [
   {
-    nombre: 'Lictin Álbum de Tarjetas',
-    img: 'https://m.media-amazon.com/images/I/71BktW+O8wL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Lictin-Cartas-Álbum-coleccionista-Transparente-Impermeable/dp/B09BQNKMZY?pd_rd_w=H3Pcp&content-id=amzn1.sym.fca6cf5d-be48-4c5f-8359-09308091e7b4&pf_rd_p=fca6cf5d-be48-4c5f-8359-09308091e7b4&pf_rd_r=RYXXEYK1FJN2JAT2JDK7&pd_rd_wg=rSRca&pd_rd_r=3520e84b-2cbd-42eb-9d57-961b378924cc&pd_rd_i=B08TWTXMQH&ref_=pd_bap_d_grid_rp_0_1_ec_ped_ld_i&th=1'
-  },
-  {
     nombre: 'Nintendo Switch Pro Controller the legend of zelda tears of the kingdom edition',
     img: 'https://http2.mlstatic.com/D_NQ_NP_849166-MLA69565737737_052023-O.webp',
     buyLink: 'https://www.mercadolibre.com.mx/control-joystick-inalambrico-nintendo-switch-pro-controller-the-legend-of-zelda-tears-of-the-kingdom-edition/p/MLM23407222#reco_item_pos=0&reco_backend=machinalis-homes-pdp-boos&reco_backend_type=function&reco_client=home_navigation-recommendations&reco_id=08aed3db-02ce-42b9-9d88-049a73786217',
@@ -16,22 +11,26 @@ export const productos = [
   //   note: ""
   // },
   {
+    nombre: 'Batman: Detective Comics 1000: The Deluxe Edition',
+    img: 'https://m.media-amazon.com/images/I/91GdEjgjPwL.jpg',
+    buyLink: 'https://www.amazon.com.mx/Detective-Comics-1000-Deluxe-Various/dp/1401294197/ref=sr_1_1?keywords=detective+comics+1000&qid=1692732668&sprefix=detective+comics%2Caps%2C114&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47'
+  },
+  {
     nombre: 'Gotham Central Omnibus',
     img: 'https://m.media-amazon.com/images/I/91FWAFzkIlL.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/1779515634/ref=ox_sc_saved_image_2?smid=AVDBXBAVVSXLQ&psc=1',
-    note: "Este en el prime day sale con 30% de descuento si compras 2 articulos de la promo, te puedes comprar un manguita con descuento queda en $1,136.16"
+    note: "Este anda a buen precio"
   },
   {
-    nombre: 'Invincible Compendium Volume 3',
-    img: 'https://m.media-amazon.com/images/P/B07CTYCLYP.01._SCLZZZZZZZ_SX500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Invincible-Compendium-3-Robert-Kirkman/dp/1534306862/ref=d_pd_sbs_sccl_2_1/135-6407278-7975323?pd_rd_w=IDgsi&content-id=amzn1.sym.bf51709a-d6bb-4474-b305-30d2f8a81b78&pf_rd_p=bf51709a-d6bb-4474-b305-30d2f8a81b78&pf_rd_r=AKNSBBT63SBB5WS8XJFP&pd_rd_wg=UdvVN&pd_rd_r=6bebac35-3ffb-422d-869e-4d3620432855&pd_rd_i=1534306862&psc=1',
-    note : 'ya me compre el 2 solo me falta este, tiene descuento directo si tienes prime'
+    nombre: 'Teenage Mutant Ninja Turtles: The Last Ronin ',
+    img: 'https://m.media-amazon.com/images/I/81kQlzqKP-L.jpg',
+    buyLink: 'https://www.amazon.com.mx/Teenage-Mutant-Ninja-Turtles-Ronin/dp/1684058414/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=2QGQFD61W4089&keywords=The+Last+Ronin&qid=1692425842&sprefix=the+last+ronin%2Caps%2C105&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
   },
   {
     nombre: 'JLA: The Tower of Babel',
     img: 'https://m.media-amazon.com/images/I/91WQUDdSckL._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/1779509510?smid=AVDBXBAVVSXLQ&psc=1',
-    note: "Este no es omni, es un pasta dura gringo y ya bajo otros 100 pesitos igual entra en la promo de 30% si llevas 2"
+    note: "Este no es omni, es un pasta dura gringo "
   },
   {
     nombre: 'Batman One Dark Knight',
@@ -40,16 +39,26 @@ export const productos = [
     note: "Este se ve muy bueno es igual un pasta dura gringo"
   },
   {
+    nombre: 'EL INMORTAL HULK VOL.06 (DE 12)',
+    img: 'https://m.media-amazon.com/images/I/71q+Eg2H9xL.jpg',
+    buyLink: 'https://www.amazon.com.mx/EL-INMORTAL-HULK-VOL-06-12/dp/6075781870/ref=sr_1_1?keywords=inmortal+hulk&qid=1692733233&sprefix=inmortal%2Caps%2C123&sr=8-1'
+  },
+  {
+    nombre: 'Cosmic Oddisey',
+    img: 'https://http2.mlstatic.com/D_NQ_NP_2X_762398-MLM49917575671_052022-F.webp',
+    buyLink: 'https://www.mercadolibre.com.mx/dc-comic-oddisey/p/MLM21609649#polycard_client=bookmarks'
+  },
+  {
     nombre: 'McFarlane Toys DC Multiverse The Dark Knight Return Batman',
     img: 'https://m.media-amazon.com/images/I/61nhlBozr2L._AC_SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/B09BF32X81/ref=ox_sc_saved_image_3?smid=AVDBXBAVVSXLQ&psc=1',
     note: ""
   },
   {
-    nombre: 'Dare Devil Visionarios Vol. 3',
-    img: 'https://m.media-amazon.com/images/I/81JQ+SnelBL.jpg',
-    buyLink: 'https://www.mercadolibre.com.mx/marvel-deluxe-daredevil-visionarios-frank-miller-volumen-3/p/MLM21385502?pdp_filters=seller_id:403517033#searchVariation=MLM21385502&position=2&search_layout=grid&type=product&tracking_id=f6c076db-cee5-4758-bf8b-be1cd4093855',
-    note: "Este tiene descuento directo en el prime day"
+    nombre: 'McFarlane Figura 7" Blue Beetle ',
+    img: 'https://m.media-amazon.com/images/I/71ACrtPstGL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/McFarlane-Figura-Blue-Beetle-Batalla/dp/B0CB4TYBC8/ref=sr_1_5?keywords=dc+multiverse+mcfarlane&qid=1692732118&s=toys&sprefix=dc+m%2Ctoys%2C156&sr=1-5&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
+    note: ""
   },
   // {
   //   nombre: 'The Legend of Zelda: Skyward Sword HD ',
@@ -58,26 +67,20 @@ export const productos = [
   //   note: 'Todos los juegos de switch cambian a diario de precio no conviene comprarlos si cuestan mas de 1100'
   // },
   {
-    nombre: 'Metroid Dread',
-    img: 'https://http2.mlstatic.com/D_NQ_NP_619582-MLA47874649958_102021-O.webp',
-    buyLink: 'https://www.amazon.com.mx/dp/B098SL8LY9/?coliid=I25FKZFKCS6KC6&colid=3CW9Y6HRWAB2Z&psc=1&ref_=lv_ov_lig_dp_it',
-    note: ''
-  },
-  {
     nombre: 'Estuche Rígido Negro para Nintendo Switch',
     img: 'https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/663293109128.jpg',
     buyLink: 'https://www.sanborns.com.mx/producto/118823/estuche-rigido-negro-para-nintendo-switch/',
     note: 'Este es el que vimos en sanborns pero si encuentras otro igual esta bien'
   },
   {
-      nombre: 'ESTUCHE RIGIDO NINTENDO SWITCH OLED',
-      img: 'https://cdn.gameplanet.com/wp-content/uploads/2023/02/07195651/810050910989-estuche-hori-rigido-oled-1.jpg',
-      buyLink: 'https://gameplanet.com/producto/estuche-rigido-nintendo-switch-oled-nsw/'
+    nombre: 'ESTUCHE RIGIDO NINTENDO SWITCH OLED',
+    img: 'https://cdn.gameplanet.com/wp-content/uploads/2023/02/07195651/810050910989-estuche-hori-rigido-oled-1.jpg',
+    buyLink: 'https://gameplanet.com/producto/estuche-rigido-nintendo-switch-oled-nsw/'
   },
   {
     nombre: 'CHAINSAW MAN N.12',
     img: 'https://d14d9vp3wdof84.cloudfront.net/image/589816272436/image_871qje5sph31pemon5s3cfu75a/-S897-FWEBP',
-    note: "Este lo encuentras en sanborns y todo julio tiene descuento"
+    note: "Este alomejor todavia lo encuentras en sanborns"
   },
   {
     nombre: 'STAR WARS La colección Vintage - Juguete ARC Trooper',
