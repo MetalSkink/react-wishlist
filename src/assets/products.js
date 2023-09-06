@@ -16,6 +16,12 @@ export const productos = [
     buyLink: 'https://www.amazon.com.mx/Detective-Comics-1000-Deluxe-Various/dp/1401294197/ref=sr_1_1?keywords=detective+comics+1000&qid=1692732668&sprefix=detective+comics%2Caps%2C114&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47'
   },
   {
+    nombre: 'Batman by Paul Dini Omnibus',
+    img: 'https://m.media-amazon.com/images/I/91-KsoNZnUL.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/1779505515/ref=ox_sc_saved_image_1?smid=AVDBXBAVVSXLQ&psc=1',
+    note: "Este aveces anda a buen precio"
+  },
+  {
     nombre: 'Gotham Central Omnibus',
     img: 'https://m.media-amazon.com/images/I/91FWAFzkIlL.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/1779515634/ref=ox_sc_saved_image_2?smid=AVDBXBAVVSXLQ&psc=1',
