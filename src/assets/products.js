@@ -49,21 +49,15 @@ export const productos = [
     img: 'https://m.media-amazon.com/images/I/71q+Eg2H9xL.jpg',
     buyLink: 'https://www.amazon.com.mx/EL-INMORTAL-HULK-VOL-06-12/dp/6075781870/ref=sr_1_1?keywords=inmortal+hulk&qid=1692733233&sprefix=inmortal%2Caps%2C123&sr=8-1'
   },
-  {
-    nombre: 'Cosmic Oddisey',
-    img: 'https://http2.mlstatic.com/D_NQ_NP_2X_762398-MLM49917575671_052022-F.webp',
-    buyLink: 'https://www.mercadolibre.com.mx/dc-comic-oddisey/p/MLM21609649#polycard_client=bookmarks'
-  },
+  // {
+  //   nombre: 'Cosmic Oddisey',
+  //   img: 'https://http2.mlstatic.com/D_NQ_NP_2X_762398-MLM49917575671_052022-F.webp',
+  //   buyLink: 'https://www.mercadolibre.com.mx/dc-comic-oddisey/p/MLM21609649#polycard_client=bookmarks'
+  // },
   {
     nombre: 'McFarlane Toys DC Multiverse The Dark Knight Return Batman',
     img: 'https://m.media-amazon.com/images/I/61nhlBozr2L._AC_SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/B09BF32X81/ref=ox_sc_saved_image_3?smid=AVDBXBAVVSXLQ&psc=1',
-    note: ""
-  },
-  {
-    nombre: 'McFarlane Figura 7" Blue Beetle ',
-    img: 'https://m.media-amazon.com/images/I/71ACrtPstGL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/McFarlane-Figura-Blue-Beetle-Batalla/dp/B0CB4TYBC8/ref=sr_1_5?keywords=dc+multiverse+mcfarlane&qid=1692732118&s=toys&sprefix=dc+m%2Ctoys%2C156&sr=1-5&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
     note: ""
   },
   // {
