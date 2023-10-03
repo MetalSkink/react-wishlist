@@ -1,9 +1,9 @@
 export const productos = [
-  {
-    nombre: 'Nintendo Switch Pro Controller the legend of zelda tears of the kingdom edition',
-    img: 'https://http2.mlstatic.com/D_NQ_NP_849166-MLA69565737737_052023-O.webp',
-    buyLink: 'https://www.mercadolibre.com.mx/control-joystick-inalambrico-nintendo-switch-pro-controller-the-legend-of-zelda-tears-of-the-kingdom-edition/p/MLM23407222#reco_item_pos=0&reco_backend=machinalis-homes-pdp-boos&reco_backend_type=function&reco_client=home_navigation-recommendations&reco_id=08aed3db-02ce-42b9-9d88-049a73786217',
-  },
+  // {
+  //   nombre: 'Nintendo Switch Pro Controller the legend of zelda tears of the kingdom edition',
+  //   img: 'https://http2.mlstatic.com/D_NQ_NP_849166-MLA69565737737_052023-O.webp',
+  //   buyLink: 'https://www.mercadolibre.com.mx/control-joystick-inalambrico-nintendo-switch-pro-controller-the-legend-of-zelda-tears-of-the-kingdom-edition/p/MLM23407222#reco_item_pos=0&reco_backend=machinalis-homes-pdp-boos&reco_backend_type=function&reco_client=home_navigation-recommendations&reco_id=08aed3db-02ce-42b9-9d88-049a73786217',
+  // },
   // {
   //   nombre: 'NEW X-MEN OMNIBUS',
   //   img: 'https://m.media-amazon.com/images/I/91TljmVHfuL._SL1500_.jpg',
@@ -28,8 +28,14 @@ export const productos = [
   {
     nombre: 'Batman by Paul Dini Omnibus',
     img: 'https://m.media-amazon.com/images/I/91-KsoNZnUL.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/1779505515/ref=ox_sc_saved_image_1?smid=AVDBXBAVVSXLQ&psc=1',
-    note: "Este aveces anda a buen precio"
+    buyLink: 'https://www.amazon.com.mx/gp/product/1779505515/ref=ox_sc_saved_title_9?smid=A3KP3XLKQCJA4J&psc=1',
+    note: "Este esta a buen precio pero lo tienes que pedir con prime para que no cobren envio"
+  },
+  {
+    nombre: 'Flash omnibus',
+    img: 'https://m.media-amazon.com/images/I/81z6GJfR2PS._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/1779513453/ref=ewc_pr_img_1?smid=A3KP3XLKQCJA4J&psc=1',
+    note: "Este esta a buen precio pero lo tienes que pedir con prime para que no cobren envio"
   },
   {
     nombre: 'Gotham Central Omnibus',
