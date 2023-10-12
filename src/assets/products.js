@@ -26,12 +26,6 @@ export const productos = [
     buyLink: 'https://www.amazon.com.mx/Detective-Comics-1000-Deluxe-Various/dp/1401294197/ref=sr_1_1?keywords=detective+comics+1000&qid=1692732668&sprefix=detective+comics%2Caps%2C114&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47'
   },
   {
-    nombre: 'Batman by Paul Dini Omnibus',
-    img: 'https://m.media-amazon.com/images/I/91-KsoNZnUL.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/1779505515/ref=ox_sc_saved_title_9?smid=A3KP3XLKQCJA4J&psc=1',
-    note: "Este esta a buen precio pero lo tienes que pedir con prime para que no cobren envio"
-  },
-  {
     nombre: 'Flash omnibus',
     img: 'https://m.media-amazon.com/images/I/81z6GJfR2PS._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/1779513453/ref=ewc_pr_img_1?smid=A3KP3XLKQCJA4J&psc=1',
@@ -43,11 +37,11 @@ export const productos = [
     buyLink: 'https://www.amazon.com.mx/gp/product/1779515634/ref=ox_sc_saved_image_2?smid=AVDBXBAVVSXLQ&psc=1',
     note: "Este anda a buen precio"
   },
-  // {
-  //   nombre: 'Teenage Mutant Ninja Turtles: The Last Ronin ',
-  //   img: 'https://m.media-amazon.com/images/I/81kQlzqKP-L.jpg',
-  //   buyLink: 'https://www.amazon.com.mx/Teenage-Mutant-Ninja-Turtles-Ronin/dp/1684058414/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=2QGQFD61W4089&keywords=The+Last+Ronin&qid=1692425842&sprefix=the+last+ronin%2Caps%2C105&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
-  // },
+  {
+    nombre: 'Teenage Mutant Ninja Turtles: The Last Ronin ',
+    img: 'https://m.media-amazon.com/images/I/81kQlzqKP-L.jpg',
+    buyLink: 'https://www.amazon.com.mx/Teenage-Mutant-Ninja-Turtles-Ronin/dp/1684058414/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=2QGQFD61W4089&keywords=The+Last+Ronin&qid=1692425842&sprefix=the+last+ronin%2Caps%2C105&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
+  },
   // {
   //   nombre: 'JLA: The Tower of Babel',
   //   img: 'https://m.media-amazon.com/images/I/91WQUDdSckL._SL1500_.jpg',
