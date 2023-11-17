@@ -2,7 +2,8 @@ export const productos = [
   {
     nombre: 'The Animal Man Omnibus',
     img: 'https://m.media-amazon.com/images/I/91J8WYbB0OL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/1779516320/ref=ox_sc_saved_image_5?smid=AVDBXBAVVSXLQ&psc=1'
+    buyLink: 'https://www.amazon.com.mx/gp/product/1779516320/ref=ox_sc_saved_image_5?smid=AVDBXBAVVSXLQ&psc=1',
+    note: 'Este anda a buen precio ahorita en el bien fin 1200'
   },
   {
     nombre: 'Gotham Central Omnibus',
@@ -19,11 +20,13 @@ export const productos = [
     nombre: 'Absolute Batman Year One',
     img: 'https://m.media-amazon.com/images/I/71rrMoha4gL._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/1401243797/ref=ox_sc_saved_image_2?smid=AVDBXBAVVSXLQ&psc=1',
+    note: 'Este en vez de bajar subio espero que baje en unos 1400 almenos'
   },
   {
-    nombre: 'Absolute Swamp Thing by Alan Moore Vol. 2',
-    img: 'https://m.media-amazon.com/images/I/914E19HGW4L._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Absolute-Swamp-Thing-Alan-Moore/dp/1779502826/ref=sr_1_4?__mk_es_MX=ÅMÅŽÕÑ&crid=3IT74646O3JMD&keywords=swamp+thing+absolute&qid=1699815970&sprefix=swamp+thing+absolute%2Caps%2C106&sr=8-4&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47'
+    nombre: 'Absolute Swamp Thing by Alan Moore Vol. 3',
+    img: 'https://m.media-amazon.com/images/I/8103OWgsF-L._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/1779512198/ref=ox_sc_saved_image_1?smid=AVDBXBAVVSXLQ&psc=1',
+    note: 'Este anda en descuento a 1200'
   },
   {
     nombre: 'Batman: Detective Comics 1000: The Deluxe Edition',
@@ -36,16 +39,17 @@ export const productos = [
     buyLink: 'https://www.amazon.com.mx/Batman-One-Dark-Knight-Jock/dp/1779510284/ref=d_pd_sbs_sccl_2_2/137-9444642-6765259?pd_rd_w=bosYo&content-id=amzn1.sym.bf51709a-d6bb-4474-b305-30d2f8a81b78&pf_rd_p=bf51709a-d6bb-4474-b305-30d2f8a81b78&pf_rd_r=J9GPAV93F1SB1SVPAAH7&pd_rd_wg=wLpzz&pd_rd_r=2495d038-e053-4441-9fc4-07bd5bdcbed6&pd_rd_i=1779510284&psc=1',
     note: "Este se ve muy bueno es igual un pasta dura gringo"
   },
+  // {
+  //   nombre: 'JLA: The Tower of Babel',
+  //   img: 'https://m.media-amazon.com/images/I/91WQUDdSckL._SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/gp/product/1779509510?smid=AVDBXBAVVSXLQ&psc=1',
+  //   note: "Este no es omni, es un pasta dura gringo "
+  // },
   {
-    nombre: 'Teenage Mutant Ninja Turtles: The Last Ronin ',
-    img: 'https://m.media-amazon.com/images/I/81kQlzqKP-L.jpg',
-    buyLink: 'https://www.amazon.com.mx/Teenage-Mutant-Ninja-Turtles-Ronin/dp/1684058414/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=2QGQFD61W4089&keywords=The+Last+Ronin&qid=1692425842&sprefix=the+last+ronin%2Caps%2C105&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
-  },
-  {
-    nombre: 'JLA: The Tower of Babel',
-    img: 'https://m.media-amazon.com/images/I/91WQUDdSckL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/1779509510?smid=AVDBXBAVVSXLQ&psc=1',
-    note: "Este no es omni, es un pasta dura gringo "
+    nombre: 'Estuche Rígido Negro para Nintendo Switch',
+    img: 'https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/663293109128.jpg',
+    buyLink: 'https://www.sanborns.com.mx/producto/118823/estuche-rigido-negro-para-nintendo-switch/',
+    note: 'Este es el que vimos en sanborns pero si encuentras otro igual esta bien'
   },
   {
     nombre: 'McFarlane Megafigura de Accion DC Multiverse Clayface',
@@ -67,12 +71,6 @@ export const productos = [
     img: 'https://m.media-amazon.com/images/I/61nhlBozr2L._AC_SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/B09BF32X81/ref=ox_sc_saved_image_3?smid=AVDBXBAVVSXLQ&psc=1',
     note: ""
-  },
-  {
-    nombre: 'Estuche Rígido Negro para Nintendo Switch',
-    img: 'https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/663293109128.jpg',
-    buyLink: 'https://www.sanborns.com.mx/producto/118823/estuche-rigido-negro-para-nintendo-switch/',
-    note: 'Este es el que vimos en sanborns pero si encuentras otro igual esta bien'
   },
   {
     nombre: 'STAR WARS La colección Vintage - Juguete ARC Trooper',
