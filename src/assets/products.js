@@ -1,5 +1,26 @@
 export const productos = [
   {
+    nombre: 'Batman Abyss',
+    img: 'https://m.media-amazon.com/images/I/91M4d8Org0L._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/1779516568/ref=ox_sc_act_title_3?smid=AVDBXBAVVSXLQ&psc=1',
+    note: 'Estos tomos son super economicos'
+  },
+  {
+    nombre: 'Batman 2: The Joker War ',
+    img: 'https://m.media-amazon.com/images/I/914uEW3aq6L._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/dp/1779514557?m=AVDBXBAVVSXLQ&ref=psp_pc_a_A2Z33RKBYXGPGC',
+  },
+  {
+    nombre: 'Batman/Superman 1: Worlds Finest ',
+    img: 'https://m.media-amazon.com/images/I/91P2jjG-VhL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Batman-Superman-1-Worlds-Finest/dp/1779518404/ref=sr_1_2?crid=28IGVMA69UC03&keywords=world+finest+dan+mora&qid=1700506902&s=books&sprefix=world+fines%2Cstripbooks%2C139&sr=1-2&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
+  },
+  {
+    nombre: 'Batman/Superman: Worlds Finest 2; Strange Visitor',
+    img: 'https://m.media-amazon.com/images/I/91T7kDMSkSL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Batman-Superman-Worlds-Strange-Visitor/dp/1779520484/ref=sr_1_3?crid=28IGVMA69UC03&keywords=world+finest+dan+mora&qid=1700506947&s=books&sprefix=world+fines%2Cstripbooks%2C139&sr=1-3&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47'
+  },
+  {
     nombre: 'The Animal Man Omnibus',
     img: 'https://m.media-amazon.com/images/I/91J8WYbB0OL._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/1779516320/ref=ox_sc_saved_image_5?smid=AVDBXBAVVSXLQ&psc=1',
@@ -23,12 +44,6 @@ export const productos = [
     note: 'Este en vez de bajar subio espero que baje en unos 1400 almenos'
   },
   {
-    nombre: 'Absolute Swamp Thing by Alan Moore Vol. 3',
-    img: 'https://m.media-amazon.com/images/I/8103OWgsF-L._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/1779512198/ref=ox_sc_saved_image_1?smid=AVDBXBAVVSXLQ&psc=1',
-    note: 'Este anda en descuento a 1200'
-  },
-  {
     nombre: 'Batman: Detective Comics 1000: The Deluxe Edition',
     img: 'https://m.media-amazon.com/images/I/91GdEjgjPwL.jpg',
     buyLink: 'https://www.amazon.com.mx/Detective-Comics-1000-Deluxe-Various/dp/1401294197/ref=sr_1_1?keywords=detective+comics+1000&qid=1692732668&sprefix=detective+comics%2Caps%2C114&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47'
@@ -38,6 +53,11 @@ export const productos = [
     img: 'https://m.media-amazon.com/images/I/81Jh-vB2TUL._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/Batman-One-Dark-Knight-Jock/dp/1779510284/ref=d_pd_sbs_sccl_2_2/137-9444642-6765259?pd_rd_w=bosYo&content-id=amzn1.sym.bf51709a-d6bb-4474-b305-30d2f8a81b78&pf_rd_p=bf51709a-d6bb-4474-b305-30d2f8a81b78&pf_rd_r=J9GPAV93F1SB1SVPAAH7&pd_rd_wg=wLpzz&pd_rd_r=2495d038-e053-4441-9fc4-07bd5bdcbed6&pd_rd_i=1779510284&psc=1',
     note: "Este se ve muy bueno es igual un pasta dura gringo"
+  },
+  {
+    nombre: 'Justice Deluxe edition',
+    img: 'https://m.media-amazon.com/images/I/91OFMZdGs7L._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Justice-Deluxe-Jim-Krueger/dp/1401293433/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1700507156&sr=8-66'
   },
   // {
   //   nombre: 'JLA: The Tower of Babel',
