@@ -6,37 +6,55 @@ export const productos = [
     note: 'Estos tomos son super economicos'
   },
   {
-    nombre: 'Batman 2: The Joker War ',
-    img: 'https://m.media-amazon.com/images/I/914uEW3aq6L._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/dp/1779514557?m=AVDBXBAVVSXLQ&ref=psp_pc_a_A2Z33RKBYXGPGC',
+    nombre: 'The Joker War Saga',
+    img: 'https://m.media-amazon.com/images/I/816GWqtjxWL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Joker-War-Saga-James-Tynion/dp/1779511795/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=R7WUAMQ7H5OI&keywords=joker+war+sAGA&qid=1700987146&s=books&sprefix=joker+war+saga%2Cstripbooks%2C98&sr=1-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
+  },
+  {
+    nombre: 'Batman: One Bad Day: Ras Al Ghul ',
+    img: 'https://m.media-amazon.com/images/I/91tTbmwCenL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Batman-One-Bad-Day-Ghul/dp/1779520611/ref=sr_1_5?__mk_es_MX=ÅMÅŽÕÑ&crid=3DCIVISB8MEQE&keywords=Batman+-+One+Bad+Day%3A+The+Riddler&qid=1700986939&s=books&sprefix=batman+-+one+bad+day+the+riddler%2Cstripbooks%2C114&sr=1-5&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
+    note: 'Este si ocupas prime para el envio gratis'
+  },
+  {
+    nombre: 'Batman: One Bad Day: Bane ',
+    img: 'https://m.media-amazon.com/images/I/A1RAV3DcfCL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/1779520352/ref=ewc_pr_img_1?smid=A1G99GVHAT2WD8&psc=1',
+    note: 'Este si ocupas prime para el envio gratis'
   },
   {
     nombre: 'Batman/Superman 1: Worlds Finest ',
     img: 'https://m.media-amazon.com/images/I/91P2jjG-VhL._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/Batman-Superman-1-Worlds-Finest/dp/1779518404/ref=sr_1_2?crid=28IGVMA69UC03&keywords=world+finest+dan+mora&qid=1700506902&s=books&sprefix=world+fines%2Cstripbooks%2C139&sr=1-2&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
   },
+  // {
+  //   nombre: 'Batman/Superman: Worlds Finest 2; Strange Visitor',
+  //   img: 'https://m.media-amazon.com/images/I/91T7kDMSkSL._SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/Batman-Superman-Worlds-Strange-Visitor/dp/1779520484/ref=sr_1_3?crid=28IGVMA69UC03&keywords=world+finest+dan+mora&qid=1700506947&s=books&sprefix=world+fines%2Cstripbooks%2C139&sr=1-3&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47'
+  // },
   {
-    nombre: 'Batman/Superman: Worlds Finest 2; Strange Visitor',
-    img: 'https://m.media-amazon.com/images/I/91T7kDMSkSL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Batman-Superman-Worlds-Strange-Visitor/dp/1779520484/ref=sr_1_3?crid=28IGVMA69UC03&keywords=world+finest+dan+mora&qid=1700506947&s=books&sprefix=world+fines%2Cstripbooks%2C139&sr=1-3&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47'
+    nombre: 'Batman: The Rise and Fall of the Batmen Omnibus',
+    img: 'https://m.media-amazon.com/images/I/91Y04YK77lL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/1779506651/ref=ox_sc_saved_image_4?smid=AVDBXBAVVSXLQ&psc=1',
+    note: 'Este ahorita bajo a 1213 esta en su minimo historico'
   },
-  {
-    nombre: 'The Animal Man Omnibus',
-    img: 'https://m.media-amazon.com/images/I/91J8WYbB0OL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/1779516320/ref=ox_sc_saved_image_5?smid=AVDBXBAVVSXLQ&psc=1',
-    note: 'Este anda a buen precio ahorita en el bien fin 1200'
-  },
+  // {
+  //   nombre: 'The Animal Man Omnibus',
+  //   img: 'https://m.media-amazon.com/images/I/91J8WYbB0OL._SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/gp/product/1779516320/ref=ox_sc_saved_image_5?smid=AVDBXBAVVSXLQ&psc=1',
+  //   note: 'Este anda a buen precio ahorita en el bien fin 1200'
+  // },
   {
     nombre: 'Gotham Central Omnibus',
     img: 'https://m.media-amazon.com/images/I/91FWAFzkIlL.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/1779515634/ref=ox_sc_saved_image_2?smid=AVDBXBAVVSXLQ&psc=1'
   },
-  {
-    nombre: 'Absolute Batman: The Court of Owls 2023 Edition',
-    img: 'https://m.media-amazon.com/images/I/71oLuSmb6gL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Absolute-Batman-Court-Owls-2023/dp/1779523319/ref=sr_1_2?__mk_es_MX=ÅMÅŽÕÑ&crid=2CJ2007GTNW0X&keywords=absolute+dc&qid=1699816653&sprefix=absolute+dc%2Caps%2C109&sr=8-2&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
-    note: 'Este acaba de salir y anda bien caro pero espero que para navidad ya baje a 1500 minimo'
-  },
+  // {
+  //   nombre: 'Absolute Batman: The Court of Owls 2023 Edition',
+  //   img: 'https://m.media-amazon.com/images/I/71oLuSmb6gL._SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/Absolute-Batman-Court-Owls-2023/dp/1779523319/ref=sr_1_2?__mk_es_MX=ÅMÅŽÕÑ&crid=2CJ2007GTNW0X&keywords=absolute+dc&qid=1699816653&sprefix=absolute+dc%2Caps%2C109&sr=8-2&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
+  //   note: 'Este acaba de salir y anda bien caro pero espero que para navidad ya baje a 1500 minimo'
+  // },
   {
     nombre: 'Absolute Batman Year One',
     img: 'https://m.media-amazon.com/images/I/71rrMoha4gL._SL1500_.jpg',
