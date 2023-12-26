@@ -32,40 +32,24 @@ export const productos = [
   //   img: 'https://m.media-amazon.com/images/I/91T7kDMSkSL._SL1500_.jpg',
   //   buyLink: 'https://www.amazon.com.mx/Batman-Superman-Worlds-Strange-Visitor/dp/1779520484/ref=sr_1_3?crid=28IGVMA69UC03&keywords=world+finest+dan+mora&qid=1700506947&s=books&sprefix=world+fines%2Cstripbooks%2C139&sr=1-3&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47'
   // },
-  {
-    nombre: 'Batman: The Rise and Fall of the Batmen Omnibus',
-    img: 'https://m.media-amazon.com/images/I/91Y04YK77lL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/1779506651/ref=ox_sc_saved_image_4?smid=AVDBXBAVVSXLQ&psc=1',
-    note: 'Este ahorita bajo a 1213 esta en su minimo historico'
-  },
+  // {
+  //   nombre: 'Batman: The Rise and Fall of the Batmen Omnibus',
+  //   img: 'https://m.media-amazon.com/images/I/91Y04YK77lL._SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/gp/product/1779506651/ref=ox_sc_saved_image_4?smid=AVDBXBAVVSXLQ&psc=1',
+  //   note: 'Este ahorita bajo a 1213 esta en su minimo historico'
+  // },
   // {
   //   nombre: 'The Animal Man Omnibus',
   //   img: 'https://m.media-amazon.com/images/I/91J8WYbB0OL._SL1500_.jpg',
   //   buyLink: 'https://www.amazon.com.mx/gp/product/1779516320/ref=ox_sc_saved_image_5?smid=AVDBXBAVVSXLQ&psc=1',
   //   note: 'Este anda a buen precio ahorita en el bien fin 1200'
   // },
-  {
-    nombre: 'Gotham Central Omnibus',
-    img: 'https://m.media-amazon.com/images/I/91FWAFzkIlL.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/1779515634/ref=ox_sc_saved_image_2?smid=AVDBXBAVVSXLQ&psc=1'
-  },
   // {
   //   nombre: 'Absolute Batman: The Court of Owls 2023 Edition',
   //   img: 'https://m.media-amazon.com/images/I/71oLuSmb6gL._SL1500_.jpg',
   //   buyLink: 'https://www.amazon.com.mx/Absolute-Batman-Court-Owls-2023/dp/1779523319/ref=sr_1_2?__mk_es_MX=ÅMÅŽÕÑ&crid=2CJ2007GTNW0X&keywords=absolute+dc&qid=1699816653&sprefix=absolute+dc%2Caps%2C109&sr=8-2&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
   //   note: 'Este acaba de salir y anda bien caro pero espero que para navidad ya baje a 1500 minimo'
   // },
-  {
-    nombre: 'Absolute Batman Year One',
-    img: 'https://m.media-amazon.com/images/I/71rrMoha4gL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/1401243797/ref=ox_sc_saved_image_2?smid=AVDBXBAVVSXLQ&psc=1',
-    note: 'Este en vez de bajar subio espero que baje en unos 1400 almenos'
-  },
-  {
-    nombre: 'Batman: Detective Comics 1000: The Deluxe Edition',
-    img: 'https://m.media-amazon.com/images/I/91GdEjgjPwL.jpg',
-    buyLink: 'https://www.amazon.com.mx/Detective-Comics-1000-Deluxe-Various/dp/1401294197/ref=sr_1_1?keywords=detective+comics+1000&qid=1692732668&sprefix=detective+comics%2Caps%2C114&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47'
-  },
   {
     nombre: 'Batman One Dark Knight',
     img: 'https://m.media-amazon.com/images/I/81Jh-vB2TUL._SL1500_.jpg',
@@ -77,12 +61,12 @@ export const productos = [
     img: 'https://m.media-amazon.com/images/I/91OFMZdGs7L._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/Justice-Deluxe-Jim-Krueger/dp/1401293433/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1700507156&sr=8-66'
   },
-  // {
-  //   nombre: 'JLA: The Tower of Babel',
-  //   img: 'https://m.media-amazon.com/images/I/91WQUDdSckL._SL1500_.jpg',
-  //   buyLink: 'https://www.amazon.com.mx/gp/product/1779509510?smid=AVDBXBAVVSXLQ&psc=1',
-  //   note: "Este no es omni, es un pasta dura gringo "
-  // },
+  {
+    nombre: 'JLA: The Tower of Babel',
+    img: 'https://m.media-amazon.com/images/I/91WQUDdSckL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/1779509510?smid=AVDBXBAVVSXLQ&psc=1',
+    note: ""
+  },
   {
     nombre: 'Estuche Rígido Negro para Nintendo Switch',
     img: 'https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/663293109128.jpg',
@@ -98,11 +82,6 @@ export const productos = [
     nombre: 'McFarlane Toys DC Multiverse Man-Bat, 9" - 1 Unidad',
     img: 'https://m.media-amazon.com/images/I/81uF0Qf1NxL._AC_SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/B09SYS41SK/ref=ox_sc_saved_image_14?smid=AVDBXBAVVSXLQ&psc=1'
-  },
-  {
-    nombre: 'Scarecrow mcfarlane',
-    img: 'https://m.media-amazon.com/images/I/81RZucRTUoL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/McFarlane-Gaming-Figures-Wave-Scarecrow/dp/B09V6PJYGC/ref=sr_1_6?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3OB4QPGFUDX07&keywords=batman+scarecrow+mcfarlane&qid=1695687055&sprefix=batman+scarecrow+mcfarlane%2Caps%2C104&sr=8-6&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47'
   },
   {
     nombre: 'McFarlane Toys DC Multiverse The Dark Knight Return Batman',

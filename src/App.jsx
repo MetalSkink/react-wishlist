@@ -2,6 +2,7 @@ import Particles from "react-tsparticles";
 import { loadFull } from "tsparticles";
 import './App.css'
 import { productos } from './assets/products'
+import { productosYugi } from './assets/productsYugi'
 import { options } from './assets/options';
 
 function App() {
