@@ -1,31 +1,38 @@
 export const productos = [
+  // {
+  //   nombre: 'Batman/Superman 1: Worlds Finest ',
+  //   img: 'https://m.media-amazon.com/images/I/91P2jjG-VhL._SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/Batman-Superman-1-Worlds-Finest/dp/1779518404/ref=sr_1_2?crid=28IGVMA69UC03&keywords=world+finest+dan+mora&qid=1700506902&s=books&sprefix=world+fines%2Cstripbooks%2C139&sr=1-2&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
+  // },
   {
-    nombre: 'Batman Abyss',
-    img: 'https://m.media-amazon.com/images/I/91M4d8Org0L._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/1779516568/ref=ox_sc_act_title_3?smid=AVDBXBAVVSXLQ&psc=1',
-    note: 'Estos tomos son super economicos'
+    nombre: 'BLUE LOCK Nº 09',
+    img: 'https://m.media-amazon.com/images/I/81jmFVivsUL._SL1500_.jpg',
+    note: "Estan todos en el sanborns o en amazon"
   },
   {
-    nombre: 'The Joker War Saga',
-    img: 'https://m.media-amazon.com/images/I/816GWqtjxWL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Joker-War-Saga-James-Tynion/dp/1779511795/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=R7WUAMQ7H5OI&keywords=joker+war+sAGA&qid=1700987146&s=books&sprefix=joker+war+saga%2Cstripbooks%2C98&sr=1-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
+    nombre: 'BLUE LOCK Nº 10',
+    img: 'https://m.media-amazon.com/images/I/81F0NEQ1n8L._SL1500_.jpg',
   },
   {
-    nombre: 'Batman: One Bad Day: Ras Al Ghul ',
-    img: 'https://m.media-amazon.com/images/I/91tTbmwCenL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Batman-One-Bad-Day-Ghul/dp/1779520611/ref=sr_1_5?__mk_es_MX=ÅMÅŽÕÑ&crid=3DCIVISB8MEQE&keywords=Batman+-+One+Bad+Day%3A+The+Riddler&qid=1700986939&s=books&sprefix=batman+-+one+bad+day+the+riddler%2Cstripbooks%2C114&sr=1-5&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
-    note: 'Este si ocupas prime para el envio gratis'
+    nombre: 'BLUE LOCK Nº 11',
+    img: 'https://m.media-amazon.com/images/I/8132evUzuRL._SL1500_.jpg',
   },
   {
-    nombre: 'Batman: One Bad Day: Bane ',
-    img: 'https://m.media-amazon.com/images/I/A1RAV3DcfCL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/1779520352/ref=ewc_pr_img_1?smid=A1G99GVHAT2WD8&psc=1',
-    note: 'Este si ocupas prime para el envio gratis'
+    nombre: 'BLUE LOCK Nº 12',
+    img: 'https://m.media-amazon.com/images/I/917kAhkgmyL._SL1500_.jpg',
   },
   {
-    nombre: 'Batman/Superman 1: Worlds Finest ',
-    img: 'https://m.media-amazon.com/images/I/91P2jjG-VhL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Batman-Superman-1-Worlds-Finest/dp/1779518404/ref=sr_1_2?crid=28IGVMA69UC03&keywords=world+finest+dan+mora&qid=1700506902&s=books&sprefix=world+fines%2Cstripbooks%2C139&sr=1-2&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
+    nombre: 'BLUE LOCK Nº 13',
+    img: 'https://m.media-amazon.com/images/I/81V6K81AjaL._SL1500_.jpg',
+  },
+  {
+    nombre: 'BLUE LOCK Nº 14',
+    img: 'https://m.media-amazon.com/images/I/81difrzL9YL._SL1500_.jpg',
+  },
+  {
+    nombre: 'Batman/Catwoman',
+    img: 'https://m.media-amazon.com/images/I/81QSirgdonL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/1779517076/ref=ox_sc_saved_image_4?smid=AVDBXBAVVSXLQ&psc=1',
   },
   // {
   //   nombre: 'Batman/Superman: Worlds Finest 2; Strange Visitor',
@@ -62,22 +69,16 @@ export const productos = [
     buyLink: 'https://www.amazon.com.mx/Justice-Deluxe-Jim-Krueger/dp/1401293433/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1700507156&sr=8-66'
   },
   {
-    nombre: 'JLA: The Tower of Babel',
-    img: 'https://m.media-amazon.com/images/I/91WQUDdSckL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/1779509510?smid=AVDBXBAVVSXLQ&psc=1',
-    note: ""
-  },
-  {
     nombre: 'Estuche Rígido Negro para Nintendo Switch',
     img: 'https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/663293109128.jpg',
     buyLink: 'https://www.sanborns.com.mx/producto/118823/estuche-rigido-negro-para-nintendo-switch/',
     note: 'Este es el que vimos en sanborns pero si encuentras otro igual esta bien'
   },
-  {
-    nombre: 'McFarlane Megafigura de Accion DC Multiverse Clayface',
-    img: 'https://m.media-amazon.com/images/I/71+Q-EHk0dL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/dp/B09DHGWLGK/?coliid=IBYME0W4XU3F8&colid=13QCSLA5P0HV2&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it'
-  },
+  // {
+  //   nombre: 'McFarlane Megafigura de Accion DC Multiverse Clayface',
+  //   img: 'https://m.media-amazon.com/images/I/71+Q-EHk0dL._AC_SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/dp/B09DHGWLGK/?coliid=IBYME0W4XU3F8&colid=13QCSLA5P0HV2&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it'
+  // },
   {
     nombre: 'McFarlane Toys DC Multiverse Man-Bat, 9" - 1 Unidad',
     img: 'https://m.media-amazon.com/images/I/81uF0Qf1NxL._AC_SL1500_.jpg',
