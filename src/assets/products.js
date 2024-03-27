@@ -48,11 +48,6 @@ export const productos = [
     img: 'https://m.media-amazon.com/images/I/813c+THnPKL._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/Batman-Detective-Comics-Ram-V/dp/1779520948/ref=sr_1_53?__mk_es_MX=ÅMÅŽÕÑ&crid=D5VCX4MXK3K8&keywords=dc+hardcover&qid=1707540824&sprefix=dc+hardcover%2Caps%2C128&sr=8-53&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
   },
-  {
-    nombre: 'Batman: Gotham After Midnight',
-    img: 'https://m.media-amazon.com/images/I/91rabK-DfAL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Batman-Gotham-After-Midnight-Steve/dp/1779522975/ref=sr_1_50?__mk_es_MX=ÅMÅŽÕÑ&crid=D5VCX4MXK3K8&keywords=dc+hardcover&qid=1707539717&sprefix=dc+hardcover%2Caps%2C128&sr=8-50&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
-  },
   // {
   //   nombre: 'Dark Crisis on Infinite Earths',
   //   img: 'https://m.media-amazon.com/images/I/91G6NAAaX6L._SL1500_.jpg',
