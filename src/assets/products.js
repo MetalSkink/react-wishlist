@@ -5,19 +5,10 @@ export const productos = [
   //   buyLink: 'https://www.amazon.com.mx/Batman-Superman-1-Worlds-Finest/dp/1779518404/ref=sr_1_2?crid=28IGVMA69UC03&keywords=world+finest+dan+mora&qid=1700506902&s=books&sprefix=world+fines%2Cstripbooks%2C139&sr=1-2&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
   // },
   {
-    nombre: 'Marvel Hasbro Legends Series - Magneto ',
-    img: 'https://m.media-amazon.com/images/I/71P115L27KL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/B0BDGQWP2R/ref=ox_sc_act_title_1?smid=AVDBXBAVVSXLQ&psc=1'
-  },
-  {
-    nombre: 'Marvel Hasbro Legends Series - Gambito ',
-    img: 'https://m.media-amazon.com/images/I/71bg7EKKPGL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Marvel-Hasbro-Legends-Gambito-coleccionables/dp/B0BDHJ2CMH/ref=sr_1_6?__mk_es_MX=ÅMÅŽÕÑ&crid=1UY0SHTDX6T6Z&dib=eyJ2IjoiMSJ9.EbAOa7vlqDcrDvCQR8HZN3LNkCBjGEyZ2f-JDyySa6_nl6J9NEMlXI0FFfCy6tLSPcZQ13yOR-jffsb_bzGtavg3ZbwSPJyOLYf6_xXzLFqvyXOMdcJPcSFl9e0JLBZAqLhIryq7rG3fNxErZHF-BkNtcWvCudoiI3gceh2QGHskQwiHijvv8pQiOq5MHdzS_yuRhGHGQHtEKtjTbn92C2p23jvRLsT9HPIOJRVt8FjC9GZK-_Xc0dKrtHFLTIPsmwSAxKx8dtIVoItR4XV525bE2NviBh6Rde7bUAuMhOQ.NpwLQycT3B3J9XfRMBeDAgDPpnXyrLFlZYcolqjTX3g&dib_tag=se&keywords=Marvel+Legends+X-Men+%2797&qid=1711522957&s=toys&sprefix=marvel+legends+x-men+%2797%2Ctoys%2C103&sr=1-6&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47'
-  },
-  {
-    nombre: 'X-MEN: FALL OF THE MUTANTS OMNIBUS',
-    img: 'https://m.media-amazon.com/images/I/81SshjrjLbL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/1302934112/ref=ox_sc_saved_image_5?smid=AVDBXBAVVSXLQ&psc=1'
+    nombre: 'INFERNO',
+    img: 'https://m.media-amazon.com/images/I/81Z5OBlDyrL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Inferno-Jonathan-Hickman-Stefano-Caselli/dp/1302932810/ref=sr_1_6?__mk_es_MX=ÅMÅŽÕÑ&crid=3IA0OYQ3PUE44&dib=eyJ2IjoiMSJ9._QBNWzk74bMrqsM72rjxX77yhE-h983XB1WxbyHmW4OghU6EfDLrkIQnYphyYPtSj9H92I-8fU6NRuQN54PCKIohATHJPip1q4fdWr01X7uPqt26g1wYsM0bhAbkg6-m18V1nGRMA5WOiZWWi5eg6vhmDFTyWuSOKosh8OoW0M-0taJnkdzqL64fxk3sKehBGHDk7Vm3OcIHHZbqS-fmEGSiOZSEjqNN06qA9DSbQZzD05A8MkP5H4q-_JO4qimfemFcGZKcu0V6vDGame1CS9EPLUdWgAl4q1FGVGJLuCA.cL5dgH-2Du2vkVBo_EELzQMeU8-UKBq_hzuPlq3gG8k&dib_tag=se&keywords=inferno&qid=1711988342&sprefix=infern%2Caps%2C133&sr=8-6&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
+    note: "Este tengo muchas ganas de leerlo y ahorita tiene descuento"
   },
   {
     nombre: 'Dune',
@@ -28,6 +19,15 @@ export const productos = [
     nombre: 'X-MEN: CISMA',
     img: 'https://m.media-amazon.com/images/I/71z-flphcFL._SL1200_.jpg',
     buyLink: 'https://www.amazon.com.mx/X-MEN-CISMA-MARVEL-MUST-Español/dp/6075782877/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=2GGY2CC9QDTT1&dib=eyJ2IjoiMSJ9.qM1RsSfT7jzxylbEOKjcq0Hiz8PSXkGmsSD2kLdmjIvKlrzCpST8xSfYeNqDnRwO0Lhl2vmTkgH6Rl1t4l8HpJ4JYT86601f6nkdKd8aKd8.goArbDmpSoanj_h7Aj-obLuouO5KkbcQuaKV2BkOFxw&dib_tag=se&keywords=X-MEN%3A+CISMA&qid=1711523101&sprefix=x-men+cisma+%2Caps%2C148&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
+    note: 'Este ahorita tiene descuento'
+  },
+  {
+    nombre: 'Dragon ball 22',
+    img: 'https://i1.whakoom.com/small/01/39/0544128a34d54ed0bd698a8ed7b43ef9.jpg',
+  },
+  {
+    nombre: 'Dragon ball 26',
+    img: 'https://i1.whakoom.com/small/34/0f/b533d6503e91404397e120ec2f94cd79.jpg',
   },
   // {
   //   nombre: 'BLUE LOCK Nº 15',
