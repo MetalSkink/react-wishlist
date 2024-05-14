@@ -1,25 +1,39 @@
 export const productos = [
   // {
-  //   nombre: 'Batman/Superman 1: Worlds Finest ',
-  //   img: 'https://m.media-amazon.com/images/I/91P2jjG-VhL._SL1500_.jpg',
-  //   buyLink: 'https://www.amazon.com.mx/Batman-Superman-1-Worlds-Finest/dp/1779518404/ref=sr_1_2?crid=28IGVMA69UC03&keywords=world+finest+dan+mora&qid=1700506902&s=books&sprefix=world+fines%2Cstripbooks%2C139&sr=1-2&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
-  // },
+    //   nombre: 'Batman/Superman 1: Worlds Finest ',
+    //   img: 'https://m.media-amazon.com/images/I/91P2jjG-VhL._SL1500_.jpg',
+    //   buyLink: 'https://www.amazon.com.mx/Batman-Superman-1-Worlds-Finest/dp/1779518404/ref=sr_1_2?crid=28IGVMA69UC03&keywords=world+finest+dan+mora&qid=1700506902&s=books&sprefix=world+fines%2Cstripbooks%2C139&sr=1-2&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
+    // },
   {
-    nombre: 'INFERNO',
-    img: 'https://m.media-amazon.com/images/I/81Z5OBlDyrL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Inferno-Jonathan-Hickman-Stefano-Caselli/dp/1302932810/ref=sr_1_6?__mk_es_MX=ÅMÅŽÕÑ&crid=3IA0OYQ3PUE44&dib=eyJ2IjoiMSJ9._QBNWzk74bMrqsM72rjxX77yhE-h983XB1WxbyHmW4OghU6EfDLrkIQnYphyYPtSj9H92I-8fU6NRuQN54PCKIohATHJPip1q4fdWr01X7uPqt26g1wYsM0bhAbkg6-m18V1nGRMA5WOiZWWi5eg6vhmDFTyWuSOKosh8OoW0M-0taJnkdzqL64fxk3sKehBGHDk7Vm3OcIHHZbqS-fmEGSiOZSEjqNN06qA9DSbQZzD05A8MkP5H4q-_JO4qimfemFcGZKcu0V6vDGame1CS9EPLUdWgAl4q1FGVGJLuCA.cL5dgH-2Du2vkVBo_EELzQMeU8-UKBq_hzuPlq3gG8k&dib_tag=se&keywords=inferno&qid=1711988342&sprefix=infern%2Caps%2C133&sr=8-6&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
-    note: "Este tengo muchas ganas de leerlo y ahorita tiene descuento"
+    nombre: 'Estuche Rígido Blanco para Nintendo Switch',
+    img: 'https://m.media-amazon.com/images/I/91dtUnBpGcL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/dp/B09QS9SZCF/?coliid=I1Q8TYOYO4U2VO&colid=3CW9Y6HRWAB2Z&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it',
+    note: "Este esta mas baratito pero es de amazon USA"
+  },
+  {
+    nombre: 'Estuche Rígido Blanco para Nintendo Switch',
+    img: 'https://m.media-amazon.com/images/I/71IJ6WpvHEL._AC_SL1200_.jpg',
+    buyLink: 'https://www.amazon.com.mx/dp/B01MY9JB2U/?coliid=I3LXOH9681PPKJ&colid=3CW9Y6HRWAB2Z&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it',
+  },
+  {
+    nombre: 'Nintendo Switch Pro Controller - The Legend of Zelda: Tears of the Kingdom',
+    img: 'https://m.media-amazon.com/images/I/71E5Cb8ulAL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/dp/B0BZTFWHV9/?coliid=I1HB6ULEZ8PY95&colid=3CW9Y6HRWAB2Z&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it',
   },
   {
     nombre: 'Dune',
     img: 'https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/9788466363402_2.jpg',
-    buyLink: 'https://www.sanborns.com.mx/producto/359351/dune',
+    buyLink: 'https://www.liverpool.com.mx/tienda/pdp/dune-de-frank-herbert/1151383439?skuid=1151383439',
   },
   {
-    nombre: 'X-MEN: CISMA',
-    img: 'https://m.media-amazon.com/images/I/71z-flphcFL._SL1200_.jpg',
-    buyLink: 'https://www.amazon.com.mx/X-MEN-CISMA-MARVEL-MUST-Español/dp/6075782877/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=2GGY2CC9QDTT1&dib=eyJ2IjoiMSJ9.qM1RsSfT7jzxylbEOKjcq0Hiz8PSXkGmsSD2kLdmjIvKlrzCpST8xSfYeNqDnRwO0Lhl2vmTkgH6Rl1t4l8HpJ4JYT86601f6nkdKd8aKd8.goArbDmpSoanj_h7Aj-obLuouO5KkbcQuaKV2BkOFxw&dib_tag=se&keywords=X-MEN%3A+CISMA&qid=1711523101&sprefix=x-men+cisma+%2Caps%2C148&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
-    note: 'Este ahorita tiene descuento'
+    nombre: 'Batman: Whatever Happened to the Caped Crusader?',
+    img: 'https://m.media-amazon.com/images/I/81fA0tkThTL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/177950490X/ref=ewc_pr_img_1?smid=AVDBXBAVVSXLQ&psc=1',
+  },
+  {
+    nombre: 'Batman/Catwoman',
+    img: 'https://m.media-amazon.com/images/I/81QSirgdonL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/1779517076/ref=ox_sc_saved_image_4?smid=AVDBXBAVVSXLQ&psc=1',
   },
   {
     nombre: 'Dragon ball 22',
@@ -33,11 +47,6 @@ export const productos = [
   //   nombre: 'BLUE LOCK Nº 15',
   //   img: 'https://m.media-amazon.com/images/I/818vxgsT4qL._SL1500_.jpg',
   // },
-  {
-    nombre: 'Batman/Catwoman',
-    img: 'https://m.media-amazon.com/images/I/81QSirgdonL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/1779517076/ref=ox_sc_saved_image_4?smid=AVDBXBAVVSXLQ&psc=1',
-  },
   // {
   //   nombre: 'Batman/Superman 1: Worlds Finest ',
   //   img: 'https://m.media-amazon.com/images/I/91P2jjG-VhL._SL1500_.jpg',
@@ -70,28 +79,27 @@ export const productos = [
   //   buyLink: 'https://www.amazon.com.mx/Absolute-Batman-Court-Owls-2023/dp/1779523319/ref=sr_1_2?__mk_es_MX=ÅMÅŽÕÑ&crid=2CJ2007GTNW0X&keywords=absolute+dc&qid=1699816653&sprefix=absolute+dc%2Caps%2C109&sr=8-2&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
   //   note: 'Este acaba de salir y anda bien caro pero espero que para navidad ya baje a 1500 minimo'
   // },
-  {
-    nombre: 'Batman One Dark Knight',
-    img: 'https://m.media-amazon.com/images/I/81Jh-vB2TUL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Batman-One-Dark-Knight-Jock/dp/1779510284/ref=d_pd_sbs_sccl_2_2/137-9444642-6765259?pd_rd_w=bosYo&content-id=amzn1.sym.bf51709a-d6bb-4474-b305-30d2f8a81b78&pf_rd_p=bf51709a-d6bb-4474-b305-30d2f8a81b78&pf_rd_r=J9GPAV93F1SB1SVPAAH7&pd_rd_wg=wLpzz&pd_rd_r=2495d038-e053-4441-9fc4-07bd5bdcbed6&pd_rd_i=1779510284&psc=1',
-    note: "Este se ve muy bueno es igual un pasta dura gringo"
-  },
+  // {
+  //   nombre: 'Batman One Dark Knight',
+  //   img: 'https://m.media-amazon.com/images/I/81Jh-vB2TUL._SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/Batman-One-Dark-Knight-Jock/dp/1779510284/ref=d_pd_sbs_sccl_2_2/137-9444642-6765259?pd_rd_w=bosYo&content-id=amzn1.sym.bf51709a-d6bb-4474-b305-30d2f8a81b78&pf_rd_p=bf51709a-d6bb-4474-b305-30d2f8a81b78&pf_rd_r=J9GPAV93F1SB1SVPAAH7&pd_rd_wg=wLpzz&pd_rd_r=2495d038-e053-4441-9fc4-07bd5bdcbed6&pd_rd_i=1779510284&psc=1',
+  //   note: "Este se ve muy bueno es igual un pasta dura gringo"
+  // },
   // {
   //   nombre: 'Justice Deluxe edition',
   //   img: 'https://m.media-amazon.com/images/I/91OFMZdGs7L._SL1500_.jpg',
   //   buyLink: 'https://www.amazon.com.mx/Justice-Deluxe-Jim-Krueger/dp/1401293433/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1700507156&sr=8-66'
   // },
-  {
-    nombre: 'Estuche Rígido Negro para Nintendo Switch',
-    img: 'https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/663293109128.jpg',
-    buyLink: 'https://www.sanborns.com.mx/producto/118823/estuche-rigido-negro-para-nintendo-switch/',
-    note: 'Este es el que vimos en sanborns pero si encuentras otro igual esta bien'
-  },
   // {
   //   nombre: 'McFarlane Megafigura de Accion DC Multiverse Clayface',
   //   img: 'https://m.media-amazon.com/images/I/71+Q-EHk0dL._AC_SL1500_.jpg',
   //   buyLink: 'https://www.amazon.com.mx/dp/B09DHGWLGK/?coliid=IBYME0W4XU3F8&colid=13QCSLA5P0HV2&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it'
   // },
+  {
+    nombre: 'McFarlane Toys - DC Multiverse - Justice Buster',
+    img: 'https://m.media-amazon.com/images/I/71SpDlKIaZL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/McFarlane-Toys-Multiverse-Justice-Endgame/dp/B0BXBGTY9R/ref=sr_1_1?dib=eyJ2IjoiMSJ9.oBAhOAOyeSUykZVrY794--iiJQehpldzrm68-ZNCTSsFYdUckaQ4M-PyG0UhooXGZyFp1V_BEmFdsUT7SNP23fOh43vdOR4UluvPDJ1ot3HUa3Otj6Q535bmWWyrYflr5OjepCqesEi4cIxg6ejImqKP5AvmZ7rU9JXHExVZY-FmbyKTU-Ae9pcveP7FRWSVUQBtKIZLLM9oluzn6FKLXh0t2MiYkfBEX9gJJHpY5Xv7PGBwXhfUTrsvy-EijSfS-NYtA26ccW6W1IujkkSR72CsQ1UNoGHUJm-vxjE6XAc.1PUhsUgzhl3OcjV1DdrgEvR6lTm-OythQMlwpzCTv1I&dib_tag=se&keywords=justice+buster&qid=1715705272&sr=8-1&ufe=app_do%3Aamzn1.fos.242f5c11-6cfd-40d6-91f6-be3d1974080c'
+  },
   {
     nombre: 'McFarlane Toys DC Multiverse Man-Bat, 9" - 1 Unidad',
     img: 'https://m.media-amazon.com/images/I/81uF0Qf1NxL._AC_SL1500_.jpg',
