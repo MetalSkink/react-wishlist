@@ -5,15 +5,14 @@ export const productos = [
     //   buyLink: 'https://www.amazon.com.mx/Batman-Superman-1-Worlds-Finest/dp/1779518404/ref=sr_1_2?crid=28IGVMA69UC03&keywords=world+finest+dan+mora&qid=1700506902&s=books&sprefix=world+fines%2Cstripbooks%2C139&sr=1-2&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
     // },
   {
-    nombre: 'Estuche Rígido Blanco para Nintendo Switch',
-    img: 'https://m.media-amazon.com/images/I/91dtUnBpGcL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/dp/B09QS9SZCF/?coliid=I1Q8TYOYO4U2VO&colid=3CW9Y6HRWAB2Z&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it',
-    note: "Este esta mas baratito pero es de amazon USA"
+    nombre: 'MOON KNIGHT OMNIBUS',
+    img: 'https://m.media-amazon.com/images/I/81QzYZnUdnL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/1302934562/ref=ox_sc_act_title_1?smid=AVDBXBAVVSXLQ&psc=1',
   },
   {
-    nombre: 'Estuche Rígido Blanco para Nintendo Switch',
-    img: 'https://m.media-amazon.com/images/I/71IJ6WpvHEL._AC_SL1200_.jpg',
-    buyLink: 'https://www.amazon.com.mx/dp/B01MY9JB2U/?coliid=I3LXOH9681PPKJ&colid=3CW9Y6HRWAB2Z&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it',
+    nombre: 'PLAYERA ORIGINALS ALEMANIA',
+    img: 'https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/37d1bb3b67f0423a9377d75c4f72bdfc_9366/Playera_Originals_Alemania_Negro_IY7052_HM30.jpg',
+    buyLink: 'https://www.adidas.mx/playera-originals-alemania/IY7052.html?cm_mmc=AdieSEM_Google_PLA-_-Shopping-_-IY7052-0004-_-dv%3AeCom-_-cn%3AAlways_On-_-pc%3AFútbol&cm_mmc=AdieSEM_Google_PLA-_-PMax-Football-M-_--_--_-dv%3AeCom&cm_mmc1=MX&cm_mmc2=PLA-MultipleFútbol-Other-None-MX-LATAM-eCom-Paid_Search&cm_mmca1=MX&cm_mmca2=&gad_source=1&gclid=CjwKCAjwydSzBhBOEiwAj0XN4BWpQ0UURdNumowumxZ6JEEYFKp1LIhMCwfSR7SAsMJbrwCR0ZO0gRoCIa4QAvD_BwE&gclsrc=aw.ds',
   },
   {
     nombre: 'Nintendo Switch Pro Controller - The Legend of Zelda: Tears of the Kingdom',
@@ -24,16 +23,6 @@ export const productos = [
     nombre: 'Dune',
     img: 'https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/9788466363402_2.jpg',
     buyLink: 'https://www.liverpool.com.mx/tienda/pdp/dune-de-frank-herbert/1151383439?skuid=1151383439',
-  },
-  {
-    nombre: 'Batman: Whatever Happened to the Caped Crusader?',
-    img: 'https://m.media-amazon.com/images/I/81fA0tkThTL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/177950490X/ref=ewc_pr_img_1?smid=AVDBXBAVVSXLQ&psc=1',
-  },
-  {
-    nombre: 'Batman/Catwoman',
-    img: 'https://m.media-amazon.com/images/I/81QSirgdonL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/1779517076/ref=ox_sc_saved_image_4?smid=AVDBXBAVVSXLQ&psc=1',
   },
   {
     nombre: 'Dragon ball 22',
