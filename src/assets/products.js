@@ -4,25 +4,37 @@ export const productos = [
     //   img: 'https://m.media-amazon.com/images/I/91P2jjG-VhL._SL1500_.jpg',
     //   buyLink: 'https://www.amazon.com.mx/Batman-Superman-1-Worlds-Finest/dp/1779518404/ref=sr_1_2?crid=28IGVMA69UC03&keywords=world+finest+dan+mora&qid=1700506902&s=books&sprefix=world+fines%2Cstripbooks%2C139&sr=1-2&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
     // },
+  // {
+  //   nombre: 'Nintendo Switch Pro Controller - The Legend of Zelda: Tears of the Kingdom',
+  //   img: 'https://m.media-amazon.com/images/I/71E5Cb8ulAL._AC_SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/dp/B0BZTFWHV9/?coliid=I1HB6ULEZ8PY95&colid=3CW9Y6HRWAB2Z&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it',
+  // },
   {
-    nombre: 'MOON KNIGHT OMNIBUS',
-    img: 'https://m.media-amazon.com/images/I/81QzYZnUdnL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/1302934562/ref=ox_sc_act_title_1?smid=AVDBXBAVVSXLQ&psc=1',
+    nombre: 'MEGA Halo Juguete de Construcción Tiroteo en la Compuerta',
+    img: 'https://m.media-amazon.com/images/I/81g+AclH3OL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/dp/B0BBSQQNF9/?coliid=I3N0R9M3VF72ZF&colid=13QCSLA5P0HV2&ref_=list_c_wl_lv_ov_lig_dp_it&th=1',
+    note: "igual esta en mercadolibre"
+  },
+  // {
+  //   nombre: 'Dune',
+  //   img: 'https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/9788466363402_2.jpg',
+  //   buyLink: 'https://www.liverpool.com.mx/tienda/pdp/dune-de-frank-herbert/1151383439?skuid=1151383439',
+  // },
+  {
+    nombre: 'MOON KNIGHT BY LEMIRE & SMALLWOOD: THE COMPLETE COLLECTION',
+    img: 'https://m.media-amazon.com/images/I/71E2ekyJciL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/1302933639/ref=ox_sc_saved_title_2?smid=AVDBXBAVVSXLQ&psc=1'
   },
   {
-    nombre: 'PLAYERA ORIGINALS ALEMANIA',
-    img: 'https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/37d1bb3b67f0423a9377d75c4f72bdfc_9366/Playera_Originals_Alemania_Negro_IY7052_HM30.jpg',
-    buyLink: 'https://www.adidas.mx/playera-originals-alemania/IY7052.html?cm_mmc=AdieSEM_Google_PLA-_-Shopping-_-IY7052-0004-_-dv%3AeCom-_-cn%3AAlways_On-_-pc%3AFútbol&cm_mmc=AdieSEM_Google_PLA-_-PMax-Football-M-_--_--_-dv%3AeCom&cm_mmc1=MX&cm_mmc2=PLA-MultipleFútbol-Other-None-MX-LATAM-eCom-Paid_Search&cm_mmca1=MX&cm_mmca2=&gad_source=1&gclid=CjwKCAjwydSzBhBOEiwAj0XN4BWpQ0UURdNumowumxZ6JEEYFKp1LIhMCwfSR7SAsMJbrwCR0ZO0gRoCIa4QAvD_BwE&gclsrc=aw.ds',
+    nombre: 'Juego de tronos (Canción de Hielo y Fuego 1)',
+    img: 'https://m.media-amazon.com/images/I/61royjw7ITL._SL1200_.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/6073128835/ref=ox_sc_act_title_1?smid=AVDBXBAVVSXLQ&psc=1'
   },
   {
-    nombre: 'Nintendo Switch Pro Controller - The Legend of Zelda: Tears of the Kingdom',
-    img: 'https://m.media-amazon.com/images/I/71E5Cb8ulAL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/dp/B0BZTFWHV9/?coliid=I1HB6ULEZ8PY95&colid=3CW9Y6HRWAB2Z&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it',
-  },
-  {
-    nombre: 'Dune',
-    img: 'https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/9788466363402_2.jpg',
-    buyLink: 'https://www.liverpool.com.mx/tienda/pdp/dune-de-frank-herbert/1151383439?skuid=1151383439',
+    nombre: 'Supergirl: Woman of Tomorrow',
+    img: 'https://m.media-amazon.com/images/I/81tZMT5JkSL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/dp/1779526075/?coliid=I2UIUM1YY931CS&colid=38XGHRYT7U715&psc=0&ref_=list_c_wl_lv_ov_lig_dp_it',
+    note: "Este lo he esperado mucho pero sale hasta el 23 de julio"
   },
   {
     nombre: 'Dragon ball 22',
@@ -45,6 +57,12 @@ export const productos = [
     nombre: 'Batman: Detective Comics 1: Gotham Nocturne: Overture',
     img: 'https://m.media-amazon.com/images/I/813c+THnPKL._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/Batman-Detective-Comics-Ram-V/dp/1779520948/ref=sr_1_53?__mk_es_MX=ÅMÅŽÕÑ&crid=D5VCX4MXK3K8&keywords=dc+hardcover&qid=1707540824&sprefix=dc+hardcover%2Caps%2C128&sr=8-53&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
+  },
+  {
+    nombre: 'Logitech Z150 Bocina',
+    img: 'https://m.media-amazon.com/images/I/617hRfDtCsL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Logitech-Bocina-Alámbrico-color-Negro/dp/B00IP5PTTE/ref=sr_1_6?__mk_es_MX=ÅMÅŽÕÑ&crid=17I376JQXQUAK&keywords=bocinas&qid=1659540126&sprefix=bocina%2Caps%2C122&sr=8-6',
+    note: ""
   },
   // {
   //   nombre: 'Dark Crisis on Infinite Earths',
@@ -85,11 +103,6 @@ export const productos = [
   //   buyLink: 'https://www.amazon.com.mx/dp/B09DHGWLGK/?coliid=IBYME0W4XU3F8&colid=13QCSLA5P0HV2&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it'
   // },
   {
-    nombre: 'McFarlane Toys - DC Multiverse - Justice Buster',
-    img: 'https://m.media-amazon.com/images/I/71SpDlKIaZL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/McFarlane-Toys-Multiverse-Justice-Endgame/dp/B0BXBGTY9R/ref=sr_1_1?dib=eyJ2IjoiMSJ9.oBAhOAOyeSUykZVrY794--iiJQehpldzrm68-ZNCTSsFYdUckaQ4M-PyG0UhooXGZyFp1V_BEmFdsUT7SNP23fOh43vdOR4UluvPDJ1ot3HUa3Otj6Q535bmWWyrYflr5OjepCqesEi4cIxg6ejImqKP5AvmZ7rU9JXHExVZY-FmbyKTU-Ae9pcveP7FRWSVUQBtKIZLLM9oluzn6FKLXh0t2MiYkfBEX9gJJHpY5Xv7PGBwXhfUTrsvy-EijSfS-NYtA26ccW6W1IujkkSR72CsQ1UNoGHUJm-vxjE6XAc.1PUhsUgzhl3OcjV1DdrgEvR6lTm-OythQMlwpzCTv1I&dib_tag=se&keywords=justice+buster&qid=1715705272&sr=8-1&ufe=app_do%3Aamzn1.fos.242f5c11-6cfd-40d6-91f6-be3d1974080c'
-  },
-  {
     nombre: 'McFarlane Toys DC Multiverse Man-Bat, 9" - 1 Unidad',
     img: 'https://m.media-amazon.com/images/I/81uF0Qf1NxL._AC_SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/B09SYS41SK/ref=ox_sc_saved_image_14?smid=AVDBXBAVVSXLQ&psc=1'
@@ -98,18 +111,6 @@ export const productos = [
     nombre: 'McFarlane Toys DC Multiverse The Dark Knight Return Batman',
     img: 'https://m.media-amazon.com/images/I/61nhlBozr2L._AC_SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/B09BF32X81/ref=ox_sc_saved_image_3?smid=AVDBXBAVVSXLQ&psc=1',
-    note: ""
-  },
-  {
-    nombre: 'STAR WARS La colección Vintage - Juguete ARC Trooper',
-    img: 'https://http2.mlstatic.com/D_NQ_NP_987354-MLA49463350465_032022-O.webp',
-    buyLink: 'https://www.mercadolibre.com.mx/figura-accion-hasbro-star-wars-arc-trooper-captain/p/MLM19731155#reco_item_pos=0&reco_backend=recomm-platform_v2p_univb&reco_backend_type=low_level&reco_client=vip-v2p&reco_id=ce2c96ef-9fc4-4b15-b4bf-c1dcde275802',
-    note: ""
-  },
-  {
-    nombre: 'Logitech Z150 Bocina',
-    img: 'https://m.media-amazon.com/images/I/617hRfDtCsL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Logitech-Bocina-Alámbrico-color-Negro/dp/B00IP5PTTE/ref=sr_1_6?__mk_es_MX=ÅMÅŽÕÑ&crid=17I376JQXQUAK&keywords=bocinas&qid=1659540126&sprefix=bocina%2Caps%2C122&sr=8-6',
-    note: ""
+    note: "Este ya no, no deberia costar mas de 700"
   },
 ]
