@@ -10,6 +10,11 @@ export const productos = [
   //   buyLink: 'https://www.amazon.com.mx/dp/B0BZTFWHV9/?coliid=I1HB6ULEZ8PY95&colid=3CW9Y6HRWAB2Z&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it',
   // },
   {
+    nombre: 'DAREDEVIL BY FRANK MILLER OMNIBUS COMPANION ',
+    img: 'https://m.media-amazon.com/images/I/81fIC6MWnzL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/1302957651/ref=ox_sc_act_title_1?smid=AVDBXBAVVSXLQ&psc=1'
+  },
+  {
     nombre: 'MEGA Halo Juguete de Construcción Tiroteo en la Compuerta',
     img: 'https://m.media-amazon.com/images/I/81g+AclH3OL._AC_SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/dp/B0BBSQQNF9/?coliid=I3N0R9M3VF72ZF&colid=13QCSLA5P0HV2&ref_=list_c_wl_lv_ov_lig_dp_it&th=1',
@@ -20,16 +25,6 @@ export const productos = [
   //   img: 'https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/9788466363402_2.jpg',
   //   buyLink: 'https://www.liverpool.com.mx/tienda/pdp/dune-de-frank-herbert/1151383439?skuid=1151383439',
   // },
-  {
-    nombre: 'MOON KNIGHT BY LEMIRE & SMALLWOOD: THE COMPLETE COLLECTION',
-    img: 'https://m.media-amazon.com/images/I/71E2ekyJciL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/1302933639/ref=ox_sc_saved_title_2?smid=AVDBXBAVVSXLQ&psc=1'
-  },
-  {
-    nombre: 'Juego de tronos (Canción de Hielo y Fuego 1)',
-    img: 'https://m.media-amazon.com/images/I/61royjw7ITL._SL1200_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/6073128835/ref=ox_sc_act_title_1?smid=AVDBXBAVVSXLQ&psc=1'
-  },
   {
     nombre: 'Supergirl: Woman of Tomorrow',
     img: 'https://m.media-amazon.com/images/I/81tZMT5JkSL._SL1500_.jpg',
