@@ -1,18 +1,19 @@
 export const productos = [
   // {
-    //   nombre: 'Batman/Superman 1: Worlds Finest ',
-    //   img: 'https://m.media-amazon.com/images/I/91P2jjG-VhL._SL1500_.jpg',
-    //   buyLink: 'https://www.amazon.com.mx/Batman-Superman-1-Worlds-Finest/dp/1779518404/ref=sr_1_2?crid=28IGVMA69UC03&keywords=world+finest+dan+mora&qid=1700506902&s=books&sprefix=world+fines%2Cstripbooks%2C139&sr=1-2&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
-    // },
-  // {
   //   nombre: 'Nintendo Switch Pro Controller - The Legend of Zelda: Tears of the Kingdom',
   //   img: 'https://m.media-amazon.com/images/I/71E5Cb8ulAL._AC_SL1500_.jpg',
   //   buyLink: 'https://www.amazon.com.mx/dp/B0BZTFWHV9/?coliid=I1HB6ULEZ8PY95&colid=3CW9Y6HRWAB2Z&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it',
   // },
+  // {
+  //   nombre: 'Dead Space',
+  //   img: 'https://m.media-amazon.com/images/I/71ewiYjV0GL._AC_SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/dp/B0BGVTBWJP/?coliid=I2GUA39H24ANLZ&colid=3CYU13C5PJHUB&ref_=list_c_wl_lv_ov_lig_dp_it&th=1',
+  //   note: "Este para navida"
+  // },
   {
-    nombre: 'DAREDEVIL BY FRANK MILLER OMNIBUS COMPANION ',
-    img: 'https://m.media-amazon.com/images/I/81fIC6MWnzL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/1302957651/ref=ox_sc_act_title_1?smid=AVDBXBAVVSXLQ&psc=1'
+    nombre: 'Marvel Legends Series, Superior Spider-Man',
+    img: 'https://m.media-amazon.com/images/I/61tSM-Zo9sL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/B0CSH5KBBG/ref=ox_sc_saved_image_1?smid=A1G99GVHAT2WD8&psc=1',
   },
   {
     nombre: 'MEGA Halo Juguete de Construcción Tiroteo en la Compuerta',
@@ -39,42 +40,11 @@ export const productos = [
     nombre: 'Dragon ball 26',
     img: 'https://i1.whakoom.com/small/34/0f/b533d6503e91404397e120ec2f94cd79.jpg',
   },
-  // {
-  //   nombre: 'BLUE LOCK Nº 15',
-  //   img: 'https://m.media-amazon.com/images/I/818vxgsT4qL._SL1500_.jpg',
-  // },
-  // {
-  //   nombre: 'Batman/Superman 1: Worlds Finest ',
-  //   img: 'https://m.media-amazon.com/images/I/91P2jjG-VhL._SL1500_.jpg',
-  //   buyLink: 'https://www.amazon.com.mx/Batman-Superman-1-Worlds-Finest/dp/1779518404/ref=sr_1_2?crid=28IGVMA69UC03&keywords=world+finest+dan+mora&qid=1700506902&s=books&sprefix=world+fines%2Cstripbooks%2C139&sr=1-2&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
-  // },
   {
     nombre: 'Batman: Detective Comics 1: Gotham Nocturne: Overture',
     img: 'https://m.media-amazon.com/images/I/813c+THnPKL._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/Batman-Detective-Comics-Ram-V/dp/1779520948/ref=sr_1_53?__mk_es_MX=ÅMÅŽÕÑ&crid=D5VCX4MXK3K8&keywords=dc+hardcover&qid=1707540824&sprefix=dc+hardcover%2Caps%2C128&sr=8-53&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
   },
-  {
-    nombre: 'Logitech Z150 Bocina',
-    img: 'https://m.media-amazon.com/images/I/617hRfDtCsL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Logitech-Bocina-Alámbrico-color-Negro/dp/B00IP5PTTE/ref=sr_1_6?__mk_es_MX=ÅMÅŽÕÑ&crid=17I376JQXQUAK&keywords=bocinas&qid=1659540126&sprefix=bocina%2Caps%2C122&sr=8-6',
-    note: ""
-  },
-  // {
-  //   nombre: 'Dark Crisis on Infinite Earths',
-  //   img: 'https://m.media-amazon.com/images/I/91G6NAAaX6L._SL1500_.jpg',
-  //   buyLink: 'https://www.amazon.com.mx/Crisis-Infinite-Earths-Joshua-Williamson/dp/1779518536/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=3SIX7ZIMS95AV&keywords=dc+hardcover+dark+crisis&qid=1707539800&sprefix=dc+hardcover+dark+crisi%2Caps%2C116&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
-  // },
-  // {
-  //   nombre: 'Batman/Superman: Worlds Finest 2; Strange Visitor',
-  //   img: 'https://m.media-amazon.com/images/I/91T7kDMSkSL._SL1500_.jpg',
-  //   buyLink: 'https://www.amazon.com.mx/Batman-Superman-Worlds-Strange-Visitor/dp/1779520484/ref=sr_1_3?crid=28IGVMA69UC03&keywords=world+finest+dan+mora&qid=1700506947&s=books&sprefix=world+fines%2Cstripbooks%2C139&sr=1-3&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47'
-  // },
-  // {
-  //   nombre: 'Batman: The Rise and Fall of the Batmen Omnibus',
-  //   img: 'https://m.media-amazon.com/images/I/91Y04YK77lL._SL1500_.jpg',
-  //   buyLink: 'https://www.amazon.com.mx/gp/product/1779506651/ref=ox_sc_saved_image_4?smid=AVDBXBAVVSXLQ&psc=1',
-  //   note: 'Este ahorita bajo a 1213 esta en su minimo historico'
-  // },
   // {
   //   nombre: 'Absolute Batman: The Court of Owls 2023 Edition',
   //   img: 'https://m.media-amazon.com/images/I/71oLuSmb6gL._SL1500_.jpg',
@@ -92,20 +62,15 @@ export const productos = [
   //   img: 'https://m.media-amazon.com/images/I/91OFMZdGs7L._SL1500_.jpg',
   //   buyLink: 'https://www.amazon.com.mx/Justice-Deluxe-Jim-Krueger/dp/1401293433/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1700507156&sr=8-66'
   // },
-  // {
-  //   nombre: 'McFarlane Megafigura de Accion DC Multiverse Clayface',
-  //   img: 'https://m.media-amazon.com/images/I/71+Q-EHk0dL._AC_SL1500_.jpg',
-  //   buyLink: 'https://www.amazon.com.mx/dp/B09DHGWLGK/?coliid=IBYME0W4XU3F8&colid=13QCSLA5P0HV2&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it'
-  // },
   {
     nombre: 'McFarlane Toys DC Multiverse Man-Bat, 9" - 1 Unidad',
     img: 'https://m.media-amazon.com/images/I/81uF0Qf1NxL._AC_SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/B09SYS41SK/ref=ox_sc_saved_image_14?smid=AVDBXBAVVSXLQ&psc=1'
   },
-  {
-    nombre: 'McFarlane Toys DC Multiverse The Dark Knight Return Batman',
-    img: 'https://m.media-amazon.com/images/I/61nhlBozr2L._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/B09BF32X81/ref=ox_sc_saved_image_3?smid=AVDBXBAVVSXLQ&psc=1',
-    note: "Este ya no, no deberia costar mas de 700"
-  },
+  // {
+  //   nombre: 'McFarlane Toys DC Multiverse The Dark Knight Return Batman',
+  //   img: 'https://m.media-amazon.com/images/I/61nhlBozr2L._AC_SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/gp/product/B09BF32X81/ref=ox_sc_saved_image_3?smid=AVDBXBAVVSXLQ&psc=1',
+  //   note: "Este ya no, no deberia costar mas de 700"
+  // },
 ]
