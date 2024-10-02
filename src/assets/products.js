@@ -13,7 +13,27 @@ export const productos = [
   {
     nombre: 'Marvel Legends Series, Superior Spider-Man',
     img: 'https://m.media-amazon.com/images/I/61tSM-Zo9sL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/B0CSH5KBBG/ref=ox_sc_saved_image_1?smid=A1G99GVHAT2WD8&psc=1',
+    buyLink: 'https://www.liverpool.com.mx/tienda/pdp/figura-de-acción-marvel:-legends-series-spider-man/1155896864?skuid=1155896864',
+  },
+  {
+    nombre: 'Dead Space',
+    img: 'https://m.media-amazon.com/images/I/71ewiYjV0GL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/dp/B0BGVTBWJP/?coliid=I2GUA39H24ANLZ&colid=3CYU13C5PJHUB&ref_=list_c_wl_lv_ov_lig_dp_it_im&th=1',
+  },
+  {
+    nombre: 'The Last of Us Parte 1- PlayStation 5 - Standard Edition',
+    img: 'https://m.media-amazon.com/images/I/8114N+hP73L._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/dp/B0B3SCMFNH/?coliid=I2CJDAN34754A9&colid=3CYU13C5PJHUB&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it',
+  },
+  {
+    nombre: 'Cubiertas de la consola PlayStation®5 SLIM: Midnight Black',
+    img: 'https://m.media-amazon.com/images/I/51FUnzIiopL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/dp/B0CSF244P6/?coliid=IOTV6LT8SREKV&colid=3CYU13C5PJHUB&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it',
+  },
+  {
+    nombre: 'PlayStation DualSense® Wireless Controller - Midnight Black - Midnight Black Edition',
+    img: 'https://m.media-amazon.com/images/I/61WRPyQAIIL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/dp/B0CQKKHT5J/?coliid=IGBR4ZAWBXSBL&colid=3CYU13C5PJHUB&ref_=list_c_wl_lv_ov_lig_dp_it&th=1',
   },
   {
     nombre: 'MEGA Halo Juguete de Construcción Tiroteo en la Compuerta',
@@ -21,11 +41,6 @@ export const productos = [
     buyLink: 'https://www.amazon.com.mx/dp/B0BBSQQNF9/?coliid=I3N0R9M3VF72ZF&colid=13QCSLA5P0HV2&ref_=list_c_wl_lv_ov_lig_dp_it&th=1',
     note: "igual esta en mercadolibre"
   },
-  // {
-  //   nombre: 'Dune',
-  //   img: 'https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/9788466363402_2.jpg',
-  //   buyLink: 'https://www.liverpool.com.mx/tienda/pdp/dune-de-frank-herbert/1151383439?skuid=1151383439',
-  // },
   {
     nombre: 'Supergirl: Woman of Tomorrow',
     img: 'https://m.media-amazon.com/images/I/81tZMT5JkSL._SL1500_.jpg',
@@ -33,24 +48,10 @@ export const productos = [
     note: "Este lo he esperado mucho pero sale hasta el 23 de julio"
   },
   {
-    nombre: 'Dragon ball 22',
-    img: 'https://i1.whakoom.com/small/01/39/0544128a34d54ed0bd698a8ed7b43ef9.jpg',
-  },
-  {
-    nombre: 'Dragon ball 26',
-    img: 'https://i1.whakoom.com/small/34/0f/b533d6503e91404397e120ec2f94cd79.jpg',
-  },
-  {
     nombre: 'Batman: Detective Comics 1: Gotham Nocturne: Overture',
     img: 'https://m.media-amazon.com/images/I/813c+THnPKL._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/Batman-Detective-Comics-Ram-V/dp/1779520948/ref=sr_1_53?__mk_es_MX=ÅMÅŽÕÑ&crid=D5VCX4MXK3K8&keywords=dc+hardcover&qid=1707540824&sprefix=dc+hardcover%2Caps%2C128&sr=8-53&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
   },
-  // {
-  //   nombre: 'Absolute Batman: The Court of Owls 2023 Edition',
-  //   img: 'https://m.media-amazon.com/images/I/71oLuSmb6gL._SL1500_.jpg',
-  //   buyLink: 'https://www.amazon.com.mx/Absolute-Batman-Court-Owls-2023/dp/1779523319/ref=sr_1_2?__mk_es_MX=ÅMÅŽÕÑ&crid=2CJ2007GTNW0X&keywords=absolute+dc&qid=1699816653&sprefix=absolute+dc%2Caps%2C109&sr=8-2&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47',
-  //   note: 'Este acaba de salir y anda bien caro pero espero que para navidad ya baje a 1500 minimo'
-  // },
   // {
   //   nombre: 'Batman One Dark Knight',
   //   img: 'https://m.media-amazon.com/images/I/81Jh-vB2TUL._SL1500_.jpg',
