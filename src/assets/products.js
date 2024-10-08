@@ -1,29 +1,13 @@
 export const productos = [
-  // {
-  //   nombre: 'Nintendo Switch Pro Controller - The Legend of Zelda: Tears of the Kingdom',
-  //   img: 'https://m.media-amazon.com/images/I/71E5Cb8ulAL._AC_SL1500_.jpg',
-  //   buyLink: 'https://www.amazon.com.mx/dp/B0BZTFWHV9/?coliid=I1HB6ULEZ8PY95&colid=3CW9Y6HRWAB2Z&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it',
-  // },
-  // {
-  //   nombre: 'Dead Space',
-  //   img: 'https://m.media-amazon.com/images/I/71ewiYjV0GL._AC_SL1500_.jpg',
-  //   buyLink: 'https://www.amazon.com.mx/dp/B0BGVTBWJP/?coliid=I2GUA39H24ANLZ&colid=3CYU13C5PJHUB&ref_=list_c_wl_lv_ov_lig_dp_it&th=1',
-  //   note: "Este para navida"
-  // },
   {
-    nombre: 'Marvel Legends Series, Superior Spider-Man',
-    img: 'https://m.media-amazon.com/images/I/61tSM-Zo9sL._AC_SL1500_.jpg',
-    buyLink: 'https://www.liverpool.com.mx/tienda/pdp/figura-de-acción-marvel:-legends-series-spider-man/1155896864?skuid=1155896864',
+    nombre: 'Astro Bot',
+    img: 'https://http2.mlstatic.com/D_NQ_NP_2X_906762-MLU78441428060_082024-F.webp',
+    buyLink: 'https://www.mercadolibre.com.mx/astro-bot/p/MLM39408566#wid%3DMLM2127171897%26sid%3Dsearch%26searchVariation%3DMLM39408566%26position%3D3%26search_layout%3Dstack%26type%3Dproduct%26tracking_id%3D0e984cfe-5eae-4dce-b13c-0d072069370e&gid=1&pid=1',
   },
   {
     nombre: 'Dead Space',
     img: 'https://m.media-amazon.com/images/I/71ewiYjV0GL._AC_SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/dp/B0BGVTBWJP/?coliid=I2GUA39H24ANLZ&colid=3CYU13C5PJHUB&ref_=list_c_wl_lv_ov_lig_dp_it_im&th=1',
-  },
-  {
-    nombre: 'The Last of Us Parte 1- PlayStation 5 - Standard Edition',
-    img: 'https://m.media-amazon.com/images/I/8114N+hP73L._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/dp/B0B3SCMFNH/?coliid=I2CJDAN34754A9&colid=3CYU13C5PJHUB&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it',
   },
   {
     nombre: 'Cubiertas de la consola PlayStation®5 SLIM: Midnight Black',
