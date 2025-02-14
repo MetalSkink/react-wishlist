@@ -7,7 +7,7 @@ export const options = {
       value: 0
     },
     color: {
-      value: ["#1E00FF", "#FF0061", "#E1FF00", "#00FF9E"]
+      value: ["#f0eff0ff", "#dc0fcfff", "#220e21ff", "#9a37e7ff"]
     },
     shape: {
       type: ["circle", "square"]
@@ -109,7 +109,7 @@ export const options = {
   },
   detectRetina: true,
   background: {
-    color: "#000"
+    color: "#fccff9ff"
   },
   responsive: [
     {
