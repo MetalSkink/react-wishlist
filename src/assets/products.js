@@ -1,14 +1,4 @@
 export const productos = [
-  // {
-  //   nombre: 'Astro Bot',
-  //   img: 'https://http2.mlstatic.com/D_NQ_NP_2X_906762-MLU78441428060_082024-F.webp',
-  //   buyLink: 'https://www.mercadolibre.com.mx/astro-bot/p/MLM39408566#wid%3DMLM2127171897%26sid%3Dsearch%26searchVariation%3DMLM39408566%26position%3D3%26search_layout%3Dstack%26type%3Dproduct%26tracking_id%3D0e984cfe-5eae-4dce-b13c-0d072069370e&gid=1&pid=1',
-  // },
-  // {
-    //   nombre: 'Dead Space',
-    //   img: 'https://m.media-amazon.com/images/I/71ewiYjV0GL._AC_SL1500_.jpg',
-    //   buyLink: 'https://www.amazon.com.mx/dp/B0BGVTBWJP/?coliid=I2GUA39H24ANLZ&colid=3CYU13C5PJHUB&ref_=list_c_wl_lv_ov_lig_dp_it_im&th=1',
-    // },
     // {
       //   nombre: 'Cubiertas de la consola PlayStation®5 SLIM: Midnight Black',
       //   img: 'https://m.media-amazon.com/images/I/51FUnzIiopL._AC_SL1500_.jpg',
@@ -30,40 +20,40 @@ export const productos = [
   //   img: 'https://m.media-amazon.com/images/I/51oK-4LQw6L._AC_SL1500_.jpg',
   //   note: "Estos estan bonitos cuestan como 1400, me servirian un buen"
   // },
+  // {
+  //   nombre: 'Batman: Gotham Nocturne Act 1',
+  //   img: 'https://m.media-amazon.com/images/I/71qZyQPGfWL._SL1200_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/Batman-Gotham-Nocturne-Act-1/dp/6075827765/ref=sr_1_3?crid=3V61WZCZA946T&dib=eyJ2IjoiMSJ9.wQQVaMrT3GOYEionNvvz_7QSSsbQFa_dK0jcO_qJEXx-mzsW_ynZI2rCvwRdy6kuAzv2SxQ1ezH7rXAUiwpL9a6w1j1KOK965SEg-LoXXIv8ZzJkcjk4yOh2jssmrFjeGuWQKabphHeD90XqIRmNyM-vY41kR8Dl2k8GiW1_vmnz-4DbuPUkEKp6GoudhHVh0qEV8jS0YhkrdhDSf1F3kgNle-F_3kN08A4jP-PUoFWHc6chIDE4hm4PU-0F-lUR6gGyt4tDywbSymO7Jmt5_0iXsbpWCK7gVkJEHLfUfY7MLTxeUkczlTEBppu3t_5qpyuurmIPMlpy1yPMtQCy6aVlfsL33du0NR57bVdU02lvH8AaUAOb0-MaoABs6MjuQWUNR-IabcqsMYz7zCYC3aVGme3kqGVrlM5DvSfjdIzWr7YUMhapgA1-60kBMKHG.uKrfICe42g3LPxyCpByy6hyi-FI8SznC01wNirK54cM&dib_tag=se&keywords=batman+detective+comics&qid=1738015176&sprefix=batman+de%2Caps%2C145&sr=8-3',
+  //   note: "Este lo puedes encontrar en sanborns"
+  // },
   {
-    nombre: 'Marvel Legends Series, Jean Grey y Fuerza Fénix',
-    img: 'https://m.media-amazon.com/images/I/81973xXck8L._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Marvel-Legends-Fuerza-Coleccionable-Inspirada/dp/B0CSH14G2Y/ref=sr_1_75?__mk_es_MX=ÅMÅŽÕÑ&crid=2J5IOXUOB90OA&dib=eyJ2IjoiMSJ9.tvdyEb9RFjSjuGS8XZSIeHHu3KiaoAldx-c3xv2TMRHdazg9kkeQekVu7Ayu4k4ULh2SOPaEaHFYoMGREmHzBwuKe-dwhdgiyczc2PI127OoMCsFbgqllK15RVjcISQNthonqqGpn9OwdRhgoGRwtIXchXb8dU-H5KCeZOTvPvd2DfgRrC--3BBKJGJhGcIOnArj2gmsZ9RB6ielJvHlazto1WYXrkaD_BQzKwxEYWTlHZybc3MFDff8Mr2lcFMbygQAGUZw5_pupASC10OLaLbN19f3plTQJ5WveanX5OHosWI0aGOBHe2SSjUoW7Jc8h6RzrVPAOctUxPe0JikCsQa2vXL9jkOTj7Ja9ClISPDngO7eS9PWGMBcdCXIxi_c77vHldU5po4VDgUm0LNAXSvTypen5RMUdacEp_TPRJC06Dc--YJs7QNT-Nkt1bx.qGbMcMbe7Bbac3FLx7itiFuTJZf_oGn09PFCVtKA5Ec&dib_tag=se&keywords=Marvel+Legends&qid=1739206897&sprefix=marvel+legends%2Caps%2C123&sr=8-75&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b&xpid=ucY1nSTopaSw7',
+    nombre: 'PUMA Formula 1 Gorra',
+    img: 'https://m.media-amazon.com/images/I/71eZJjYHTKL._AC_SX679_.jpg',
+    buyLink: 'https://www.amazon.com.mx/PUMA-Formula-Gorra-béisbol-Talla/dp/B0CSK7XS33/ref=rtpb_d_sccl_1_5/137-9444642-6765259?pd_rd_w=ciKGa&content-id=amzn1.sym.7b2dff27-8096-408b-82b1-b3f8465257cd&pf_rd_p=7b2dff27-8096-408b-82b1-b3f8465257cd&pf_rd_r=1E1K9BQ62Z6K9VBSTPQ8&pd_rd_wg=rEgqD&pd_rd_r=cfca0f8a-0f03-45a0-963d-d40488dce916&pd_rd_i=B0CSK7XS33&th=1&psc=1',
     note: ""
   },
   {
-    nombre: 'Batman: Gotham Nocturne Act 1',
-    img: 'https://m.media-amazon.com/images/I/71qZyQPGfWL._SL1200_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Batman-Gotham-Nocturne-Act-1/dp/6075827765/ref=sr_1_3?crid=3V61WZCZA946T&dib=eyJ2IjoiMSJ9.wQQVaMrT3GOYEionNvvz_7QSSsbQFa_dK0jcO_qJEXx-mzsW_ynZI2rCvwRdy6kuAzv2SxQ1ezH7rXAUiwpL9a6w1j1KOK965SEg-LoXXIv8ZzJkcjk4yOh2jssmrFjeGuWQKabphHeD90XqIRmNyM-vY41kR8Dl2k8GiW1_vmnz-4DbuPUkEKp6GoudhHVh0qEV8jS0YhkrdhDSf1F3kgNle-F_3kN08A4jP-PUoFWHc6chIDE4hm4PU-0F-lUR6gGyt4tDywbSymO7Jmt5_0iXsbpWCK7gVkJEHLfUfY7MLTxeUkczlTEBppu3t_5qpyuurmIPMlpy1yPMtQCy6aVlfsL33du0NR57bVdU02lvH8AaUAOb0-MaoABs6MjuQWUNR-IabcqsMYz7zCYC3aVGme3kqGVrlM5DvSfjdIzWr7YUMhapgA1-60kBMKHG.uKrfICe42g3LPxyCpByy6hyi-FI8SznC01wNirK54cM&dib_tag=se&keywords=batman+detective+comics&qid=1738015176&sprefix=batman+de%2Caps%2C145&sr=8-3',
-    note: "Este lo puedes encontrar en sanborns"
+    nombre: 'LEGO Red Bull Racing RB20 F1',
+    img: 'https://m.media-amazon.com/images/I/81oplZow5nL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/LEGO-Champions-minifigura-construible-Coleccionable/dp/B0DHLFGNMM/ref=sr_1_3?crid=3SLDWZ4QSGJ9T&dib=eyJ2IjoiMSJ9.NcbT3buFyjnmhi1FN6mLNjEIefqC-LsvvoCjZdWn0O10fTlv4ZzmxYphdoHeBcTL8tM49SNcNGx3jhjerT8OuoLx2bW5Ito4d4RSrbS56hZNN1hhWSU-taHFtABcEJ6uNmh2kgKQ1i1G6fSA9GOHtXz_4a72xJn5GevK7wfLANTkOs-Eudbvzz2T42GXvLC6mfpa2VFBalOVg29wMOhYcc7m9m_npz-GohpTznn_RYkscIrxxvez3qe5Cf4ofmAECAn5-o11hXakFFIDYPt1FzyKZyeDNyN0pLbPisyZWqQ.lwwcak9DQyP5z3KL3d9ftQ1vafMLF7BHp4w_y9DC4Ss&dib_tag=se&keywords=lego+f1&qid=1749230950&sprefix=lego+%2Caps%2C129&sr=8-3&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
+    note: ""
   },
   {
     nombre: 'Bleach Remix N.2',
     img: 'https://m.media-amazon.com/images/I/71y1eLugjWL._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/607582443X/ref=ox_sc_saved_image_3?smid=AVDBXBAVVSXLQ&psc=1',
-    note: "De este me faltan del 2 al 5"
+    note: "De este me faltan del 5 en adelante"
+  },
+  {
+    nombre: 'Superman Up in the Sky',
+    img: 'https://m.media-amazon.com/images/I/91gRb6XNAcL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/dp/179950140X/?coliid=I3SN3MXAQEJVNI&colid=38XGHRYT7U715&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it',
+    note: ""
   },
   {
     nombre: 'McFarlane Toys DC Multiverse Man-Bat, 9" - 1 Unidad',
     img: 'https://m.media-amazon.com/images/I/81uF0Qf1NxL._AC_SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/B09SYS41SK/ref=ox_sc_saved_image_14?smid=AVDBXBAVVSXLQ&psc=1'
-  },
-  {
-    nombre: 'Supergirl: Woman of Tomorrow',
-    img: 'https://m.media-amazon.com/images/I/81tZMT5JkSL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/dp/1779526075/?coliid=I2UIUM1YY931CS&colid=38XGHRYT7U715&psc=0&ref_=list_c_wl_lv_ov_lig_dp_it',
-    note: ""
-  },
-  {
-    nombre: 'Batman the Cult',
-    img: 'https://m.media-amazon.com/images/I/917m1NweXGL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/1779528272/ref=ox_sc_act_image_1?smid=A1G99GVHAT2WD8&psc=1',
-    note: ""
   },
   // {
   //   nombre: 'Super Mario Odyssey ',
