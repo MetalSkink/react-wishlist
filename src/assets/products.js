@@ -27,35 +27,41 @@ export const productos = [
   //   note: "Este lo puedes encontrar en sanborns"
   // },
   {
-    nombre: 'Absolute Superman Vol. 1: Last Dust of Krypton',
-    img: 'https://m.media-amazon.com/images/I/815Rd8gK-8L._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/dp/1799505324/?coliid=I14XQNX2MT5ZUN&colid=38XGHRYT7U715&psc=0&ref_=list_c_wl_lv_ov_lig_dp_it',
-    note: "Este sale despues del 19 de agosto pero podria esperar"
+    nombre: 'DC Finest: Batman: Red Skies ',
+    img: 'https://m.media-amazon.com/images/I/816KeG421GL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/1799502732/ref=ewc_pr_img_1?smid=AVDBXBAVVSXLQ&psc=1',
+    note: ""
   },
   {
     nombre: 'Absolute Batman Vol. 1: The Zoo',
     img: 'https://m.media-amazon.com/images/I/81ghI85Rf2L._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/dp/1799505243/?coliid=I1DR0VHYM9YVE3&colid=38XGHRYT7U715&psc=0&ref_=list_c_wl_lv_ov_lig_dp_it',
-    note: "Este sale despues del 5 de agosto pero podria esperar"
+    note: ""
   },
   // {
-  //   nombre: 'The Uncanny X-Men Omnibus Vol. 2',
-  //   img: 'https://m.media-amazon.com/images/I/81Wj0g8AHDL._SL1500_.jpg',
-  //   buyLink: 'https://www.amazon.com.mx/gp/product/1302959077/ref=ox_sc_saved_image_2?smid=AVDBXBAVVSXLQ&psc=1',
-  //   note: "Este ahorita tiene oferta por el prime para que salga más E C O N O M I C O"
+    //   nombre: 'The Uncanny X-Men Omnibus Vol. 2',
+    //   img: 'https://m.media-amazon.com/images/I/81Wj0g8AHDL._SL1500_.jpg',
+    //   buyLink: 'https://www.amazon.com.mx/gp/product/1302959077/ref=ox_sc_saved_image_2?smid=AVDBXBAVVSXLQ&psc=1',
+    //   note: "Este ahorita tiene oferta por el prime para que salga más E C O N O M I C O"
+    // },
+  {
+    nombre: 'Samsung Audífonos Inalámbricos Galaxy Buds FE Bluetooth Cancelación de Ruido Estuche Color Grafito,',
+    img: 'https://m.media-amazon.com/images/I/310A0N3bQ6L._AC_.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/B0CL8CJPVM/ref=ox_sc_saved_title_4?smid=A1AYA2LE3BV7SY&th=1',
+    note: ""
+  },
+  {
+    nombre: 'TAMASHII NATIONS - Monkey D. Luffy ',
+    img: 'https://m.media-amazon.com/images/I/61G4UM4L6uL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/TAMASHII-NATIONS-Monkey-D-Luffy-Onigashima-S-H-Figuarts/dp/B0BX2N8N9Y/ref=sr_1_6?__mk_es_MX=ÅMÅŽÕÑ&crid=9C953JDEH04T&dib=eyJ2IjoiMSJ9.WEg9SAxiuiUEc9fFHZGhW5m8__eluVHcK2fSK76caP_j5z97PaauCeficwnlyG1d6MwpbUWKBZEflWeo6ptEVtXki4mskNuzC_LI4kX3WwYVKxlT3EI75gxZtqW6r7lseIeOkDU_OoywWzY82w3xi4biVjs3jldVbWcWoXObl2X25hjRWzn9Xgp_DVqKaOHHgcU5diQiJDiXTjxuFCF8o5YIRzC29vD1Q2ZOuhGgjePmW7WcOrpLUPsYCA-acY1-oRtyAYdxw6tGcqTbWKsCoaJlBKApTF8lq9OodlFVzyY.SX5DNXAxgdhMpQnRCppWXXXPF4fZ-bqXst_rWuAZn6I&dib_tag=se&keywords=one%2Bpiece%2BTAMASHII%2BNATIONS&qid=1757612898&sprefix=one%2Bpiece%2Btamashii%2Bnations%2B%2Caps%2C187&sr=8-6&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b&th=1',
+    note: ""
+  },
+  // {
+  //   nombre: 'Absolute Superman Vol. 1: Last Dust of Krypton',
+  //   img: 'https://m.media-amazon.com/images/I/815Rd8gK-8L._SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/dp/1799505324/?coliid=I14XQNX2MT5ZUN&colid=38XGHRYT7U715&psc=0&ref_=list_c_wl_lv_ov_lig_dp_it',
+  //   note: ""
   // },
-  {
-    nombre: 'PUMA Formula 1 Gorra',
-    img: 'https://m.media-amazon.com/images/I/71eZJjYHTKL._AC_SX679_.jpg',
-    buyLink: 'https://www.amazon.com.mx/PUMA-Formula-Gorra-béisbol-Talla/dp/B0CSK7XS33/ref=rtpb_d_sccl_1_5/137-9444642-6765259?pd_rd_w=ciKGa&content-id=amzn1.sym.7b2dff27-8096-408b-82b1-b3f8465257cd&pf_rd_p=7b2dff27-8096-408b-82b1-b3f8465257cd&pf_rd_r=1E1K9BQ62Z6K9VBSTPQ8&pd_rd_wg=rEgqD&pd_rd_r=cfca0f8a-0f03-45a0-963d-d40488dce916&pd_rd_i=B0CSK7XS33&th=1&psc=1',
-    note: ""
-  },
-  {
-    nombre: 'LEGO Red Bull Racing RB20 F1',
-    img: 'https://m.media-amazon.com/images/I/81oplZow5nL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/LEGO-Champions-minifigura-construible-Coleccionable/dp/B0DHLFGNMM/ref=sr_1_3?crid=3SLDWZ4QSGJ9T&dib=eyJ2IjoiMSJ9.NcbT3buFyjnmhi1FN6mLNjEIefqC-LsvvoCjZdWn0O10fTlv4ZzmxYphdoHeBcTL8tM49SNcNGx3jhjerT8OuoLx2bW5Ito4d4RSrbS56hZNN1hhWSU-taHFtABcEJ6uNmh2kgKQ1i1G6fSA9GOHtXz_4a72xJn5GevK7wfLANTkOs-Eudbvzz2T42GXvLC6mfpa2VFBalOVg29wMOhYcc7m9m_npz-GohpTznn_RYkscIrxxvez3qe5Cf4ofmAECAn5-o11hXakFFIDYPt1FzyKZyeDNyN0pLbPisyZWqQ.lwwcak9DQyP5z3KL3d9ftQ1vafMLF7BHp4w_y9DC4Ss&dib_tag=se&keywords=lego+f1&qid=1749230950&sprefix=lego+%2Caps%2C129&sr=8-3&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
-    note: ""
-  },
   // {
   //   nombre: 'Bleach Remix N.2',
   //   img: 'https://m.media-amazon.com/images/I/71y1eLugjWL._SL1500_.jpg',
