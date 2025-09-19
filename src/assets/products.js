@@ -50,12 +50,6 @@ export const productos = [
     buyLink: 'https://www.amazon.com.mx/gp/product/B0CL8CJPVM/ref=ox_sc_saved_title_4?smid=A1AYA2LE3BV7SY&th=1',
     note: ""
   },
-  {
-    nombre: 'TAMASHII NATIONS - Monkey D. Luffy ',
-    img: 'https://m.media-amazon.com/images/I/61G4UM4L6uL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/TAMASHII-NATIONS-Monkey-D-Luffy-Onigashima-S-H-Figuarts/dp/B0BX2N8N9Y/ref=sr_1_6?__mk_es_MX=ÅMÅŽÕÑ&crid=9C953JDEH04T&dib=eyJ2IjoiMSJ9.WEg9SAxiuiUEc9fFHZGhW5m8__eluVHcK2fSK76caP_j5z97PaauCeficwnlyG1d6MwpbUWKBZEflWeo6ptEVtXki4mskNuzC_LI4kX3WwYVKxlT3EI75gxZtqW6r7lseIeOkDU_OoywWzY82w3xi4biVjs3jldVbWcWoXObl2X25hjRWzn9Xgp_DVqKaOHHgcU5diQiJDiXTjxuFCF8o5YIRzC29vD1Q2ZOuhGgjePmW7WcOrpLUPsYCA-acY1-oRtyAYdxw6tGcqTbWKsCoaJlBKApTF8lq9OodlFVzyY.SX5DNXAxgdhMpQnRCppWXXXPF4fZ-bqXst_rWuAZn6I&dib_tag=se&keywords=one%2Bpiece%2BTAMASHII%2BNATIONS&qid=1757612898&sprefix=one%2Bpiece%2Btamashii%2Bnations%2B%2Caps%2C187&sr=8-6&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b&th=1',
-    note: ""
-  },
   // {
   //   nombre: 'Absolute Superman Vol. 1: Last Dust of Krypton',
   //   img: 'https://m.media-amazon.com/images/I/815Rd8gK-8L._SL1500_.jpg',
