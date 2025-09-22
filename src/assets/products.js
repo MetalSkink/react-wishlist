@@ -33,9 +33,21 @@ export const productos = [
     note: ""
   },
   {
-    nombre: 'Absolute Batman Vol. 1: The Zoo',
-    img: 'https://m.media-amazon.com/images/I/81ghI85Rf2L._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/dp/1799505243/?coliid=I1DR0VHYM9YVE3&colid=38XGHRYT7U715&psc=0&ref_=list_c_wl_lv_ov_lig_dp_it',
+    nombre: 'Batman: The Demon Trilogy (2025 Edition)  ',
+    img: 'https://m.media-amazon.com/images/I/91cgm06eMlL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/dp/1799502694/?coliid=I3ECV9APFKNWXB&colid=38XGHRYT7U715&psc=0&ref_=list_c_wl_lv_ov_lig_dp_it',
+    note: "Este sale el 2 de diciembre perfecto para navidad"
+  },
+  {
+    nombre: 'PENGPAI Funda para Airpods Pro 3 generacion 2025 Case Uso Rudo Carcasa con Llavero Soporte de Carga Inalámbrica YXJ',
+    img: 'https://m.media-amazon.com/images/I/610r1a4uKjL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/PENGPAI-Airpods-Pro-2025-Inalámbrica/dp/B0FM7JRMBJ/ref=sr_1_10?crid=12UMTQOQIIWFG&dib=eyJ2IjoiMSJ9.rubwb4_0pmibDFbncBp4srujqlGQxr_IqCN2_p6ySmZ6ObGQJFBlry15YuJpzJOa80L9-f45au-_UFJbM29nqfHPdvZUfZBz4EBUZSO5b18ZlTmzDhAEvM_e1efbZhI6fRmosfQiE5W1U7alA_nOVV4EFpaifQd1uQTWKsc7VGaGsY5SN2CsRJd52KAlL7ySxu0fUGGjsXnRbJfMW1frNC5B7SznJZ1qkPyDyCXZmrPh5zxEtN2T8wudvWVwhFDkG0PT1hSSlvDuTvcX4bhOeYzwKnQOjSEw51_9n4Z5f1E.1OCeTeHGng4z8aWSKj4PNYimd_Bwvk-1bFodRnxkQNo&dib_tag=se&keywords=funda%2Bairpods%2Bpro%2B3&qid=1758516186&sprefix=funda%2Bairpods%2B%2Caps%2C139&sr=8-10&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b&th=1',
+    note: ""
+  },
+  {
+    nombre: 'MARVEL Legends Maximum Series, Figura de acción de Deadpool ',
+    img: 'https://m.media-amazon.com/images/I/71d4mFquFmL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/dp/B0DMRD3K4G?ref=ppx_yo2ov_dt_b_fed_asin_title',
     note: ""
   },
   // {
@@ -44,12 +56,6 @@ export const productos = [
     //   buyLink: 'https://www.amazon.com.mx/gp/product/1302959077/ref=ox_sc_saved_image_2?smid=AVDBXBAVVSXLQ&psc=1',
     //   note: "Este ahorita tiene oferta por el prime para que salga más E C O N O M I C O"
     // },
-  {
-    nombre: 'Samsung Audífonos Inalámbricos Galaxy Buds FE Bluetooth Cancelación de Ruido Estuche Color Grafito,',
-    img: 'https://m.media-amazon.com/images/I/310A0N3bQ6L._AC_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/B0CL8CJPVM/ref=ox_sc_saved_title_4?smid=A1AYA2LE3BV7SY&th=1',
-    note: ""
-  },
   // {
   //   nombre: 'Absolute Superman Vol. 1: Last Dust of Krypton',
   //   img: 'https://m.media-amazon.com/images/I/815Rd8gK-8L._SL1500_.jpg',
@@ -62,17 +68,6 @@ export const productos = [
   //   buyLink: 'https://www.amazon.com.mx/gp/product/607582443X/ref=ox_sc_saved_image_3?smid=AVDBXBAVVSXLQ&psc=1',
   //   note: "De este me faltan del 5 en adelante"
   // },
-  {
-    nombre: 'Superman Up in the Sky',
-    img: 'https://m.media-amazon.com/images/I/91gRb6XNAcL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/dp/179950140X/?coliid=I3SN3MXAQEJVNI&colid=38XGHRYT7U715&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it',
-    note: ""
-  },
-  {
-    nombre: 'McFarlane Toys DC Multiverse Man-Bat, 9" - 1 Unidad',
-    img: 'https://m.media-amazon.com/images/I/81uF0Qf1NxL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/B09SYS41SK/ref=ox_sc_saved_image_14?smid=AVDBXBAVVSXLQ&psc=1'
-  },
   // {
   //   nombre: 'Super Mario Odyssey ',
   //   img: 'https://m.media-amazon.com/images/I/91SF0Tzmv4L._AC_SL1500_.jpg',
