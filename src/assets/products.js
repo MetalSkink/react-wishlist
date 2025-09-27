@@ -39,9 +39,9 @@ export const productos = [
     note: "Este sale el 2 de diciembre perfecto para navidad"
   },
   {
-    nombre: 'PENGPAI Funda para Airpods Pro 3 generacion 2025 Case Uso Rudo Carcasa con Llavero Soporte de Carga Inalámbrica YXJ',
-    img: 'https://m.media-amazon.com/images/I/610r1a4uKjL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/PENGPAI-Airpods-Pro-2025-Inalámbrica/dp/B0FM7JRMBJ/ref=sr_1_10?crid=12UMTQOQIIWFG&dib=eyJ2IjoiMSJ9.rubwb4_0pmibDFbncBp4srujqlGQxr_IqCN2_p6ySmZ6ObGQJFBlry15YuJpzJOa80L9-f45au-_UFJbM29nqfHPdvZUfZBz4EBUZSO5b18ZlTmzDhAEvM_e1efbZhI6fRmosfQiE5W1U7alA_nOVV4EFpaifQd1uQTWKsc7VGaGsY5SN2CsRJd52KAlL7ySxu0fUGGjsXnRbJfMW1frNC5B7SznJZ1qkPyDyCXZmrPh5zxEtN2T8wudvWVwhFDkG0PT1hSSlvDuTvcX4bhOeYzwKnQOjSEw51_9n4Z5f1E.1OCeTeHGng4z8aWSKj4PNYimd_Bwvk-1bFodRnxkQNo&dib_tag=se&keywords=funda%2Bairpods%2Bpro%2B3&qid=1758516186&sprefix=funda%2Bairpods%2B%2Caps%2C139&sr=8-10&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b&th=1',
+    nombre: 'ESR - Funda para AirPods Pro 2025',
+    img: 'https://m.media-amazon.com/images/I/61ufKURpERL._AC_SX679_.jpg',
+    buyLink: 'https://www.amazon.com.mx/ESR-AirPods-esfuerzo-MagSafe-apertura/dp/B0FH1WWM1K/ref=pd_bxgy_d_sccl_1/137-9444642-6765259?pd_rd_w=I4P3E&content-id=amzn1.sym.2d9599b5-7233-437e-88b4-410bd9633fcd&pf_rd_p=2d9599b5-7233-437e-88b4-410bd9633fcd&pf_rd_r=W85RRN447BHYVJBW0V43&pd_rd_wg=TGZii&pd_rd_r=173b092c-cce6-467c-8185-9f642ded9cc9&pd_rd_i=B0FH1WWM1K&psc=1&tag=operagx-def-sp-co2-mx-20',
     note: ""
   },
   {
