@@ -1,9 +1,20 @@
 export const productos = [
-    // {
-      //   nombre: 'Cubiertas de la consola PlayStation®5 SLIM: Midnight Black',
-      //   img: 'https://m.media-amazon.com/images/I/51FUnzIiopL._AC_SL1500_.jpg',
-      //   buyLink: 'https://www.amazon.com.mx/dp/B0CSF244P6/?coliid=IOTV6LT8SREKV&colid=3CYU13C5PJHUB&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it',
-      // },
+  {
+      nombre: 'McFarlane Toys DC Multiverse Man-Bat,',
+      img: 'https://m.media-amazon.com/images/I/71SDS1YnZML._AC_SL1500_.jpg',
+      buyLink: 'https://www.amazon.com.mx/McFarlane-Toys-Multiverse-Man-Bat-Figura/dp/B09SYS41SK/ref=sr_1_5?__mk_es_MX=ÅMÅŽÕÑ&crid=2ES4PLJRJ4EXB&dib=eyJ2IjoiMSJ9.QLoiPixfxefMHvOleJTTV4kOYIb_lTLc6t3tr6HP-iostUnbMXJfA3Zk5rcmd51nb9RI5OsApMlvk83nrb8eX44LAcGGy4hnUN8Un5USHwjwdGRlI6ggP5TVUAWK_kvQ-RbqGJ_ruQ4lME82DMNqNaEbtglZzzGzVH5vlhRc0KVhAqiLJjpjlqekOlvZnT4aQGmPSrXP4xVGKF_gJr13lRCpLBUELp9rx9LhApw1ygIq8Q1nOLZTDl3PfGdxJ_ppZWC54uyjJMxT7PxTVPcmtbIXDQyOIQL1fYN-d4uuqq0.lOxQL11hDImgpnpb5vgi2X4JQWCnBPF3zNr7DLOzeRA&dib_tag=se&keywords=man%2Bbat&qid=1759861131&sprefix=man%2Bba%2Caps%2C133&sr=8-5&ufe=app_do%3Aamzn1.fos.45030d3a-91a9-4303-890a-776dee9077c1&th=1',
+      note: "Este ya volvio a estar disponible"
+  },
+  {
+      nombre: 'McFarlane Toys DC Multiverse Killer Croc,',
+      img: 'https://m.media-amazon.com/images/I/71MI4RccfyL._AC_SL1500_.jpg',
+      buyLink: 'https://www.amazon.com.mx/gp/product/B09N7WCQSR/ref=ox_sc_saved_image_2?smid=AVDBXBAVVSXLQ&th=1',
+  },
+  {
+      nombre: 'McFarlane DC Multiverse Batman (Batman: Year One',
+      img: 'https://m.media-amazon.com/images/I/81fo-sX5HKL._AC_SL1500_.jpg',
+      buyLink: 'https://www.amazon.com.mx/McFarlane-DC-Multiverse-Batman-Pulgadas/dp/B0DTBX62T6/ref=sr_1_8?__mk_es_MX=ÅMÅŽÕÑ&crid=1MBPJ7QSCM4PV&dib=eyJ2IjoiMSJ9.zya6eNm1d1-BZPTeev1UrfeJlSlD56wld0Mf3_mFYCkAva7o99THk5vRc1xlQLjhMaRgChHBR7XRvxn7lG7uqFRpJG3t1DV2estS4wnsZzWxZZNz9r47pyyc6Kr5f-WkMESak6Uy1qz0Bed9HO2-_1aoSAGW_jm3Yn1Ph8-P0SMq1qjA6I4gdOicyV0YZEQ1ox5lAQ15CX95rAYdB1rwMsY-61rJ1H3OpzVyNcFjwmlbCOYZhCXLrDJf3OKxyIUrZ7COjnfdhwbj2pW4iuL8vSMA0Bcxqmz3fA0jNHCpYs4.u-XohDMRHIEPuVoVY9xz_LDZJavAk6_DlvZHWt0hH3w&dib_tag=se&keywords=McFarlane+DC+Multiverse+Batman&qid=1759861574&sprefix=mcfarlane+dc+multiverse+batman+%2Caps%2C232&sr=8-8',
+  },
       // {
   //   nombre: 'PlayStation DualSense® Wireless Controller - Midnight Black - Midnight Black Edition',
   //   img: 'https://m.media-amazon.com/images/I/61WRPyQAIIL._AC_SL1500_.jpg',
@@ -16,11 +27,6 @@ export const productos = [
   //   note: "igual esta en mercadolibre"
   // },
   // {
-  //   nombre: 'SAMSUNG Audífonos Inalámbricos Galaxy Buds FE Bluetooth Cancelación de Ruido Estuche Color Blanco',
-  //   img: 'https://m.media-amazon.com/images/I/51oK-4LQw6L._AC_SL1500_.jpg',
-  //   note: "Estos estan bonitos cuestan como 1400, me servirian un buen"
-  // },
-  // {
   //   nombre: 'Batman: Gotham Nocturne Act 1',
   //   img: 'https://m.media-amazon.com/images/I/71qZyQPGfWL._SL1200_.jpg',
   //   buyLink: 'https://www.amazon.com.mx/Batman-Gotham-Nocturne-Act-1/dp/6075827765/ref=sr_1_3?crid=3V61WZCZA946T&dib=eyJ2IjoiMSJ9.wQQVaMrT3GOYEionNvvz_7QSSsbQFa_dK0jcO_qJEXx-mzsW_ynZI2rCvwRdy6kuAzv2SxQ1ezH7rXAUiwpL9a6w1j1KOK965SEg-LoXXIv8ZzJkcjk4yOh2jssmrFjeGuWQKabphHeD90XqIRmNyM-vY41kR8Dl2k8GiW1_vmnz-4DbuPUkEKp6GoudhHVh0qEV8jS0YhkrdhDSf1F3kgNle-F_3kN08A4jP-PUoFWHc6chIDE4hm4PU-0F-lUR6gGyt4tDywbSymO7Jmt5_0iXsbpWCK7gVkJEHLfUfY7MLTxeUkczlTEBppu3t_5qpyuurmIPMlpy1yPMtQCy6aVlfsL33du0NR57bVdU02lvH8AaUAOb0-MaoABs6MjuQWUNR-IabcqsMYz7zCYC3aVGme3kqGVrlM5DvSfjdIzWr7YUMhapgA1-60kBMKHG.uKrfICe42g3LPxyCpByy6hyi-FI8SznC01wNirK54cM&dib_tag=se&keywords=batman+detective+comics&qid=1738015176&sprefix=batman+de%2Caps%2C145&sr=8-3',
@@ -31,6 +37,11 @@ export const productos = [
     img: 'https://m.media-amazon.com/images/I/816KeG421GL._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/1799502732/ref=ewc_pr_img_1?smid=AVDBXBAVVSXLQ&psc=1',
     note: ""
+  },
+  {
+      nombre: 'Bat-man: The First Knight',
+      img: 'https://m.media-amazon.com/images/I/71vsEVXlUgL._SL1200_.jpg',
+      buyLink: 'https://www.amazon.com.mx/Bat-man-First-Knight-Dan-Jurgens/dp/6075828664/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=28VDC4HCQKTYG&dib=eyJ2IjoiMSJ9.A7RHKUGOS1xfRxH66zviIZoYYS2b8e0gPYQNaFp28FBp1UXmyL2J4fN5Z4PGOTJuitpuL3zKAbpLuMp_5EQoN16lfgyGT07T8bv83p15fyj5_K3ryX8KSvstD9bP-BxKZfdCJf6frtuysC6RN6lxFr54y4Hml0DKV7ymIXTaVtVz6PilRNqB6aZzm0O4EvV93nkdpZ7nXVT1gW4jLnhTag.tal9adS8-kO89VL_KJ1ooA3nHBrOjSkk3RFR3fV-s9U&dib_tag=se&keywords=Bat-man%3A+The+First+Knight&qid=1759860870&sprefix=bat-man+the+first+knight%2Caps%2C122&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
   },
   {
     nombre: 'Batman: The Demon Trilogy (2025 Edition)  ',
@@ -51,12 +62,6 @@ export const productos = [
     note: ""
   },
   // {
-    //   nombre: 'The Uncanny X-Men Omnibus Vol. 2',
-    //   img: 'https://m.media-amazon.com/images/I/81Wj0g8AHDL._SL1500_.jpg',
-    //   buyLink: 'https://www.amazon.com.mx/gp/product/1302959077/ref=ox_sc_saved_image_2?smid=AVDBXBAVVSXLQ&psc=1',
-    //   note: "Este ahorita tiene oferta por el prime para que salga más E C O N O M I C O"
-    // },
-  // {
   //   nombre: 'Absolute Superman Vol. 1: Last Dust of Krypton',
   //   img: 'https://m.media-amazon.com/images/I/815Rd8gK-8L._SL1500_.jpg',
   //   buyLink: 'https://www.amazon.com.mx/dp/1799505324/?coliid=I14XQNX2MT5ZUN&colid=38XGHRYT7U715&psc=0&ref_=list_c_wl_lv_ov_lig_dp_it',
@@ -68,11 +73,12 @@ export const productos = [
   //   buyLink: 'https://www.amazon.com.mx/gp/product/607582443X/ref=ox_sc_saved_image_3?smid=AVDBXBAVVSXLQ&psc=1',
   //   note: "De este me faltan del 5 en adelante"
   // },
-  // {
-  //   nombre: 'Super Mario Odyssey ',
-  //   img: 'https://m.media-amazon.com/images/I/91SF0Tzmv4L._AC_SL1500_.jpg',
-  //   buyLink: 'https://www.amazon.com.mx/Super-Mario-Odyssey-Nintendo-Standard/dp/B01MY7GHKJ/ref=sr_1_1?dib=eyJ2IjoiMSJ9.CcYjReheVRt_WL8IhWwWkxHV43ff5KuK50ohw9sILDwH8yAa71xIY-TMlQ3qHMyZQAr6vnqcZA7F4XRd29UYm0WIzhRzq2BEqSpGoCmlYlJIuPVITHe2JcWlU9Nm0b_b8-g8pbpxFbmOgwNG186r0adBCc4_jpX6sgJXGvdOYK_1ebbppZ4_PFgkEhJnVVV_GnK4eIiOhcIMEwV8HXUI_GYX-X2Hmzv_2qq9Toe4Z5sPOv0UL9sos9nW1WWI9h1JN8jDONhSF-Bl5ZMvS_4cWIkbTd5I8eaT49ICe4tLA09CbCztXCjGg2IHEe6IOMf-0JCiF3PjVM079AxI3IZfVLsy0J0RdPLLKjZ60fPASXoCTWoqoQ4yc3bbZZG4kqxViocKyUy23jSMu_QxEpPlyu87jkpJ_qM8G4k8HHkP6fwel7m_ObHDIUNtJ87M-0YB.t9CSfjqf-sGyDnZU9tya7LXTNnALLVWMjtMIIKRpWas&dib_tag=se&keywords=mario+odyssey&qid=1736293604&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
-  // },
+  {
+    nombre: 'Super Mario Galaxy 1 y 2 ',
+    img: 'https://m.media-amazon.com/images/I/81iU39O0DCL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Super-Mario-GalaxyTM-MEX/dp/B0FR747K8Q/ref=sr_1_1?crid=1MYFXXV0SB7OJ&dib=eyJ2IjoiMSJ9.pu6ddAmKktIn0uPTO0q2Sjg_eEsP_qTGiqqYLjUYqEGi_OhCALqHk8klNjTaNjaoQ69n9HXeNPF0vTBzabmKF0I0rRUsTFF2NmlHEfVGXq-XZvxJ8PHZnMJdUFxuFM5nMkrqpfKpTvjBcGE9LheSSLUSK9Q-UfDu1aHAC6KjJ0AyammEAao2sQp6iP407F7hNZFcCQR7k3wAbEr72S1SrRB6iXR7q7v9ipA51pcVDQDmkowZIcmJXKt2cPfqPjO4OQIkZpmOr3PmEWobyjDnFBm_s5SXyDx81D_Afgmk80k.iXBDNnP15vUwWKrn94ZBVgmTqTbNkdDwpPjT3pGADUQ&dib_tag=se&keywords=super+mario+galaxy+switch&qid=1759860959&sprefix=super+ma%2Caps%2C154&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
+    note: "Este ahorita esta muuuuy caro pero alomejor en diciembre baja"
+  },
   // {
     //   nombre: 'Batman One Dark Knight',
   //   img: 'https://m.media-amazon.com/images/I/81Jh-vB2TUL._SL1500_.jpg',
