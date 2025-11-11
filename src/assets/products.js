@@ -33,12 +33,22 @@ export const productos = [
     img: 'https://http2.mlstatic.com/D_NQ_NP_2X_913804-MLA95688343188_102025-F.webp',
     buyLink: 'https://www.mercadolibre.com.mx/mega-construx-halo-warthog-del-fleetcom-juguete-construccion-juguetes-para-ninos-de-13-anos-en-adelante-462/p/MLM29246308?pdp_filters=item_id:MLM3615168210#is_advertising=true&searchVariation=MLM29246308&backend_model=search-backend&position=1&search_layout=grid&type=pad&tracking_id=6aeee799-c761-49d4-b9af-22fa775c8b8a&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=ZWJhNGExYmUtYTkyMC00ODBjLTljNzktZDlhY2ZlNWUwYzVm',
   },
+  {
+    nombre: 'MEGA Halo Juguete de Construcción Paquete de 20 Personajes Halo 2 ',
+    img: 'https://m.media-amazon.com/images/I/81VePwEtFEL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Mega-Halo-Paquete-de-Personajes/dp/B0CJTBCPK3/ref=sr_1_5?__mk_es_MX=ÅMÅŽÕÑ&crid=B5N4R6AM52TT&dib=eyJ2IjoiMSJ9.3cF6mzF0oqjGcroO13-Q3eSkij-MbprCPmSi_4z0cvzdN4azpK4r71agCWj2xGectwbsmpg1Wl8JlYG_eARk_X_GlK3-WLLH_4VeH10lPE6k0NWLfiJzUAgwsX23O6amjR4K-NpaT5kc2sIANz1eMVNu3MDNMFCTkC9ato3WlXUI6-TBmbjGJU7Neorz-Gw8yCe-3tldEkURWkiXyHLtUhe-av-2R3uikS4DGzjXmvlGCKmzOABIWsZmRKosPc2vcgFlyFHHj6gBWnPCfj7i8WPyrbKiJ0OwEyRHxYXEN8Q.pI2NjUOKTxW0GvVLfpN-wRESnSpsnG4TAUcN2EIytNk&dib_tag=se&keywords=halo&qid=1762827810&s=toys&sprefix=halo%2Ctoys%2C455&sr=1-5&ufe=app_do%3Aamzn1.fos.ecf8ea6b-8840-4b28-821b-333c5ba4275b',
+  },
   // {
   //   nombre: 'DC Finest: Batman: Red Skies ',
   //   img: 'https://m.media-amazon.com/images/I/816KeG421GL._SL1500_.jpg',
   //   buyLink: 'https://www.amazon.com.mx/gp/product/1799502732/ref=ewc_pr_img_1?smid=AVDBXBAVVSXLQ&psc=1',
   //   note: ""
   // },
+  {
+    nombre: 'HALO Master Chief - Casco de lujo con soporte, luces LED ',
+    img: 'https://m.media-amazon.com/images/I/51qYRmRI+cL._AC_SL1000_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Halo-Master-Chief-construye-Universo/dp/B08XYBPDWG/ref=sr_1_4?__mk_es_MX=ÅMÅŽÕÑ&crid=1HNMV48QRMPJW&dib=eyJ2IjoiMSJ9.3cF6mzF0oqjGcroO13-Q3eSkij-MbprCPmSi_4z0cvzdN4azpK4r71agCWj2xGectwbsmpg1Wl8JlYG_eARk_X_GlK3-WLLH_4VeH10lPE6k0NWLfiJzUAgwsX23O6amjR4K-NpaT5kc2sIANz1eMVNu3MDNMFCTkC9ato3WlXUI6-TBmbjGJU7Neorz-Gw8yCe-3tldEkURWkiXyHLtUhe-av-2R3uikS4DGzjXmvlGCKmzOABIWsZmRKosPc2vcgFlyFHHj6gBWnPCfj7i8WPyrbKiJ0OwEyRHxYXEN8Q.pI2NjUOKTxW0GvVLfpN-wRESnSpsnG4TAUcN2EIytNk&dib_tag=se&keywords=halo&qid=1762827668&s=toys&sprefix=halo%2Ctoys%2C127&sr=1-4&ufe=app_do%3Aamzn1.fos.3ad1a8a7-7417-4467-b505-11834e377abf',
+  },
   {
     nombre: 'Bat-man: The First Knight',
     img: 'https://m.media-amazon.com/images/I/71vsEVXlUgL._SL1200_.jpg',
@@ -61,6 +71,12 @@ export const productos = [
     img: 'https://m.media-amazon.com/images/I/81POV0hEhCL._AC_SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/Marvel-MVL-Legends-Fall-ANV/dp/B0DK7PL9KH/ref=sr_1_8?__mk_es_MX=ÅMÅŽÕÑ&crid=37X9O66BQA58L&dib=eyJ2IjoiMSJ9.TInowaHOhT9FLcQ6uoaO1FSGHGsOMZd2ABy11IJaE81QV-I24SoPeT582AV8bYAIi4viukwr72xQrEfHxN3DGmXjT-ItfPL-6GNxh3IHezDizlFtPHRr9aUijvtyt0VCU69_PvpvEQ7b1Jnuhiu61k0LvKB18XRgggfOB51JHI3ytP-gl5n3HHlER3_qW_v_PO3YktzLvgLjWLt47gQ0DV1-IjSJxZrOnTSErQH07rjBaF84-aUqJIZMrV45y7NalCo-WeZr-LlVRqBncJlIpHDtG3jg50R3FIe6vZa-c0k.gTFFVO06VLbNSRbA9SVx69Teom4jBOfyMfy68CfXnno&dib_tag=se&keywords=marvel+legends&qid=1762824171&sprefix=marvel+legend%2Caps%2C155&sr=8-8&ufe=app_do%3Aamzn1.fos.e9c905c0-296e-4852-9ea7-c9f4c88300d3',
     note: ""
+  },
+  {
+    nombre: 'Bleach Remix N.5 ',
+    img: 'https://m.media-amazon.com/images/I/713KCt3rqPL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Bleach-Remix-N-5-Tite-Kubo/dp/6075827528/ref=sr_1_12?crid=ZKEI3QB0WWIM&dib=eyJ2IjoiMSJ9.UFoGWbYbrzgY7yITA8MJ5KQcB7ZxNv9Jpi791QbCjoMhFUnmK1HitHrcOhVfyQqT0nyrH_E2rIoAvwHaZMzrEhu9TrjEsYWMNP3Lzox-bUfcS1CXXTEo72Rf5HqIC5XMcB_Yl4jQnauCCsjCvSqM3YGas8S1bx7QE6D1Sfu8Xd3EnR4CyoayT9RiUbJ90dTBgBge05cEnyfGOSD3ES8pP6ON0vbbgW2Q2RSsYThFbUNiVroHlZDZR-Z4rsBNohkZCNmvEd435t1RHbDKNeWhK2xCspZ8fVYVSZasltVOyZ0.05SV_46293Uwbpsv-F7tOQEEQM8QEyD2yGnoQdzwgqY&dib_tag=se&keywords=bleach+remix+panini&qid=1762828696&sprefix=blea%2Caps%2C143&sr=8-12&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
+    note: "De este me falta a partir del 5"
   },
   {
     nombre: 'Green Arrow: Archers Quest Omnibus Vol. 1  ',
