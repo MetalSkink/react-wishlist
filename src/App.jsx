@@ -29,7 +29,7 @@ function App() {
           <div className="row g-2 g-lg-3">
             {
               productos.map((product,index) => (
-                <div className="col-sm-12 col-md-6" key={index}>
+                <div className="col-sm-12 col-md-4" key={index}>
                   <div className="glassmorphism m-2">
                     <h4 className="text-white">{product.nombre}</h4>
                     <div className="m-3">
