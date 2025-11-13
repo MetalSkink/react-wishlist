@@ -61,9 +61,9 @@ export const productos = [
     note: "Este sale el 2 de diciembre perfecto para navidad"
   },
   {
-    nombre: 'ESR - Funda para AirPods Pro 2025',
-    img: 'https://m.media-amazon.com/images/I/61ufKURpERL._AC_SX679_.jpg',
-    buyLink: 'https://www.amazon.com.mx/ESR-AirPods-esfuerzo-MagSafe-apertura/dp/B0FH1WWM1K/ref=pd_bxgy_d_sccl_1/137-9444642-6765259?pd_rd_w=I4P3E&content-id=amzn1.sym.2d9599b5-7233-437e-88b4-410bd9633fcd&pf_rd_p=2d9599b5-7233-437e-88b4-410bd9633fcd&pf_rd_r=W85RRN447BHYVJBW0V43&pd_rd_wg=TGZii&pd_rd_r=173b092c-cce6-467c-8185-9f642ded9cc9&pd_rd_i=B0FH1WWM1K&psc=1&tag=operagx-def-sp-co2-mx-20',
+    nombre: 'Hot Wheels Premium Red Bull Racing RB20 F1',
+    img: 'https://http2.mlstatic.com/D_NQ_NP_2X_990963-MLA95675087402_102025-F.webp',
+    buyLink: 'https://www.mercadolibre.com.mx/hot-wheels-premium-red-bull-racing-rb20-f1/p/MLM53751545#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=5c674c37-35be-4c08-812a-a0640f1d5beb&tracking_id=753b8d33-12f0-41e1-8999-9562537a98ac&wid=MLM4254444892&sid=recos&c_id=/home/card-featured/element&c_uid=3ec9bea0-2548-4f37-95b0-382f428c9b2a',
     note: ""
   },
   {
