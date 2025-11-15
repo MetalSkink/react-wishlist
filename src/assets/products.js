@@ -1,11 +1,28 @@
 export const productos = [
   {
+    nombre: 'The Uncanny X-Men Omnibus Vol. 2',
+    img: 'https://m.media-amazon.com/images/I/81Wj0g8AHDL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/dp/1302959077/?coliid=I36CVZG2DG2UUE&colid=2EIDB04BCYCGX&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it',
+    note: "Este esta en oferta $1572 y ya tengo el vol 1"
+  },
+  {
+    nombre: 'MARVEL Legends Series Gamerverse MarvelS Juggernaut ',
+    img: 'https://m.media-amazon.com/images/I/81POV0hEhCL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Marvel-MVL-Legends-Fall-ANV/dp/B0DK7PL9KH/ref=sr_1_8?__mk_es_MX=ÅMÅŽÕÑ&crid=37X9O66BQA58L&dib=eyJ2IjoiMSJ9.TInowaHOhT9FLcQ6uoaO1FSGHGsOMZd2ABy11IJaE81QV-I24SoPeT582AV8bYAIi4viukwr72xQrEfHxN3DGmXjT-ItfPL-6GNxh3IHezDizlFtPHRr9aUijvtyt0VCU69_PvpvEQ7b1Jnuhiu61k0LvKB18XRgggfOB51JHI3ytP-gl5n3HHlER3_qW_v_PO3YktzLvgLjWLt47gQ0DV1-IjSJxZrOnTSErQH07rjBaF84-aUqJIZMrV45y7NalCo-WeZr-LlVRqBncJlIpHDtG3jg50R3FIe6vZa-c0k.gTFFVO06VLbNSRbA9SVx69Teom4jBOfyMfy68CfXnno&dib_tag=se&keywords=marvel+legends&qid=1762824171&sprefix=marvel+legend%2Caps%2C155&sr=8-8&ufe=app_do%3Aamzn1.fos.e9c905c0-296e-4852-9ea7-c9f4c88300d3',
+    note: ""
+  },
+  {
     nombre: 'Wonder Woman by Greg Rucka Omnibus',
     img: 'https://m.media-amazon.com/images/I/81O84-mLN9L._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/Wonder-Woman-Greg-Rucka-Omnibus/dp/1799501574/ref=sr_1_2?crid=230AMKQIAW1CE&dib=eyJ2IjoiMSJ9.T66jIMGgYKZnKk836j-ZF5JD9AVPE-Fg62Walh6g6cFYK1gTmGTk98V0QKFIcX0Vv173FxhAqaTC2J8yoPfp7jG7MWJyXtrQl00ugZ3MdSOtwKusLafZQSLt4Gzm20Qy3oi5E07wfFj18lBFN5NhJG-z1ZugLlZ3PtoO5qp7fM5asnBN7TYehkOw-h2LNOi_aaGK7F6mtCZDqSh3ehGqpmF7no4MKfHYNTt_nz9Z626Sv4ur4zGQ7Byet_T1sByjOw0YCUyrGLdR2ZZtmsYh7V-G1jtQJVGhkAlYlnq4uHU.0z6qPMyC0dkQ2PAicEgXf25N-k6HUCfwnZtU3JCK_z0&dib_tag=se&keywords=wonder+woman+omnibus&qid=1762757144&sprefix=wonder+woman+om%2Caps%2C115&sr=8-2&ufe=app_do%3Aamzn1.fos.3ad1a8a7-7417-4467-b505-11834e377abf',
     note: "Este esta en oferton $1444"
   },
-
+  {
+    nombre: 'Bleach Remix N.5 ',
+    img: 'https://m.media-amazon.com/images/I/713KCt3rqPL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Bleach-Remix-N-5-Tite-Kubo/dp/6075827528/ref=sr_1_12?crid=ZKEI3QB0WWIM&dib=eyJ2IjoiMSJ9.UFoGWbYbrzgY7yITA8MJ5KQcB7ZxNv9Jpi791QbCjoMhFUnmK1HitHrcOhVfyQqT0nyrH_E2rIoAvwHaZMzrEhu9TrjEsYWMNP3Lzox-bUfcS1CXXTEo72Rf5HqIC5XMcB_Yl4jQnauCCsjCvSqM3YGas8S1bx7QE6D1Sfu8Xd3EnR4CyoayT9RiUbJ90dTBgBge05cEnyfGOSD3ES8pP6ON0vbbgW2Q2RSsYThFbUNiVroHlZDZR-Z4rsBNohkZCNmvEd435t1RHbDKNeWhK2xCspZ8fVYVSZasltVOyZ0.05SV_46293Uwbpsv-F7tOQEEQM8QEyD2yGnoQdzwgqY&dib_tag=se&keywords=bleach+remix+panini&qid=1762828696&sprefix=blea%2Caps%2C143&sr=8-12&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
+    note: "De este me falta a partir del 5"
+  },
   {
     nombre: 'McFarlane Toys DC Multiverse Man-Bat',
     img: 'https://m.media-amazon.com/images/I/71SDS1YnZML._AC_SL1500_.jpg',
@@ -67,29 +84,17 @@ export const productos = [
     note: ""
   },
   {
-    nombre: 'MARVEL Legends Series Gamerverse MarvelS Juggernaut ',
-    img: 'https://m.media-amazon.com/images/I/81POV0hEhCL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Marvel-MVL-Legends-Fall-ANV/dp/B0DK7PL9KH/ref=sr_1_8?__mk_es_MX=ÅMÅŽÕÑ&crid=37X9O66BQA58L&dib=eyJ2IjoiMSJ9.TInowaHOhT9FLcQ6uoaO1FSGHGsOMZd2ABy11IJaE81QV-I24SoPeT582AV8bYAIi4viukwr72xQrEfHxN3DGmXjT-ItfPL-6GNxh3IHezDizlFtPHRr9aUijvtyt0VCU69_PvpvEQ7b1Jnuhiu61k0LvKB18XRgggfOB51JHI3ytP-gl5n3HHlER3_qW_v_PO3YktzLvgLjWLt47gQ0DV1-IjSJxZrOnTSErQH07rjBaF84-aUqJIZMrV45y7NalCo-WeZr-LlVRqBncJlIpHDtG3jg50R3FIe6vZa-c0k.gTFFVO06VLbNSRbA9SVx69Teom4jBOfyMfy68CfXnno&dib_tag=se&keywords=marvel+legends&qid=1762824171&sprefix=marvel+legend%2Caps%2C155&sr=8-8&ufe=app_do%3Aamzn1.fos.e9c905c0-296e-4852-9ea7-c9f4c88300d3',
-    note: ""
-  },
-  {
-    nombre: 'Bleach Remix N.5 ',
-    img: 'https://m.media-amazon.com/images/I/713KCt3rqPL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Bleach-Remix-N-5-Tite-Kubo/dp/6075827528/ref=sr_1_12?crid=ZKEI3QB0WWIM&dib=eyJ2IjoiMSJ9.UFoGWbYbrzgY7yITA8MJ5KQcB7ZxNv9Jpi791QbCjoMhFUnmK1HitHrcOhVfyQqT0nyrH_E2rIoAvwHaZMzrEhu9TrjEsYWMNP3Lzox-bUfcS1CXXTEo72Rf5HqIC5XMcB_Yl4jQnauCCsjCvSqM3YGas8S1bx7QE6D1Sfu8Xd3EnR4CyoayT9RiUbJ90dTBgBge05cEnyfGOSD3ES8pP6ON0vbbgW2Q2RSsYThFbUNiVroHlZDZR-Z4rsBNohkZCNmvEd435t1RHbDKNeWhK2xCspZ8fVYVSZasltVOyZ0.05SV_46293Uwbpsv-F7tOQEEQM8QEyD2yGnoQdzwgqY&dib_tag=se&keywords=bleach+remix+panini&qid=1762828696&sprefix=blea%2Caps%2C143&sr=8-12&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
-    note: "De este me falta a partir del 5"
-  },
-  {
     nombre: 'Green Arrow: Archers Quest Omnibus Vol. 1  ',
     img: 'https://m.media-amazon.com/images/I/81NEOlMlL0L._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/Green-Arrow-Archers-Quest-Omnibus/dp/1799500683/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=2UQW3LVXKUUXW&dib=eyJ2IjoiMSJ9.UKG2v2tPiZqQB-8mloRDbW8J6DE1zULX3IJsJqXu47TLNANA2mGgp2vkBPxG6aAOPNcgbcWww1RzgiDxS1LCodQImDSR7xUlfAZiD-ZXOeBgrY6LC88QALc3zB9k74Em3ZHqzFcoCKw5ulzNZT7tUalCBrGNcGe5yBNLxGfmDthXqgOgVId3j3Tsp5ZIte-PqSd4hu3BT99BoOagkBplVW3CFMp7QDGVG8wRvMHHBz5jYXhKT5_IQncH6cmQZNsAf-dKcy-6UKgvuYyEi2hyyUSIQFAHOTqNg4WOpLGN_ME.4yKWktGlcbBaeJbI5PO0rqBoKXEVN-hZfIbIfvjSYyA&dib_tag=se&keywords=archers+quest&qid=1762824636&sprefix=archers+ques%2Caps%2C139&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
     note: "Este igual esta en oferton en $1384"
   },
-  {
-    nombre: 'MARVEL Legends Maximum Series, Figura de acción de Deadpool ',
-    img: 'https://m.media-amazon.com/images/I/71d4mFquFmL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/dp/B0DMRD3K4G?ref=ppx_yo2ov_dt_b_fed_asin_title',
-    note: ""
-  },
+  // {
+  //   nombre: 'MARVEL Legends Maximum Series, Figura de acción de Deadpool ',
+  //   img: 'https://m.media-amazon.com/images/I/71d4mFquFmL._AC_SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/dp/B0DMRD3K4G?ref=ppx_yo2ov_dt_b_fed_asin_title',
+  //   note: ""
+  // },
   // {
   //   nombre: 'Super Mario Galaxy 1 y 2 ',
   //   img: 'https://m.media-amazon.com/images/I/81iU39O0DCL._AC_SL1500_.jpg',
