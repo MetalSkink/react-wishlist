@@ -6,6 +6,12 @@ export const productos = [
     note: 'Me falta el 28,29 y 30'
   },
   {
+    nombre: 'MARVEL Legends Series Gamerverse, Wolverine vs. Silver Samurai',
+    img: 'https://m.media-amazon.com/images/I/814VwaEnw6L._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Marvel-MVL-Legends-Fall-ANV/dp/B0DK7M5QVY/ref=sr_1_7?crid=3427X3WJCBFG4&dib=eyJ2IjoiMSJ9.PRUCpegRCNlhdGN81fDY5ROQaroSKheUlBtQOuoK9PXCLacro-iLtwPfEfLeKH19wEwtnqEfFeB2ugSNv2seYB1m5Fs4KMiq065ioodZD0G6olAkuHQ-jnCkwZqzy0nvus94QfrBvn-6q35y6IX4w4qbELdQKHzJH-n7Pfqs2P9bhVLPhVw4jUVQYMnIR0R-BRXXfki8WpopKqrZw7ww6fdPcXOfBm44dQvdViAttueMddH0aGQFTmnywVK23YZW3E8epZsMZCEw6HjOUEsIO6vY9zN75JRKPurCg0eMEKA.vzzO8VY19uxs5yDgmF_cSCgCE1oueuzxpZ-IZcBaMho&dib_tag=se&keywords=wolverine%2Bmarvel%2Blegends&qid=1763357198&sprefix=wolverine%2Bma%2Caps%2C134&sr=8-7&ufe=app_do%3Aamzn1.fos.e9c905c0-296e-4852-9ea7-c9f4c88300d3&th=1',
+    note: 'Este tiene 15 meses sale de a 100 pejitos'
+  },
+  {
     nombre: 'MARVEL Legends Series Gamerverse MarvelS Juggernaut ',
     img: 'https://m.media-amazon.com/images/I/81POV0hEhCL._AC_SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/Marvel-MVL-Legends-Fall-ANV/dp/B0DK7PL9KH/ref=sr_1_8?__mk_es_MX=ÅMÅŽÕÑ&crid=37X9O66BQA58L&dib=eyJ2IjoiMSJ9.TInowaHOhT9FLcQ6uoaO1FSGHGsOMZd2ABy11IJaE81QV-I24SoPeT582AV8bYAIi4viukwr72xQrEfHxN3DGmXjT-ItfPL-6GNxh3IHezDizlFtPHRr9aUijvtyt0VCU69_PvpvEQ7b1Jnuhiu61k0LvKB18XRgggfOB51JHI3ytP-gl5n3HHlER3_qW_v_PO3YktzLvgLjWLt47gQ0DV1-IjSJxZrOnTSErQH07rjBaF84-aUqJIZMrV45y7NalCo-WeZr-LlVRqBncJlIpHDtG3jg50R3FIe6vZa-c0k.gTFFVO06VLbNSRbA9SVx69Teom4jBOfyMfy68CfXnno&dib_tag=se&keywords=marvel+legends&qid=1762824171&sprefix=marvel+legend%2Caps%2C155&sr=8-8&ufe=app_do%3Aamzn1.fos.e9c905c0-296e-4852-9ea7-c9f4c88300d3',
