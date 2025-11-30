@@ -1,9 +1,9 @@
 export const productos = [
   {
-    nombre: 'The Uncanny X-Men Omnibus Vol. 2',
-    img: 'https://m.media-amazon.com/images/I/81Wj0g8AHDL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/dp/1302959077/?coliid=I36CVZG2DG2UUE&colid=2EIDB04BCYCGX&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it',
-    note: "Este esta en oferta $1572 y ya tengo el vol 1"
+    nombre: 'Jujutsu Kaisen N.30 ',
+    img: 'https://m.media-amazon.com/images/I/71EJfGvUheL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/6076383577/ref=ox_sc_saved_image_9?smid=AVDBXBAVVSXLQ&psc=1',
+    note: 'Me falta el 28,29 y 30'
   },
   {
     nombre: 'MARVEL Legends Series Gamerverse MarvelS Juggernaut ',
@@ -15,7 +15,7 @@ export const productos = [
     nombre: 'Wonder Woman by Greg Rucka Omnibus',
     img: 'https://m.media-amazon.com/images/I/81O84-mLN9L._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/Wonder-Woman-Greg-Rucka-Omnibus/dp/1799501574/ref=sr_1_2?crid=230AMKQIAW1CE&dib=eyJ2IjoiMSJ9.T66jIMGgYKZnKk836j-ZF5JD9AVPE-Fg62Walh6g6cFYK1gTmGTk98V0QKFIcX0Vv173FxhAqaTC2J8yoPfp7jG7MWJyXtrQl00ugZ3MdSOtwKusLafZQSLt4Gzm20Qy3oi5E07wfFj18lBFN5NhJG-z1ZugLlZ3PtoO5qp7fM5asnBN7TYehkOw-h2LNOi_aaGK7F6mtCZDqSh3ehGqpmF7no4MKfHYNTt_nz9Z626Sv4ur4zGQ7Byet_T1sByjOw0YCUyrGLdR2ZZtmsYh7V-G1jtQJVGhkAlYlnq4uHU.0z6qPMyC0dkQ2PAicEgXf25N-k6HUCfwnZtU3JCK_z0&dib_tag=se&keywords=wonder+woman+omnibus&qid=1762757144&sprefix=wonder+woman+om%2Caps%2C115&sr=8-2&ufe=app_do%3Aamzn1.fos.3ad1a8a7-7417-4467-b505-11834e377abf',
-    note: "Este esta en oferton $1444"
+    note: "Este esta en oferton $1444 actualizacion: ya no esta de oferta "
   },
   {
     nombre: 'Bleach Remix N.5 ',
