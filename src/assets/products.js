@@ -17,17 +17,41 @@ export const productos = [
     buyLink: 'https://www.amazon.com.mx/Marvel-MVL-Legends-Fall-ANV/dp/B0DK7PL9KH/ref=sr_1_8?__mk_es_MX=ÅMÅŽÕÑ&crid=37X9O66BQA58L&dib=eyJ2IjoiMSJ9.TInowaHOhT9FLcQ6uoaO1FSGHGsOMZd2ABy11IJaE81QV-I24SoPeT582AV8bYAIi4viukwr72xQrEfHxN3DGmXjT-ItfPL-6GNxh3IHezDizlFtPHRr9aUijvtyt0VCU69_PvpvEQ7b1Jnuhiu61k0LvKB18XRgggfOB51JHI3ytP-gl5n3HHlER3_qW_v_PO3YktzLvgLjWLt47gQ0DV1-IjSJxZrOnTSErQH07rjBaF84-aUqJIZMrV45y7NalCo-WeZr-LlVRqBncJlIpHDtG3jg50R3FIe6vZa-c0k.gTFFVO06VLbNSRbA9SVx69Teom4jBOfyMfy68CfXnno&dib_tag=se&keywords=marvel+legends&qid=1762824171&sprefix=marvel+legend%2Caps%2C155&sr=8-8&ufe=app_do%3Aamzn1.fos.e9c905c0-296e-4852-9ea7-c9f4c88300d3',
     note: ""
   },
+  // {
+  //   nombre: 'MARVEL Legends Series, Máscara Premium de Wolverine',
+  //   img: 'https://m.media-amazon.com/images/I/71NTWbONDuL._AC_SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/Marvel-MVL-Legends-Gear-2/dp/B0DK7NZMGM/ref=sr_1_5?crid=38Y03CTH1T60K&dib=eyJ2IjoiMSJ9._MFvnAtPfpH_foIePuRk1KmKm4YgFtctgQPfPF0Vn3gQWS31krOLKF0XYP_ZewjzDDE7vPLRCF0rid_OHh2RMxTJC2UZNuEPCy6OPaMxcRezULrtc-T7AQyZrOzX3PIhbzhIvVRuM0vi14yrJVc1pJ9oGEnTFJw3_32SrOewIFP_4pxLYywmsgoKGoUpo4NT9SRgTYw-TLEpmgMFjIc2PEpENnDNh5NgWj9defWh1e3hd1OnAKf6z3mcvo_HUgBFZHnMljCPNVdJzmwYDG2IjvV-7m1eoyksO6ObVs9l4cc.kSimEf2m0b0xxUgV6oEAKQPHI9vtpTGSKrAU2S02z_o&dib_tag=se&keywords=casco+wolverine&qid=1765473842&sprefix=casco+wol%2Caps%2C128&sr=8-5&ufe=app_do%3Aamzn1.fos.e9c905c0-296e-4852-9ea7-c9f4c88300d3',
+  //   note: ""
+  // },
   {
-    nombre: 'MARVEL Legends Series, Máscara Premium de Wolverine',
-    img: 'https://m.media-amazon.com/images/I/71NTWbONDuL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Marvel-MVL-Legends-Gear-2/dp/B0DK7NZMGM/ref=sr_1_5?crid=38Y03CTH1T60K&dib=eyJ2IjoiMSJ9._MFvnAtPfpH_foIePuRk1KmKm4YgFtctgQPfPF0Vn3gQWS31krOLKF0XYP_ZewjzDDE7vPLRCF0rid_OHh2RMxTJC2UZNuEPCy6OPaMxcRezULrtc-T7AQyZrOzX3PIhbzhIvVRuM0vi14yrJVc1pJ9oGEnTFJw3_32SrOewIFP_4pxLYywmsgoKGoUpo4NT9SRgTYw-TLEpmgMFjIc2PEpENnDNh5NgWj9defWh1e3hd1OnAKf6z3mcvo_HUgBFZHnMljCPNVdJzmwYDG2IjvV-7m1eoyksO6ObVs9l4cc.kSimEf2m0b0xxUgV6oEAKQPHI9vtpTGSKrAU2S02z_o&dib_tag=se&keywords=casco+wolverine&qid=1765473842&sprefix=casco+wol%2Caps%2C128&sr=8-5&ufe=app_do%3Aamzn1.fos.e9c905c0-296e-4852-9ea7-c9f4c88300d3',
+    nombre: 'Hulk de Peter David Omnibus',
+    img: 'https://m.media-amazon.com/images/I/71Nh6eFlO7L._SL1200_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Peter-David-Vol-01-Marvel-Omnibus/dp/6076382635/ref=sr_1_1?crid=C3JMEQ3P3SKT&dib=eyJ2IjoiMSJ9.-TzFdVL1L-9prhhP_HL_si7QY-B12TUksL8UW9yS9b8o3HLVTRNIl2ECWlqUZ7dgxfO26T1WrGM57NQshXLHppWuYuaiSWYVGUsFBSGS3H-JLTwnklmNVtMgIipte786NCBVu19R_P4oz7rHQlmiE9sADBvjyWuf8FUjQZzwf5j27f7BtuTPnwc22npLhlJVI4DF8fGcrmgEXtxtyE5vAnlZubgsqF0GrrXAUK5rrMjZnso2ED0Cc6teh0vUhm4mYVOgXB_82drj1v1-ZepKWD1YPSEbbKLzYzF9yfAHdSY.GGP1QT4aTulmMmjIP1IfjEKd4RcSPicklzdq6Kj1EjU&dib_tag=se&keywords=hulk+omnibus&qid=1766077295&sprefix=hulk+om%2Caps%2C133&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
     note: ""
   },
+  // {
+  //   nombre: 'Wonder Woman by Greg Rucka Omnibus',
+  //   img: 'https://m.media-amazon.com/images/I/81O84-mLN9L._SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/Wonder-Woman-Greg-Rucka-Omnibus/dp/1799501574/ref=sr_1_2?crid=230AMKQIAW1CE&dib=eyJ2IjoiMSJ9.T66jIMGgYKZnKk836j-ZF5JD9AVPE-Fg62Walh6g6cFYK1gTmGTk98V0QKFIcX0Vv173FxhAqaTC2J8yoPfp7jG7MWJyXtrQl00ugZ3MdSOtwKusLafZQSLt4Gzm20Qy3oi5E07wfFj18lBFN5NhJG-z1ZugLlZ3PtoO5qp7fM5asnBN7TYehkOw-h2LNOi_aaGK7F6mtCZDqSh3ehGqpmF7no4MKfHYNTt_nz9Z626Sv4ur4zGQ7Byet_T1sByjOw0YCUyrGLdR2ZZtmsYh7V-G1jtQJVGhkAlYlnq4uHU.0z6qPMyC0dkQ2PAicEgXf25N-k6HUCfwnZtU3JCK_z0&dib_tag=se&keywords=wonder+woman+omnibus&qid=1762757144&sprefix=wonder+woman+om%2Caps%2C115&sr=8-2&ufe=app_do%3Aamzn1.fos.3ad1a8a7-7417-4467-b505-11834e377abf',
+  //   note: "Este esta en oferton $1444 actualizacion: ya no esta de oferta "
+  // },
   {
-    nombre: 'Wonder Woman by Greg Rucka Omnibus',
-    img: 'https://m.media-amazon.com/images/I/81O84-mLN9L._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Wonder-Woman-Greg-Rucka-Omnibus/dp/1799501574/ref=sr_1_2?crid=230AMKQIAW1CE&dib=eyJ2IjoiMSJ9.T66jIMGgYKZnKk836j-ZF5JD9AVPE-Fg62Walh6g6cFYK1gTmGTk98V0QKFIcX0Vv173FxhAqaTC2J8yoPfp7jG7MWJyXtrQl00ugZ3MdSOtwKusLafZQSLt4Gzm20Qy3oi5E07wfFj18lBFN5NhJG-z1ZugLlZ3PtoO5qp7fM5asnBN7TYehkOw-h2LNOi_aaGK7F6mtCZDqSh3ehGqpmF7no4MKfHYNTt_nz9Z626Sv4ur4zGQ7Byet_T1sByjOw0YCUyrGLdR2ZZtmsYh7V-G1jtQJVGhkAlYlnq4uHU.0z6qPMyC0dkQ2PAicEgXf25N-k6HUCfwnZtU3JCK_z0&dib_tag=se&keywords=wonder+woman+omnibus&qid=1762757144&sprefix=wonder+woman+om%2Caps%2C115&sr=8-2&ufe=app_do%3Aamzn1.fos.3ad1a8a7-7417-4467-b505-11834e377abf',
-    note: "Este esta en oferton $1444 actualizacion: ya no esta de oferta "
+    nombre: 'Batman: The Demon Trilogy (2025 Edition)  ',
+    img: 'https://m.media-amazon.com/images/I/91cgm06eMlL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/dp/1799502694/?coliid=I3ECV9APFKNWXB&colid=38XGHRYT7U715&psc=0&ref_=list_c_wl_lv_ov_lig_dp_it',
+    note: "Este sale el 2 de diciembre perfecto para navidad"
+  },
+  // {
+  //   nombre: 'Green Arrow: Archers Quest Omnibus Vol. 1  ',
+  //   img: 'https://m.media-amazon.com/images/I/81NEOlMlL0L._SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/Green-Arrow-Archers-Quest-Omnibus/dp/1799500683/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=2UQW3LVXKUUXW&dib=eyJ2IjoiMSJ9.UKG2v2tPiZqQB-8mloRDbW8J6DE1zULX3IJsJqXu47TLNANA2mGgp2vkBPxG6aAOPNcgbcWww1RzgiDxS1LCodQImDSR7xUlfAZiD-ZXOeBgrY6LC88QALc3zB9k74Em3ZHqzFcoCKw5ulzNZT7tUalCBrGNcGe5yBNLxGfmDthXqgOgVId3j3Tsp5ZIte-PqSd4hu3BT99BoOagkBplVW3CFMp7QDGVG8wRvMHHBz5jYXhKT5_IQncH6cmQZNsAf-dKcy-6UKgvuYyEi2hyyUSIQFAHOTqNg4WOpLGN_ME.4yKWktGlcbBaeJbI5PO0rqBoKXEVN-hZfIbIfvjSYyA&dib_tag=se&keywords=archers+quest&qid=1762824636&sprefix=archers+ques%2Caps%2C139&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
+  //   note: "Este igual esta en oferton en $1384"
+  // },
+  {
+    nombre: 'MARVEL Legends Maximum Series, Figura de acción de Deadpool ',
+    img: 'https://m.media-amazon.com/images/I/71d4mFquFmL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/dp/B0DMRD3K4G?ref=ppx_yo2ov_dt_b_fed_asin_title',
+    note: ""
   },
   {
     nombre: 'Bleach Remix N.5 ',
@@ -83,24 +107,6 @@ export const productos = [
     img: 'https://m.media-amazon.com/images/I/71vsEVXlUgL._SL1200_.jpg',
     buyLink: 'https://www.amazon.com.mx/Bat-man-First-Knight-Dan-Jurgens/dp/6075828664/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=28VDC4HCQKTYG&dib=eyJ2IjoiMSJ9.A7RHKUGOS1xfRxH66zviIZoYYS2b8e0gPYQNaFp28FBp1UXmyL2J4fN5Z4PGOTJuitpuL3zKAbpLuMp_5EQoN16lfgyGT07T8bv83p15fyj5_K3ryX8KSvstD9bP-BxKZfdCJf6frtuysC6RN6lxFr54y4Hml0DKV7ymIXTaVtVz6PilRNqB6aZzm0O4EvV93nkdpZ7nXVT1gW4jLnhTag.tal9adS8-kO89VL_KJ1ooA3nHBrOjSkk3RFR3fV-s9U&dib_tag=se&keywords=Bat-man%3A+The+First+Knight&qid=1759860870&sprefix=bat-man+the+first+knight%2Caps%2C122&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
   },
-  {
-    nombre: 'Batman: The Demon Trilogy (2025 Edition)  ',
-    img: 'https://m.media-amazon.com/images/I/91cgm06eMlL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/dp/1799502694/?coliid=I3ECV9APFKNWXB&colid=38XGHRYT7U715&psc=0&ref_=list_c_wl_lv_ov_lig_dp_it',
-    note: "Este sale el 2 de diciembre perfecto para navidad"
-  },
-  {
-    nombre: 'Green Arrow: Archers Quest Omnibus Vol. 1  ',
-    img: 'https://m.media-amazon.com/images/I/81NEOlMlL0L._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Green-Arrow-Archers-Quest-Omnibus/dp/1799500683/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=2UQW3LVXKUUXW&dib=eyJ2IjoiMSJ9.UKG2v2tPiZqQB-8mloRDbW8J6DE1zULX3IJsJqXu47TLNANA2mGgp2vkBPxG6aAOPNcgbcWww1RzgiDxS1LCodQImDSR7xUlfAZiD-ZXOeBgrY6LC88QALc3zB9k74Em3ZHqzFcoCKw5ulzNZT7tUalCBrGNcGe5yBNLxGfmDthXqgOgVId3j3Tsp5ZIte-PqSd4hu3BT99BoOagkBplVW3CFMp7QDGVG8wRvMHHBz5jYXhKT5_IQncH6cmQZNsAf-dKcy-6UKgvuYyEi2hyyUSIQFAHOTqNg4WOpLGN_ME.4yKWktGlcbBaeJbI5PO0rqBoKXEVN-hZfIbIfvjSYyA&dib_tag=se&keywords=archers+quest&qid=1762824636&sprefix=archers+ques%2Caps%2C139&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
-    note: "Este igual esta en oferton en $1384"
-  },
-  // {
-  //   nombre: 'MARVEL Legends Maximum Series, Figura de acción de Deadpool ',
-  //   img: 'https://m.media-amazon.com/images/I/71d4mFquFmL._AC_SL1500_.jpg',
-  //   buyLink: 'https://www.amazon.com.mx/dp/B0DMRD3K4G?ref=ppx_yo2ov_dt_b_fed_asin_title',
-  //   note: ""
-  // },
   // {
   //   nombre: 'Super Mario Galaxy 1 y 2 ',
   //   img: 'https://m.media-amazon.com/images/I/81iU39O0DCL._AC_SL1500_.jpg',
