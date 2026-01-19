@@ -6,10 +6,10 @@ export const productos = [
     note: 'Me falta el 28,29 y 30'
   },
   {
-    nombre: 'MARVEL Legends Series Gamerverse, Wolverine vs. Silver Samurai',
-    img: 'https://m.media-amazon.com/images/I/814VwaEnw6L._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Marvel-MVL-Legends-Fall-ANV/dp/B0DK7M5QVY/ref=sr_1_7?crid=3427X3WJCBFG4&dib=eyJ2IjoiMSJ9.PRUCpegRCNlhdGN81fDY5ROQaroSKheUlBtQOuoK9PXCLacro-iLtwPfEfLeKH19wEwtnqEfFeB2ugSNv2seYB1m5Fs4KMiq065ioodZD0G6olAkuHQ-jnCkwZqzy0nvus94QfrBvn-6q35y6IX4w4qbELdQKHzJH-n7Pfqs2P9bhVLPhVw4jUVQYMnIR0R-BRXXfki8WpopKqrZw7ww6fdPcXOfBm44dQvdViAttueMddH0aGQFTmnywVK23YZW3E8epZsMZCEw6HjOUEsIO6vY9zN75JRKPurCg0eMEKA.vzzO8VY19uxs5yDgmF_cSCgCE1oueuzxpZ-IZcBaMho&dib_tag=se&keywords=wolverine%2Bmarvel%2Blegends&qid=1763357198&sprefix=wolverine%2Bma%2Caps%2C134&sr=8-7&ufe=app_do%3Aamzn1.fos.e9c905c0-296e-4852-9ea7-c9f4c88300d3&th=1',
-    note: 'Este tiene 15 meses sale de a 100 pejitos'
+    nombre: 'Goku S.H Figuarts Dragon Ball Z',
+    img: 'https://m.media-amazon.com/images/I/71PCsi4x9ML._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/TAMASHII-NATIONS-BAS67612/dp/B0DX8GTJKB/ref=sr_1_5?__mk_es_MX=ÅMÅŽÕÑ&crid=2J6Z7GBME1HMT&dib=eyJ2IjoiMSJ9.tUkbGUatpFzRJj5zwQAy11mD-c8bgOTry4Vy78RvU9dJjmER81G7tz1tIoqVPmdLKYXZ3ONXpiA_qVifkNjcqTqeGqJ3AIbeZpL1GzXPKkH-pcckaG0c0qMAkI7rtxy3pV7RXtoCxlaLgWd62-Uhujan3BXniEiQBAFqTfkMbFiZyZgm2RKkjew4nKJf9okhqITA9_3OY7lxfi1mtYhyArSr1ZOUirH2kBwrrJACkzLVGj_aa8OhoCwjvOfdg6hHFZayk74V_MWhSXdzZ04OtPnjp7FEsc-wTGFq-ie0630.At8ohLQ1zYJW2Y27P9mOW-bOAWv64ZFF2w2z8mmKyk4&dib_tag=se&keywords=tamahashi+nations&qid=1768802669&sprefix=tamahashi+nation%2Caps%2C195&sr=8-5&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
+    note: ""
   },
   {
     nombre: 'MARVEL Legends Series Gamerverse MarvelS Juggernaut ',
@@ -35,24 +35,12 @@ export const productos = [
   //   buyLink: 'https://www.amazon.com.mx/Wonder-Woman-Greg-Rucka-Omnibus/dp/1799501574/ref=sr_1_2?crid=230AMKQIAW1CE&dib=eyJ2IjoiMSJ9.T66jIMGgYKZnKk836j-ZF5JD9AVPE-Fg62Walh6g6cFYK1gTmGTk98V0QKFIcX0Vv173FxhAqaTC2J8yoPfp7jG7MWJyXtrQl00ugZ3MdSOtwKusLafZQSLt4Gzm20Qy3oi5E07wfFj18lBFN5NhJG-z1ZugLlZ3PtoO5qp7fM5asnBN7TYehkOw-h2LNOi_aaGK7F6mtCZDqSh3ehGqpmF7no4MKfHYNTt_nz9Z626Sv4ur4zGQ7Byet_T1sByjOw0YCUyrGLdR2ZZtmsYh7V-G1jtQJVGhkAlYlnq4uHU.0z6qPMyC0dkQ2PAicEgXf25N-k6HUCfwnZtU3JCK_z0&dib_tag=se&keywords=wonder+woman+omnibus&qid=1762757144&sprefix=wonder+woman+om%2Caps%2C115&sr=8-2&ufe=app_do%3Aamzn1.fos.3ad1a8a7-7417-4467-b505-11834e377abf',
   //   note: "Este esta en oferton $1444 actualizacion: ya no esta de oferta "
   // },
-  {
-    nombre: 'Batman: The Demon Trilogy (2025 Edition)  ',
-    img: 'https://m.media-amazon.com/images/I/91cgm06eMlL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/dp/1799502694/?coliid=I3ECV9APFKNWXB&colid=38XGHRYT7U715&psc=0&ref_=list_c_wl_lv_ov_lig_dp_it',
-    note: "Este sale el 2 de diciembre perfecto para navidad"
-  },
   // {
   //   nombre: 'Green Arrow: Archers Quest Omnibus Vol. 1  ',
   //   img: 'https://m.media-amazon.com/images/I/81NEOlMlL0L._SL1500_.jpg',
   //   buyLink: 'https://www.amazon.com.mx/Green-Arrow-Archers-Quest-Omnibus/dp/1799500683/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=2UQW3LVXKUUXW&dib=eyJ2IjoiMSJ9.UKG2v2tPiZqQB-8mloRDbW8J6DE1zULX3IJsJqXu47TLNANA2mGgp2vkBPxG6aAOPNcgbcWww1RzgiDxS1LCodQImDSR7xUlfAZiD-ZXOeBgrY6LC88QALc3zB9k74Em3ZHqzFcoCKw5ulzNZT7tUalCBrGNcGe5yBNLxGfmDthXqgOgVId3j3Tsp5ZIte-PqSd4hu3BT99BoOagkBplVW3CFMp7QDGVG8wRvMHHBz5jYXhKT5_IQncH6cmQZNsAf-dKcy-6UKgvuYyEi2hyyUSIQFAHOTqNg4WOpLGN_ME.4yKWktGlcbBaeJbI5PO0rqBoKXEVN-hZfIbIfvjSYyA&dib_tag=se&keywords=archers+quest&qid=1762824636&sprefix=archers+ques%2Caps%2C139&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
   //   note: "Este igual esta en oferton en $1384"
   // },
-  {
-    nombre: 'MARVEL Legends Maximum Series, Figura de acción de Deadpool ',
-    img: 'https://m.media-amazon.com/images/I/71d4mFquFmL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/dp/B0DMRD3K4G?ref=ppx_yo2ov_dt_b_fed_asin_title',
-    note: ""
-  },
   {
     nombre: 'Bleach Remix N.5 ',
     img: 'https://m.media-amazon.com/images/I/713KCt3rqPL._SL1500_.jpg',
@@ -75,38 +63,12 @@ export const productos = [
   //     img: 'https://m.media-amazon.com/images/I/81fo-sX5HKL._AC_SL1500_.jpg',
   //     buyLink: 'https://www.amazon.com.mx/McFarlane-DC-Multiverse-Batman-Pulgadas/dp/B0DTBX62T6/ref=sr_1_8?__mk_es_MX=ÅMÅŽÕÑ&crid=1MBPJ7QSCM4PV&dib=eyJ2IjoiMSJ9.zya6eNm1d1-BZPTeev1UrfeJlSlD56wld0Mf3_mFYCkAva7o99THk5vRc1xlQLjhMaRgChHBR7XRvxn7lG7uqFRpJG3t1DV2estS4wnsZzWxZZNz9r47pyyc6Kr5f-WkMESak6Uy1qz0Bed9HO2-_1aoSAGW_jm3Yn1Ph8-P0SMq1qjA6I4gdOicyV0YZEQ1ox5lAQ15CX95rAYdB1rwMsY-61rJ1H3OpzVyNcFjwmlbCOYZhCXLrDJf3OKxyIUrZ7COjnfdhwbj2pW4iuL8vSMA0Bcxqmz3fA0jNHCpYs4.u-XohDMRHIEPuVoVY9xz_LDZJavAk6_DlvZHWt0hH3w&dib_tag=se&keywords=McFarlane+DC+Multiverse+Batman&qid=1759861574&sprefix=mcfarlane+dc+multiverse+batman+%2Caps%2C232&sr=8-8',
   // },
-  {
-    nombre: 'MEGA Halo Juguete de Construcción Tiroteo en la Compuerta',
-    img: 'https://m.media-amazon.com/images/I/81g+AclH3OL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/dp/B0BBSQQNF9/?coliid=I3N0R9M3VF72ZF&colid=13QCSLA5P0HV2&ref_=list_c_wl_lv_ov_lig_dp_it&th=1',
-    note: "igual esta en mercadolibre"
-  },
-  {
-    nombre: 'Mega Construx Halo, Warthog ',
-    img: 'https://http2.mlstatic.com/D_NQ_NP_2X_913804-MLA95688343188_102025-F.webp',
-    buyLink: 'https://www.mercadolibre.com.mx/mega-construx-halo-warthog-del-fleetcom-juguete-construccion-juguetes-para-ninos-de-13-anos-en-adelante-462/p/MLM29246308?pdp_filters=item_id:MLM3615168210#is_advertising=true&searchVariation=MLM29246308&backend_model=search-backend&position=1&search_layout=grid&type=pad&tracking_id=6aeee799-c761-49d4-b9af-22fa775c8b8a&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=ZWJhNGExYmUtYTkyMC00ODBjLTljNzktZDlhY2ZlNWUwYzVm',
-  },
-  {
-    nombre: 'MEGA Halo Juguete de Construcción Paquete de 20 Personajes Halo 2 ',
-    img: 'https://m.media-amazon.com/images/I/81VePwEtFEL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Mega-Halo-Paquete-de-Personajes/dp/B0CJTBCPK3/ref=sr_1_5?__mk_es_MX=ÅMÅŽÕÑ&crid=B5N4R6AM52TT&dib=eyJ2IjoiMSJ9.3cF6mzF0oqjGcroO13-Q3eSkij-MbprCPmSi_4z0cvzdN4azpK4r71agCWj2xGectwbsmpg1Wl8JlYG_eARk_X_GlK3-WLLH_4VeH10lPE6k0NWLfiJzUAgwsX23O6amjR4K-NpaT5kc2sIANz1eMVNu3MDNMFCTkC9ato3WlXUI6-TBmbjGJU7Neorz-Gw8yCe-3tldEkURWkiXyHLtUhe-av-2R3uikS4DGzjXmvlGCKmzOABIWsZmRKosPc2vcgFlyFHHj6gBWnPCfj7i8WPyrbKiJ0OwEyRHxYXEN8Q.pI2NjUOKTxW0GvVLfpN-wRESnSpsnG4TAUcN2EIytNk&dib_tag=se&keywords=halo&qid=1762827810&s=toys&sprefix=halo%2Ctoys%2C455&sr=1-5&ufe=app_do%3Aamzn1.fos.ecf8ea6b-8840-4b28-821b-333c5ba4275b',
-  },
   // {
   //   nombre: 'DC Finest: Batman: Red Skies ',
   //   img: 'https://m.media-amazon.com/images/I/816KeG421GL._SL1500_.jpg',
   //   buyLink: 'https://www.amazon.com.mx/gp/product/1799502732/ref=ewc_pr_img_1?smid=AVDBXBAVVSXLQ&psc=1',
   //   note: ""
   // },
-  {
-    nombre: 'HALO Master Chief - Casco de lujo con soporte, luces LED ',
-    img: 'https://m.media-amazon.com/images/I/51qYRmRI+cL._AC_SL1000_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Halo-Master-Chief-construye-Universo/dp/B08XYBPDWG/ref=sr_1_4?__mk_es_MX=ÅMÅŽÕÑ&crid=1HNMV48QRMPJW&dib=eyJ2IjoiMSJ9.3cF6mzF0oqjGcroO13-Q3eSkij-MbprCPmSi_4z0cvzdN4azpK4r71agCWj2xGectwbsmpg1Wl8JlYG_eARk_X_GlK3-WLLH_4VeH10lPE6k0NWLfiJzUAgwsX23O6amjR4K-NpaT5kc2sIANz1eMVNu3MDNMFCTkC9ato3WlXUI6-TBmbjGJU7Neorz-Gw8yCe-3tldEkURWkiXyHLtUhe-av-2R3uikS4DGzjXmvlGCKmzOABIWsZmRKosPc2vcgFlyFHHj6gBWnPCfj7i8WPyrbKiJ0OwEyRHxYXEN8Q.pI2NjUOKTxW0GvVLfpN-wRESnSpsnG4TAUcN2EIytNk&dib_tag=se&keywords=halo&qid=1762827668&s=toys&sprefix=halo%2Ctoys%2C127&sr=1-4&ufe=app_do%3Aamzn1.fos.3ad1a8a7-7417-4467-b505-11834e377abf',
-  },
-  {
-    nombre: 'Bat-man: The First Knight',
-    img: 'https://m.media-amazon.com/images/I/71vsEVXlUgL._SL1200_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Bat-man-First-Knight-Dan-Jurgens/dp/6075828664/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=28VDC4HCQKTYG&dib=eyJ2IjoiMSJ9.A7RHKUGOS1xfRxH66zviIZoYYS2b8e0gPYQNaFp28FBp1UXmyL2J4fN5Z4PGOTJuitpuL3zKAbpLuMp_5EQoN16lfgyGT07T8bv83p15fyj5_K3ryX8KSvstD9bP-BxKZfdCJf6frtuysC6RN6lxFr54y4Hml0DKV7ymIXTaVtVz6PilRNqB6aZzm0O4EvV93nkdpZ7nXVT1gW4jLnhTag.tal9adS8-kO89VL_KJ1ooA3nHBrOjSkk3RFR3fV-s9U&dib_tag=se&keywords=Bat-man%3A+The+First+Knight&qid=1759860870&sprefix=bat-man+the+first+knight%2Caps%2C122&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
-  },
   // {
   //   nombre: 'Super Mario Galaxy 1 y 2 ',
   //   img: 'https://m.media-amazon.com/images/I/81iU39O0DCL._AC_SL1500_.jpg',
