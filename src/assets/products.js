@@ -1,5 +1,11 @@
 export const productos = [
   {
+    nombre: 'PlayStation DualSense® Wireless Controller - Midnight Blac',
+    img: 'https://m.media-amazon.com/images/I/61GNEp3auhL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/PlayStation-DualSense®-Wireless-Controller-Midnight/dp/B0CQKKHT5J/ref=sr_1_5?crid=300NSVMET2FTH&dib=eyJ2IjoiMSJ9.zr8EDfyKXbrBVwZn4xsn8reeh9ydufsZFztw4Saaap0sM2xL2j8o6Q4UbZPwCRnTiulh2MPUjX_sST7hsJcs591ck7F6lcC2b71vf8VnLIQGCVKFkk9H5dvWkX4dAoaYIuZG_WId-LKVqHgGzv7jWXpES0c2Fyig1Xppv0tUDAPa5uJ9Zz51Iq4O8DL7UsK2xHuppf-cZGhVH61cGTw3vz21Jx7WsTTJYQpFEdqFdOAt61sfwloo_fFlN6GtjmZQaIsIMpAZYqSN3roNKiscFvs1haXSZWdyqU3PYOzAGsk.G_8oyCKVH-6BDKxJFMkRG_hllgbxFPXZOVz6QXfCels&dib_tag=se&keywords=control%2Bplaystation%2B5&qid=1770607762&sprefix=control%2Bpla%2Caps%2C192&sr=8-5&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b&th=1',
+    note: 'Si me compras este podemos jugar juntos'
+  },
+  {
     nombre: 'Jujutsu Kaisen N.30 ',
     img: 'https://m.media-amazon.com/images/I/71EJfGvUheL._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/6076383577/ref=ox_sc_saved_image_9?smid=AVDBXBAVVSXLQ&psc=1',
@@ -11,12 +17,12 @@ export const productos = [
     buyLink: 'https://www.amazon.com.mx/TAMASHII-NATIONS-BAS67612/dp/B0DX8GTJKB/ref=sr_1_5?__mk_es_MX=ÅMÅŽÕÑ&crid=2J6Z7GBME1HMT&dib=eyJ2IjoiMSJ9.tUkbGUatpFzRJj5zwQAy11mD-c8bgOTry4Vy78RvU9dJjmER81G7tz1tIoqVPmdLKYXZ3ONXpiA_qVifkNjcqTqeGqJ3AIbeZpL1GzXPKkH-pcckaG0c0qMAkI7rtxy3pV7RXtoCxlaLgWd62-Uhujan3BXniEiQBAFqTfkMbFiZyZgm2RKkjew4nKJf9okhqITA9_3OY7lxfi1mtYhyArSr1ZOUirH2kBwrrJACkzLVGj_aa8OhoCwjvOfdg6hHFZayk74V_MWhSXdzZ04OtPnjp7FEsc-wTGFq-ie0630.At8ohLQ1zYJW2Y27P9mOW-bOAWv64ZFF2w2z8mmKyk4&dib_tag=se&keywords=tamahashi+nations&qid=1768802669&sprefix=tamahashi+nation%2Caps%2C195&sr=8-5&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
     note: ""
   },
-  {
-    nombre: 'MARVEL Legends Series Gamerverse MarvelS Juggernaut ',
-    img: 'https://m.media-amazon.com/images/I/81POV0hEhCL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Marvel-MVL-Legends-Fall-ANV/dp/B0DK7PL9KH/ref=sr_1_8?__mk_es_MX=ÅMÅŽÕÑ&crid=37X9O66BQA58L&dib=eyJ2IjoiMSJ9.TInowaHOhT9FLcQ6uoaO1FSGHGsOMZd2ABy11IJaE81QV-I24SoPeT582AV8bYAIi4viukwr72xQrEfHxN3DGmXjT-ItfPL-6GNxh3IHezDizlFtPHRr9aUijvtyt0VCU69_PvpvEQ7b1Jnuhiu61k0LvKB18XRgggfOB51JHI3ytP-gl5n3HHlER3_qW_v_PO3YktzLvgLjWLt47gQ0DV1-IjSJxZrOnTSErQH07rjBaF84-aUqJIZMrV45y7NalCo-WeZr-LlVRqBncJlIpHDtG3jg50R3FIe6vZa-c0k.gTFFVO06VLbNSRbA9SVx69Teom4jBOfyMfy68CfXnno&dib_tag=se&keywords=marvel+legends&qid=1762824171&sprefix=marvel+legend%2Caps%2C155&sr=8-8&ufe=app_do%3Aamzn1.fos.e9c905c0-296e-4852-9ea7-c9f4c88300d3',
-    note: ""
-  },
+  // {
+  //   nombre: 'MARVEL Legends Series Gamerverse MarvelS Juggernaut ',
+  //   img: 'https://m.media-amazon.com/images/I/81POV0hEhCL._AC_SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/Marvel-MVL-Legends-Fall-ANV/dp/B0DK7PL9KH/ref=sr_1_8?__mk_es_MX=ÅMÅŽÕÑ&crid=37X9O66BQA58L&dib=eyJ2IjoiMSJ9.TInowaHOhT9FLcQ6uoaO1FSGHGsOMZd2ABy11IJaE81QV-I24SoPeT582AV8bYAIi4viukwr72xQrEfHxN3DGmXjT-ItfPL-6GNxh3IHezDizlFtPHRr9aUijvtyt0VCU69_PvpvEQ7b1Jnuhiu61k0LvKB18XRgggfOB51JHI3ytP-gl5n3HHlER3_qW_v_PO3YktzLvgLjWLt47gQ0DV1-IjSJxZrOnTSErQH07rjBaF84-aUqJIZMrV45y7NalCo-WeZr-LlVRqBncJlIpHDtG3jg50R3FIe6vZa-c0k.gTFFVO06VLbNSRbA9SVx69Teom4jBOfyMfy68CfXnno&dib_tag=se&keywords=marvel+legends&qid=1762824171&sprefix=marvel+legend%2Caps%2C155&sr=8-8&ufe=app_do%3Aamzn1.fos.e9c905c0-296e-4852-9ea7-c9f4c88300d3',
+  //   note: ""
+  // },
   // {
   //   nombre: 'MARVEL Legends Series, Máscara Premium de Wolverine',
   //   img: 'https://m.media-amazon.com/images/I/71NTWbONDuL._AC_SL1500_.jpg',
@@ -47,17 +53,17 @@ export const productos = [
     buyLink: 'https://www.amazon.com.mx/Bleach-Remix-N-5-Tite-Kubo/dp/6075827528/ref=sr_1_12?crid=ZKEI3QB0WWIM&dib=eyJ2IjoiMSJ9.UFoGWbYbrzgY7yITA8MJ5KQcB7ZxNv9Jpi791QbCjoMhFUnmK1HitHrcOhVfyQqT0nyrH_E2rIoAvwHaZMzrEhu9TrjEsYWMNP3Lzox-bUfcS1CXXTEo72Rf5HqIC5XMcB_Yl4jQnauCCsjCvSqM3YGas8S1bx7QE6D1Sfu8Xd3EnR4CyoayT9RiUbJ90dTBgBge05cEnyfGOSD3ES8pP6ON0vbbgW2Q2RSsYThFbUNiVroHlZDZR-Z4rsBNohkZCNmvEd435t1RHbDKNeWhK2xCspZ8fVYVSZasltVOyZ0.05SV_46293Uwbpsv-F7tOQEEQM8QEyD2yGnoQdzwgqY&dib_tag=se&keywords=bleach+remix+panini&qid=1762828696&sprefix=blea%2Caps%2C143&sr=8-12&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
     note: "De este me falta a partir del 5"
   },
-  {
-    nombre: 'McFarlane Toys DC Multiverse Man-Bat',
-    img: 'https://m.media-amazon.com/images/I/71SDS1YnZML._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/McFarlane-Toys-Multiverse-Man-Bat-Figura/dp/B09SYS41SK/ref=sr_1_5?__mk_es_MX=ÅMÅŽÕÑ&crid=2ES4PLJRJ4EXB&dib=eyJ2IjoiMSJ9.QLoiPixfxefMHvOleJTTV4kOYIb_lTLc6t3tr6HP-iostUnbMXJfA3Zk5rcmd51nb9RI5OsApMlvk83nrb8eX44LAcGGy4hnUN8Un5USHwjwdGRlI6ggP5TVUAWK_kvQ-RbqGJ_ruQ4lME82DMNqNaEbtglZzzGzVH5vlhRc0KVhAqiLJjpjlqekOlvZnT4aQGmPSrXP4xVGKF_gJr13lRCpLBUELp9rx9LhApw1ygIq8Q1nOLZTDl3PfGdxJ_ppZWC54uyjJMxT7PxTVPcmtbIXDQyOIQL1fYN-d4uuqq0.lOxQL11hDImgpnpb5vgi2X4JQWCnBPF3zNr7DLOzeRA&dib_tag=se&keywords=man%2Bbat&qid=1759861131&sprefix=man%2Bba%2Caps%2C133&sr=8-5&ufe=app_do%3Aamzn1.fos.45030d3a-91a9-4303-890a-776dee9077c1&th=1',
-    note: "Este ya volvio a estar disponible"
-  },
-  {
-    nombre: 'McFarlane Toys DC Multiverse Killer Croc,',
-    img: 'https://m.media-amazon.com/images/I/71MI4RccfyL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/B09N7WCQSR/ref=ox_sc_saved_image_2?smid=AVDBXBAVVSXLQ&th=1',
-  },
+  // {
+  //   nombre: 'McFarlane Toys DC Multiverse Man-Bat',
+  //   img: 'https://m.media-amazon.com/images/I/71SDS1YnZML._AC_SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/McFarlane-Toys-Multiverse-Man-Bat-Figura/dp/B09SYS41SK/ref=sr_1_5?__mk_es_MX=ÅMÅŽÕÑ&crid=2ES4PLJRJ4EXB&dib=eyJ2IjoiMSJ9.QLoiPixfxefMHvOleJTTV4kOYIb_lTLc6t3tr6HP-iostUnbMXJfA3Zk5rcmd51nb9RI5OsApMlvk83nrb8eX44LAcGGy4hnUN8Un5USHwjwdGRlI6ggP5TVUAWK_kvQ-RbqGJ_ruQ4lME82DMNqNaEbtglZzzGzVH5vlhRc0KVhAqiLJjpjlqekOlvZnT4aQGmPSrXP4xVGKF_gJr13lRCpLBUELp9rx9LhApw1ygIq8Q1nOLZTDl3PfGdxJ_ppZWC54uyjJMxT7PxTVPcmtbIXDQyOIQL1fYN-d4uuqq0.lOxQL11hDImgpnpb5vgi2X4JQWCnBPF3zNr7DLOzeRA&dib_tag=se&keywords=man%2Bbat&qid=1759861131&sprefix=man%2Bba%2Caps%2C133&sr=8-5&ufe=app_do%3Aamzn1.fos.45030d3a-91a9-4303-890a-776dee9077c1&th=1',
+  //   note: "Este ya volvio a estar disponible"
+  // },
+  // {
+  //   nombre: 'McFarlane Toys DC Multiverse Killer Croc,',
+  //   img: 'https://m.media-amazon.com/images/I/71MI4RccfyL._AC_SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/gp/product/B09N7WCQSR/ref=ox_sc_saved_image_2?smid=AVDBXBAVVSXLQ&th=1',
+  // },
   // {
   //     nombre: 'McFarlane DC Multiverse Batman (Batman: Year One',
   //     img: 'https://m.media-amazon.com/images/I/81fo-sX5HKL._AC_SL1500_.jpg',
