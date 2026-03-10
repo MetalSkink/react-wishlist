@@ -1,15 +1,15 @@
 export const productos = [
   {
-    nombre: 'PlayStation DualSense® Wireless Controller - Midnight Blac',
-    img: 'https://m.media-amazon.com/images/I/61GNEp3auhL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/PlayStation-DualSense®-Wireless-Controller-Midnight/dp/B0CQKKHT5J/ref=sr_1_5?crid=300NSVMET2FTH&dib=eyJ2IjoiMSJ9.zr8EDfyKXbrBVwZn4xsn8reeh9ydufsZFztw4Saaap0sM2xL2j8o6Q4UbZPwCRnTiulh2MPUjX_sST7hsJcs591ck7F6lcC2b71vf8VnLIQGCVKFkk9H5dvWkX4dAoaYIuZG_WId-LKVqHgGzv7jWXpES0c2Fyig1Xppv0tUDAPa5uJ9Zz51Iq4O8DL7UsK2xHuppf-cZGhVH61cGTw3vz21Jx7WsTTJYQpFEdqFdOAt61sfwloo_fFlN6GtjmZQaIsIMpAZYqSN3roNKiscFvs1haXSZWdyqU3PYOzAGsk.G_8oyCKVH-6BDKxJFMkRG_hllgbxFPXZOVz6QXfCels&dib_tag=se&keywords=control%2Bplaystation%2B5&qid=1770607762&sprefix=control%2Bpla%2Caps%2C192&sr=8-5&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b&th=1',
-    note: 'Si me compras este podemos jugar juntos'
+    nombre: 'Absolute Batman Vol. 2: Abomination ',
+    img: 'https://m.media-amazon.com/images/I/81et4zpQldL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/1799507505/ref=ox_sc_act_title_1?smid=AVDBXBAVVSXLQ&psc=1',
+    note: 'Ya salio el volumen 2 y anda de oferta.'
   },
   {
     nombre: 'Jujutsu Kaisen N.30 ',
     img: 'https://m.media-amazon.com/images/I/71EJfGvUheL._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/6076383577/ref=ox_sc_saved_image_9?smid=AVDBXBAVVSXLQ&psc=1',
-    note: 'Me falta el 28,29 y 30'
+    note: 'Me falta el 29 y 30'
   },
   {
     nombre: 'Goku S.H Figuarts Dragon Ball Z',
@@ -18,17 +18,23 @@ export const productos = [
     note: ""
   },
   // {
-  //   nombre: 'MARVEL Legends Series Gamerverse MarvelS Juggernaut ',
-  //   img: 'https://m.media-amazon.com/images/I/81POV0hEhCL._AC_SL1500_.jpg',
-  //   buyLink: 'https://www.amazon.com.mx/Marvel-MVL-Legends-Fall-ANV/dp/B0DK7PL9KH/ref=sr_1_8?__mk_es_MX=ÅMÅŽÕÑ&crid=37X9O66BQA58L&dib=eyJ2IjoiMSJ9.TInowaHOhT9FLcQ6uoaO1FSGHGsOMZd2ABy11IJaE81QV-I24SoPeT582AV8bYAIi4viukwr72xQrEfHxN3DGmXjT-ItfPL-6GNxh3IHezDizlFtPHRr9aUijvtyt0VCU69_PvpvEQ7b1Jnuhiu61k0LvKB18XRgggfOB51JHI3ytP-gl5n3HHlER3_qW_v_PO3YktzLvgLjWLt47gQ0DV1-IjSJxZrOnTSErQH07rjBaF84-aUqJIZMrV45y7NalCo-WeZr-LlVRqBncJlIpHDtG3jg50R3FIe6vZa-c0k.gTFFVO06VLbNSRbA9SVx69Teom4jBOfyMfy68CfXnno&dib_tag=se&keywords=marvel+legends&qid=1762824171&sprefix=marvel+legend%2Caps%2C155&sr=8-8&ufe=app_do%3Aamzn1.fos.e9c905c0-296e-4852-9ea7-c9f4c88300d3',
-  //   note: ""
-  // },
-  // {
-  //   nombre: 'MARVEL Legends Series, Máscara Premium de Wolverine',
-  //   img: 'https://m.media-amazon.com/images/I/71NTWbONDuL._AC_SL1500_.jpg',
-  //   buyLink: 'https://www.amazon.com.mx/Marvel-MVL-Legends-Gear-2/dp/B0DK7NZMGM/ref=sr_1_5?crid=38Y03CTH1T60K&dib=eyJ2IjoiMSJ9._MFvnAtPfpH_foIePuRk1KmKm4YgFtctgQPfPF0Vn3gQWS31krOLKF0XYP_ZewjzDDE7vPLRCF0rid_OHh2RMxTJC2UZNuEPCy6OPaMxcRezULrtc-T7AQyZrOzX3PIhbzhIvVRuM0vi14yrJVc1pJ9oGEnTFJw3_32SrOewIFP_4pxLYywmsgoKGoUpo4NT9SRgTYw-TLEpmgMFjIc2PEpENnDNh5NgWj9defWh1e3hd1OnAKf6z3mcvo_HUgBFZHnMljCPNVdJzmwYDG2IjvV-7m1eoyksO6ObVs9l4cc.kSimEf2m0b0xxUgV6oEAKQPHI9vtpTGSKrAU2S02z_o&dib_tag=se&keywords=casco+wolverine&qid=1765473842&sprefix=casco+wol%2Caps%2C128&sr=8-5&ufe=app_do%3Aamzn1.fos.e9c905c0-296e-4852-9ea7-c9f4c88300d3',
-  //   note: ""
-  // },
+    //   nombre: 'MARVEL Legends Series Gamerverse MarvelS Juggernaut ',
+    //   img: 'https://m.media-amazon.com/images/I/81POV0hEhCL._AC_SL1500_.jpg',
+    //   buyLink: 'https://www.amazon.com.mx/Marvel-MVL-Legends-Fall-ANV/dp/B0DK7PL9KH/ref=sr_1_8?__mk_es_MX=ÅMÅŽÕÑ&crid=37X9O66BQA58L&dib=eyJ2IjoiMSJ9.TInowaHOhT9FLcQ6uoaO1FSGHGsOMZd2ABy11IJaE81QV-I24SoPeT582AV8bYAIi4viukwr72xQrEfHxN3DGmXjT-ItfPL-6GNxh3IHezDizlFtPHRr9aUijvtyt0VCU69_PvpvEQ7b1Jnuhiu61k0LvKB18XRgggfOB51JHI3ytP-gl5n3HHlER3_qW_v_PO3YktzLvgLjWLt47gQ0DV1-IjSJxZrOnTSErQH07rjBaF84-aUqJIZMrV45y7NalCo-WeZr-LlVRqBncJlIpHDtG3jg50R3FIe6vZa-c0k.gTFFVO06VLbNSRbA9SVx69Teom4jBOfyMfy68CfXnno&dib_tag=se&keywords=marvel+legends&qid=1762824171&sprefix=marvel+legend%2Caps%2C155&sr=8-8&ufe=app_do%3Aamzn1.fos.e9c905c0-296e-4852-9ea7-c9f4c88300d3',
+    //   note: ""
+    // },
+  {
+    nombre: 'Pokémon TCG: Mega Charizard X Tin',
+    img: 'https://m.media-amazon.com/images/I/81nGH9w+H3L._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Pokémon-TCG-Mega-Charizard-Tin/dp/B0G5S61BHK/ref=sr_1_5?crid=1TI5JFQ0SO1WE&dib=eyJ2IjoiMSJ9.uBGvufuEmLEuZMoZpasLxYoe0JaGQ80OIeW_r2LySydhMzbCXk32OR4h-1q2ZLtNiyoyPP3m4M-3Xk8r_vCGkKwHKfVl5E1S0MkS1tdHH7clnFtDh61H_U0_youQXItuN7964rKbdckIPyLfeApWMA_VnF0foEz9FdOOjP1-kUF37qJZYdV4-wcR6Z2GTe3ZNWzwe4a8m_tn1Q-bDoDVNZrcte3oB7-3AnpbGPTholPafrDoXWll3WnBQTgf5zaeZJDyVPstu7KmcxdU0l8nOsTPDuTmNDX521mcsnL6gUo.LLZmIBTTfXIZ1yFRay07jXSmrJi4RGvS4CTQ462cs0g&dib_tag=se&keywords=lata+mega+charizard&qid=1772873029&sprefix=lata+mega+%2Caps%2C140&sr=8-5&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
+    note: ""
+  },
+  {
+    nombre: 'PlayStation DualSense® Wireless Controller - Midnight Blac',
+    img: 'https://m.media-amazon.com/images/I/61GNEp3auhL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/PlayStation-DualSense®-Wireless-Controller-Midnight/dp/B0CQKKHT5J/ref=sr_1_5?crid=300NSVMET2FTH&dib=eyJ2IjoiMSJ9.zr8EDfyKXbrBVwZn4xsn8reeh9ydufsZFztw4Saaap0sM2xL2j8o6Q4UbZPwCRnTiulh2MPUjX_sST7hsJcs591ck7F6lcC2b71vf8VnLIQGCVKFkk9H5dvWkX4dAoaYIuZG_WId-LKVqHgGzv7jWXpES0c2Fyig1Xppv0tUDAPa5uJ9Zz51Iq4O8DL7UsK2xHuppf-cZGhVH61cGTw3vz21Jx7WsTTJYQpFEdqFdOAt61sfwloo_fFlN6GtjmZQaIsIMpAZYqSN3roNKiscFvs1haXSZWdyqU3PYOzAGsk.G_8oyCKVH-6BDKxJFMkRG_hllgbxFPXZOVz6QXfCels&dib_tag=se&keywords=control%2Bplaystation%2B5&qid=1770607762&sprefix=control%2Bpla%2Caps%2C192&sr=8-5&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b&th=1',
+    note: 'Si me compras este podemos jugar juntos'
+  },
   {
     nombre: 'Hulk de Peter David Omnibus',
     img: 'https://m.media-amazon.com/images/I/71Nh6eFlO7L._SL1200_.jpg',
@@ -47,6 +53,12 @@ export const productos = [
   //   buyLink: 'https://www.amazon.com.mx/Green-Arrow-Archers-Quest-Omnibus/dp/1799500683/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=2UQW3LVXKUUXW&dib=eyJ2IjoiMSJ9.UKG2v2tPiZqQB-8mloRDbW8J6DE1zULX3IJsJqXu47TLNANA2mGgp2vkBPxG6aAOPNcgbcWww1RzgiDxS1LCodQImDSR7xUlfAZiD-ZXOeBgrY6LC88QALc3zB9k74Em3ZHqzFcoCKw5ulzNZT7tUalCBrGNcGe5yBNLxGfmDthXqgOgVId3j3Tsp5ZIte-PqSd4hu3BT99BoOagkBplVW3CFMp7QDGVG8wRvMHHBz5jYXhKT5_IQncH6cmQZNsAf-dKcy-6UKgvuYyEi2hyyUSIQFAHOTqNg4WOpLGN_ME.4yKWktGlcbBaeJbI5PO0rqBoKXEVN-hZfIbIfvjSYyA&dib_tag=se&keywords=archers+quest&qid=1762824636&sprefix=archers+ques%2Caps%2C139&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
   //   note: "Este igual esta en oferton en $1384"
   // },
+  {
+    nombre: 'Pokemon Center: Kangaskhan peluche, ',
+    img: 'https://m.media-amazon.com/images/I/61FnZZNLjnL._AC_SL1200_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Pokemon-Center-Kangaskhan-Buddy-pulgadas/dp/B0F1JR5HJW',
+    note: ""
+  },
   {
     nombre: 'Bleach Remix N.5 ',
     img: 'https://m.media-amazon.com/images/I/713KCt3rqPL._SL1500_.jpg',
