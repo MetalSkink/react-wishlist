@@ -1,9 +1,27 @@
 export const productos = [
   {
+    nombre: 'Peluche de 12 Pulgadas Gengar',
+    img: 'https://m.media-amazon.com/images/I/91qjVbNxcRL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Pokémon-PKW4465-Peluche-Pulgadas-Gengar/dp/B0CTTWT8BT/ref=sr_1_6?__mk_es_MX=ÅMÅŽÕÑ&crid=3VT09JMF6BXNL&dib=eyJ2IjoiMSJ9.OQUKXgRyB29s4_wdfIwP4cKbjsh5045O2EwfvtZK0wbhE9tVcSbsQSYxnjjy8Ghs4D30RedsDkkWMlyasXOqSrMYN5BbwqnhmKk06yHGpQYGUriXmHPorgkTJQrhA9dT4AULur61ZG87QceY2YM3bpE93cHgYcGahEaJEBw1myzeYVQ-0xpsPUchVQxK2_t9tJVxL3hZNWZcajiB3CcyQFianzcY0resYbRz6JTQrXstsGtRka51dw9ZzQk7ZhALhlHEuSGMB8QcizVVTmUH59p8OnUvYtRojKqQFdRHd3k.Vh6Q-e7NXCF0ZduXGqGkN6RkIBdBJsweiThf2gZQTEU&dib_tag=se&keywords=gengar%2Bpeluche&qid=1775712065&sprefix=gengar%2Bpeluche%2Caps%2C171&sr=8-6&ufe=app_do%3Aamzn1.fos.45030d3a-91a9-4303-890a-776dee9077c1&th=1',
+    note: ''
+  },
+  {
     nombre: 'Absolute Batman Vol. 2: Abomination ',
     img: 'https://m.media-amazon.com/images/I/81et4zpQldL._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/1799507505/ref=ox_sc_act_title_1?smid=AVDBXBAVVSXLQ&psc=1',
     note: 'Ya salio el volumen 2 y anda de oferta.'
+  },
+  {
+    nombre: 'Batman: Dark Patterns',
+    img: 'https://m.media-amazon.com/images/I/71ZtWDJJe+L._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Batman-Dark-Patterns-Dan-Watters/dp/1799510514/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=37JCFJX78DAE6&dib=eyJ2IjoiMSJ9.GgzvRB8uqhktWGadaOb7UuRO1LPDbTcWnQ09akUNtAat1vN0ORebGHEVIO2LaQKDBIseYHBRydD526L7nYahpT4Td8jWzIS7SMU900mh7Vr52ydnp_aF0pEhkdiHGPfGGlEpVEW589WNyRdMlJIYgkUxwd9838Ds2HGPmCITcr9mFFFvGGY8czNGkP9p4QozPPxfElm10aWFzFBqimhpHck1WOH2Qschctfl99F4qSO4blgf4HhKqQvCxqGKG0JTHB2bL_WU2Jg3dpp1rp57bIkBpy2RT32bvrXaG08vXkU.B10O8y6R0uEWsZIyAA--y0EUvr_ui1j2s0Muz_eme4s&dib_tag=se&keywords=batman+dark+patterns&qid=1775712892&sprefix=batman+dark+patterns%2Caps%2C154&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
+    note: ''
+  },
+  {
+    nombre: 'One Piece N.112 ',
+    img: 'https://m.media-amazon.com/images/I/81VAw179-PL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/One-Piece-N-112-Eichiro-Oda/dp/6076387947/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=1MRQ3LX3FRF0C&dib=eyJ2IjoiMSJ9.jpCkj5cg4vrUM7zkh1l9QWiUroD6Nq-MaLw_ROtx_-4tLCiXxqELK7y8FXqsG_Li8SZuLLy-Q6Yv8zwrqEoq6Y2HAGGDm6mekmCQ-KFBWsRh428NTMMJUZeGs6cEwQfenknQjOxG_miNE-5_8BeJCHMYNMnx6-I8uscxBntQEMdGLSYFZgHzfF_Krrsd9J-sqYWnBSB-95VFrPLUPrkwEpcjAHjciDrYKXefhrDQ8aoBPLaNArnInYzNerzdyeAs1M6HmkxNrrPCZxqKqURgk1deX_iG_26xhETVwB0KA5g.mQ5EQRoYrgYLWHQvyPdMf_ZKfm0pfyZDsYaedZizDac&dib_tag=se&keywords=one+piece+112&qid=1775712789&sprefix=one+piece+11%2Caps%2C158&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
+    note: ''
   },
   {
     nombre: 'Jujutsu Kaisen N.30 ',
@@ -53,12 +71,6 @@ export const productos = [
   //   buyLink: 'https://www.amazon.com.mx/Green-Arrow-Archers-Quest-Omnibus/dp/1799500683/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=2UQW3LVXKUUXW&dib=eyJ2IjoiMSJ9.UKG2v2tPiZqQB-8mloRDbW8J6DE1zULX3IJsJqXu47TLNANA2mGgp2vkBPxG6aAOPNcgbcWww1RzgiDxS1LCodQImDSR7xUlfAZiD-ZXOeBgrY6LC88QALc3zB9k74Em3ZHqzFcoCKw5ulzNZT7tUalCBrGNcGe5yBNLxGfmDthXqgOgVId3j3Tsp5ZIte-PqSd4hu3BT99BoOagkBplVW3CFMp7QDGVG8wRvMHHBz5jYXhKT5_IQncH6cmQZNsAf-dKcy-6UKgvuYyEi2hyyUSIQFAHOTqNg4WOpLGN_ME.4yKWktGlcbBaeJbI5PO0rqBoKXEVN-hZfIbIfvjSYyA&dib_tag=se&keywords=archers+quest&qid=1762824636&sprefix=archers+ques%2Caps%2C139&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
   //   note: "Este igual esta en oferton en $1384"
   // },
-  {
-    nombre: 'Pokemon Center: Kangaskhan peluche, ',
-    img: 'https://m.media-amazon.com/images/I/61FnZZNLjnL._AC_SL1200_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Pokemon-Center-Kangaskhan-Buddy-pulgadas/dp/B0F1JR5HJW',
-    note: ""
-  },
   {
     nombre: 'Bleach Remix N.5 ',
     img: 'https://m.media-amazon.com/images/I/713KCt3rqPL._SL1500_.jpg',
