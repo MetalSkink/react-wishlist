@@ -1,15 +1,9 @@
 export const productos = [
   {
-    nombre: 'Peluche de 12 Pulgadas Gengar',
-    img: 'https://m.media-amazon.com/images/I/91qjVbNxcRL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Pokémon-PKW4465-Peluche-Pulgadas-Gengar/dp/B0CTTWT8BT/ref=sr_1_6?__mk_es_MX=ÅMÅŽÕÑ&crid=3VT09JMF6BXNL&dib=eyJ2IjoiMSJ9.OQUKXgRyB29s4_wdfIwP4cKbjsh5045O2EwfvtZK0wbhE9tVcSbsQSYxnjjy8Ghs4D30RedsDkkWMlyasXOqSrMYN5BbwqnhmKk06yHGpQYGUriXmHPorgkTJQrhA9dT4AULur61ZG87QceY2YM3bpE93cHgYcGahEaJEBw1myzeYVQ-0xpsPUchVQxK2_t9tJVxL3hZNWZcajiB3CcyQFianzcY0resYbRz6JTQrXstsGtRka51dw9ZzQk7ZhALhlHEuSGMB8QcizVVTmUH59p8OnUvYtRojKqQFdRHd3k.Vh6Q-e7NXCF0ZduXGqGkN6RkIBdBJsweiThf2gZQTEU&dib_tag=se&keywords=gengar%2Bpeluche&qid=1775712065&sprefix=gengar%2Bpeluche%2Caps%2C171&sr=8-6&ufe=app_do%3Aamzn1.fos.45030d3a-91a9-4303-890a-776dee9077c1&th=1',
+    nombre: 'Batman: Sword of Azrael: Deluxe Edition',
+    img: 'https://m.media-amazon.com/images/I/81jWWq4LFlL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Batman-Azrael-Deluxe-Dennis-ONeil/dp/1799507793/ref=sr_1_34?__mk_es_MX=ÅMÅŽÕÑ&crid=2VRUC7E68DP8D&dib=eyJ2IjoiMSJ9.cNaMLqPv4Xnp61wE917O7qyx5jIUKisJESxZ4cVJZoInno4Sy52sVNhuDAqO3LKG9SEvGPEx0ifECnAxs3BuysqaXHdkVpoaVuDHxHN6bc3Z4CRc5fBSargNnhvzYv1UFK5DIgVTx4ywK7ITZIZPuUnz3UtHSbKJqdX7Ny9lZUdmKxOYnEL1a0f-jkl9qZkGrFssgKo17hpFFEqIHLl0GkVA8obqxWcf5ta_sKtixWGIs53KXnxgePTO9NYKxvUhXf7tH282a3C0dQz0HlIzhOt5L3itSDhTUfaUen09B2g.iyy5xes_p1chKKlInFK9VOoPhXQPWfq2MzUGetNXcS8&dib_tag=se&keywords=batman+comic&qid=1777445486&sprefix=batman+comi%2Caps%2C143&sr=8-34&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
     note: ''
-  },
-  {
-    nombre: 'Absolute Batman Vol. 2: Abomination ',
-    img: 'https://m.media-amazon.com/images/I/81et4zpQldL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/1799507505/ref=ox_sc_act_title_1?smid=AVDBXBAVVSXLQ&psc=1',
-    note: 'Ya salio el volumen 2 y anda de oferta.'
   },
   {
     nombre: 'Batman: Dark Patterns',
@@ -18,16 +12,16 @@ export const productos = [
     note: ''
   },
   {
+    nombre: 'Peluche de 12 Pulgadas Gengar',
+    img: 'https://m.media-amazon.com/images/I/91qjVbNxcRL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Pokémon-PKW4465-Peluche-Pulgadas-Gengar/dp/B0CTTWT8BT/ref=sr_1_6?__mk_es_MX=ÅMÅŽÕÑ&crid=3VT09JMF6BXNL&dib=eyJ2IjoiMSJ9.OQUKXgRyB29s4_wdfIwP4cKbjsh5045O2EwfvtZK0wbhE9tVcSbsQSYxnjjy8Ghs4D30RedsDkkWMlyasXOqSrMYN5BbwqnhmKk06yHGpQYGUriXmHPorgkTJQrhA9dT4AULur61ZG87QceY2YM3bpE93cHgYcGahEaJEBw1myzeYVQ-0xpsPUchVQxK2_t9tJVxL3hZNWZcajiB3CcyQFianzcY0resYbRz6JTQrXstsGtRka51dw9ZzQk7ZhALhlHEuSGMB8QcizVVTmUH59p8OnUvYtRojKqQFdRHd3k.Vh6Q-e7NXCF0ZduXGqGkN6RkIBdBJsweiThf2gZQTEU&dib_tag=se&keywords=gengar%2Bpeluche&qid=1775712065&sprefix=gengar%2Bpeluche%2Caps%2C171&sr=8-6&ufe=app_do%3Aamzn1.fos.45030d3a-91a9-4303-890a-776dee9077c1&th=1',
+    note: ''
+  },
+  {
     nombre: 'One Piece N.112 ',
     img: 'https://m.media-amazon.com/images/I/81VAw179-PL._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/One-Piece-N-112-Eichiro-Oda/dp/6076387947/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=1MRQ3LX3FRF0C&dib=eyJ2IjoiMSJ9.jpCkj5cg4vrUM7zkh1l9QWiUroD6Nq-MaLw_ROtx_-4tLCiXxqELK7y8FXqsG_Li8SZuLLy-Q6Yv8zwrqEoq6Y2HAGGDm6mekmCQ-KFBWsRh428NTMMJUZeGs6cEwQfenknQjOxG_miNE-5_8BeJCHMYNMnx6-I8uscxBntQEMdGLSYFZgHzfF_Krrsd9J-sqYWnBSB-95VFrPLUPrkwEpcjAHjciDrYKXefhrDQ8aoBPLaNArnInYzNerzdyeAs1M6HmkxNrrPCZxqKqURgk1deX_iG_26xhETVwB0KA5g.mQ5EQRoYrgYLWHQvyPdMf_ZKfm0pfyZDsYaedZizDac&dib_tag=se&keywords=one+piece+112&qid=1775712789&sprefix=one+piece+11%2Caps%2C158&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
     note: ''
-  },
-  {
-    nombre: 'Jujutsu Kaisen N.30 ',
-    img: 'https://m.media-amazon.com/images/I/71EJfGvUheL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/gp/product/6076383577/ref=ox_sc_saved_image_9?smid=AVDBXBAVVSXLQ&psc=1',
-    note: 'Me falta el 29 y 30'
   },
   {
     nombre: 'Goku S.H Figuarts Dragon Ball Z',
@@ -41,12 +35,12 @@ export const productos = [
     //   buyLink: 'https://www.amazon.com.mx/Marvel-MVL-Legends-Fall-ANV/dp/B0DK7PL9KH/ref=sr_1_8?__mk_es_MX=ÅMÅŽÕÑ&crid=37X9O66BQA58L&dib=eyJ2IjoiMSJ9.TInowaHOhT9FLcQ6uoaO1FSGHGsOMZd2ABy11IJaE81QV-I24SoPeT582AV8bYAIi4viukwr72xQrEfHxN3DGmXjT-ItfPL-6GNxh3IHezDizlFtPHRr9aUijvtyt0VCU69_PvpvEQ7b1Jnuhiu61k0LvKB18XRgggfOB51JHI3ytP-gl5n3HHlER3_qW_v_PO3YktzLvgLjWLt47gQ0DV1-IjSJxZrOnTSErQH07rjBaF84-aUqJIZMrV45y7NalCo-WeZr-LlVRqBncJlIpHDtG3jg50R3FIe6vZa-c0k.gTFFVO06VLbNSRbA9SVx69Teom4jBOfyMfy68CfXnno&dib_tag=se&keywords=marvel+legends&qid=1762824171&sprefix=marvel+legend%2Caps%2C155&sr=8-8&ufe=app_do%3Aamzn1.fos.e9c905c0-296e-4852-9ea7-c9f4c88300d3',
     //   note: ""
     // },
-  {
-    nombre: 'Pokémon TCG: Mega Charizard X Tin',
-    img: 'https://m.media-amazon.com/images/I/81nGH9w+H3L._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Pokémon-TCG-Mega-Charizard-Tin/dp/B0G5S61BHK/ref=sr_1_5?crid=1TI5JFQ0SO1WE&dib=eyJ2IjoiMSJ9.uBGvufuEmLEuZMoZpasLxYoe0JaGQ80OIeW_r2LySydhMzbCXk32OR4h-1q2ZLtNiyoyPP3m4M-3Xk8r_vCGkKwHKfVl5E1S0MkS1tdHH7clnFtDh61H_U0_youQXItuN7964rKbdckIPyLfeApWMA_VnF0foEz9FdOOjP1-kUF37qJZYdV4-wcR6Z2GTe3ZNWzwe4a8m_tn1Q-bDoDVNZrcte3oB7-3AnpbGPTholPafrDoXWll3WnBQTgf5zaeZJDyVPstu7KmcxdU0l8nOsTPDuTmNDX521mcsnL6gUo.LLZmIBTTfXIZ1yFRay07jXSmrJi4RGvS4CTQ462cs0g&dib_tag=se&keywords=lata+mega+charizard&qid=1772873029&sprefix=lata+mega+%2Caps%2C140&sr=8-5&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
-    note: ""
-  },
+  // {
+  //   nombre: 'Pokémon TCG: Mega Charizard X Tin',
+  //   img: 'https://m.media-amazon.com/images/I/81nGH9w+H3L._AC_SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/Pokémon-TCG-Mega-Charizard-Tin/dp/B0G5S61BHK/ref=sr_1_5?crid=1TI5JFQ0SO1WE&dib=eyJ2IjoiMSJ9.uBGvufuEmLEuZMoZpasLxYoe0JaGQ80OIeW_r2LySydhMzbCXk32OR4h-1q2ZLtNiyoyPP3m4M-3Xk8r_vCGkKwHKfVl5E1S0MkS1tdHH7clnFtDh61H_U0_youQXItuN7964rKbdckIPyLfeApWMA_VnF0foEz9FdOOjP1-kUF37qJZYdV4-wcR6Z2GTe3ZNWzwe4a8m_tn1Q-bDoDVNZrcte3oB7-3AnpbGPTholPafrDoXWll3WnBQTgf5zaeZJDyVPstu7KmcxdU0l8nOsTPDuTmNDX521mcsnL6gUo.LLZmIBTTfXIZ1yFRay07jXSmrJi4RGvS4CTQ462cs0g&dib_tag=se&keywords=lata+mega+charizard&qid=1772873029&sprefix=lata+mega+%2Caps%2C140&sr=8-5&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
+  //   note: ""
+  // },
   {
     nombre: 'PlayStation DualSense® Wireless Controller - Midnight Blac',
     img: 'https://m.media-amazon.com/images/I/61GNEp3auhL._AC_SL1500_.jpg',
@@ -60,24 +54,6 @@ export const productos = [
     note: ""
   },
   // {
-  //   nombre: 'Wonder Woman by Greg Rucka Omnibus',
-  //   img: 'https://m.media-amazon.com/images/I/81O84-mLN9L._SL1500_.jpg',
-  //   buyLink: 'https://www.amazon.com.mx/Wonder-Woman-Greg-Rucka-Omnibus/dp/1799501574/ref=sr_1_2?crid=230AMKQIAW1CE&dib=eyJ2IjoiMSJ9.T66jIMGgYKZnKk836j-ZF5JD9AVPE-Fg62Walh6g6cFYK1gTmGTk98V0QKFIcX0Vv173FxhAqaTC2J8yoPfp7jG7MWJyXtrQl00ugZ3MdSOtwKusLafZQSLt4Gzm20Qy3oi5E07wfFj18lBFN5NhJG-z1ZugLlZ3PtoO5qp7fM5asnBN7TYehkOw-h2LNOi_aaGK7F6mtCZDqSh3ehGqpmF7no4MKfHYNTt_nz9Z626Sv4ur4zGQ7Byet_T1sByjOw0YCUyrGLdR2ZZtmsYh7V-G1jtQJVGhkAlYlnq4uHU.0z6qPMyC0dkQ2PAicEgXf25N-k6HUCfwnZtU3JCK_z0&dib_tag=se&keywords=wonder+woman+omnibus&qid=1762757144&sprefix=wonder+woman+om%2Caps%2C115&sr=8-2&ufe=app_do%3Aamzn1.fos.3ad1a8a7-7417-4467-b505-11834e377abf',
-  //   note: "Este esta en oferton $1444 actualizacion: ya no esta de oferta "
-  // },
-  // {
-  //   nombre: 'Green Arrow: Archers Quest Omnibus Vol. 1  ',
-  //   img: 'https://m.media-amazon.com/images/I/81NEOlMlL0L._SL1500_.jpg',
-  //   buyLink: 'https://www.amazon.com.mx/Green-Arrow-Archers-Quest-Omnibus/dp/1799500683/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=2UQW3LVXKUUXW&dib=eyJ2IjoiMSJ9.UKG2v2tPiZqQB-8mloRDbW8J6DE1zULX3IJsJqXu47TLNANA2mGgp2vkBPxG6aAOPNcgbcWww1RzgiDxS1LCodQImDSR7xUlfAZiD-ZXOeBgrY6LC88QALc3zB9k74Em3ZHqzFcoCKw5ulzNZT7tUalCBrGNcGe5yBNLxGfmDthXqgOgVId3j3Tsp5ZIte-PqSd4hu3BT99BoOagkBplVW3CFMp7QDGVG8wRvMHHBz5jYXhKT5_IQncH6cmQZNsAf-dKcy-6UKgvuYyEi2hyyUSIQFAHOTqNg4WOpLGN_ME.4yKWktGlcbBaeJbI5PO0rqBoKXEVN-hZfIbIfvjSYyA&dib_tag=se&keywords=archers+quest&qid=1762824636&sprefix=archers+ques%2Caps%2C139&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
-  //   note: "Este igual esta en oferton en $1384"
-  // },
-  {
-    nombre: 'Bleach Remix N.5 ',
-    img: 'https://m.media-amazon.com/images/I/713KCt3rqPL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Bleach-Remix-N-5-Tite-Kubo/dp/6075827528/ref=sr_1_12?crid=ZKEI3QB0WWIM&dib=eyJ2IjoiMSJ9.UFoGWbYbrzgY7yITA8MJ5KQcB7ZxNv9Jpi791QbCjoMhFUnmK1HitHrcOhVfyQqT0nyrH_E2rIoAvwHaZMzrEhu9TrjEsYWMNP3Lzox-bUfcS1CXXTEo72Rf5HqIC5XMcB_Yl4jQnauCCsjCvSqM3YGas8S1bx7QE6D1Sfu8Xd3EnR4CyoayT9RiUbJ90dTBgBge05cEnyfGOSD3ES8pP6ON0vbbgW2Q2RSsYThFbUNiVroHlZDZR-Z4rsBNohkZCNmvEd435t1RHbDKNeWhK2xCspZ8fVYVSZasltVOyZ0.05SV_46293Uwbpsv-F7tOQEEQM8QEyD2yGnoQdzwgqY&dib_tag=se&keywords=bleach+remix+panini&qid=1762828696&sprefix=blea%2Caps%2C143&sr=8-12&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
-    note: "De este me falta a partir del 5"
-  },
-  // {
   //   nombre: 'McFarlane Toys DC Multiverse Man-Bat',
   //   img: 'https://m.media-amazon.com/images/I/71SDS1YnZML._AC_SL1500_.jpg',
   //   buyLink: 'https://www.amazon.com.mx/McFarlane-Toys-Multiverse-Man-Bat-Figura/dp/B09SYS41SK/ref=sr_1_5?__mk_es_MX=ÅMÅŽÕÑ&crid=2ES4PLJRJ4EXB&dib=eyJ2IjoiMSJ9.QLoiPixfxefMHvOleJTTV4kOYIb_lTLc6t3tr6HP-iostUnbMXJfA3Zk5rcmd51nb9RI5OsApMlvk83nrb8eX44LAcGGy4hnUN8Un5USHwjwdGRlI6ggP5TVUAWK_kvQ-RbqGJ_ruQ4lME82DMNqNaEbtglZzzGzVH5vlhRc0KVhAqiLJjpjlqekOlvZnT4aQGmPSrXP4xVGKF_gJr13lRCpLBUELp9rx9LhApw1ygIq8Q1nOLZTDl3PfGdxJ_ppZWC54uyjJMxT7PxTVPcmtbIXDQyOIQL1fYN-d4uuqq0.lOxQL11hDImgpnpb5vgi2X4JQWCnBPF3zNr7DLOzeRA&dib_tag=se&keywords=man%2Bbat&qid=1759861131&sprefix=man%2Bba%2Caps%2C133&sr=8-5&ufe=app_do%3Aamzn1.fos.45030d3a-91a9-4303-890a-776dee9077c1&th=1',
@@ -89,21 +65,10 @@ export const productos = [
   //   buyLink: 'https://www.amazon.com.mx/gp/product/B09N7WCQSR/ref=ox_sc_saved_image_2?smid=AVDBXBAVVSXLQ&th=1',
   // },
   // {
-  //     nombre: 'McFarlane DC Multiverse Batman (Batman: Year One',
-  //     img: 'https://m.media-amazon.com/images/I/81fo-sX5HKL._AC_SL1500_.jpg',
-  //     buyLink: 'https://www.amazon.com.mx/McFarlane-DC-Multiverse-Batman-Pulgadas/dp/B0DTBX62T6/ref=sr_1_8?__mk_es_MX=ÅMÅŽÕÑ&crid=1MBPJ7QSCM4PV&dib=eyJ2IjoiMSJ9.zya6eNm1d1-BZPTeev1UrfeJlSlD56wld0Mf3_mFYCkAva7o99THk5vRc1xlQLjhMaRgChHBR7XRvxn7lG7uqFRpJG3t1DV2estS4wnsZzWxZZNz9r47pyyc6Kr5f-WkMESak6Uy1qz0Bed9HO2-_1aoSAGW_jm3Yn1Ph8-P0SMq1qjA6I4gdOicyV0YZEQ1ox5lAQ15CX95rAYdB1rwMsY-61rJ1H3OpzVyNcFjwmlbCOYZhCXLrDJf3OKxyIUrZ7COjnfdhwbj2pW4iuL8vSMA0Bcxqmz3fA0jNHCpYs4.u-XohDMRHIEPuVoVY9xz_LDZJavAk6_DlvZHWt0hH3w&dib_tag=se&keywords=McFarlane+DC+Multiverse+Batman&qid=1759861574&sprefix=mcfarlane+dc+multiverse+batman+%2Caps%2C232&sr=8-8',
-  // },
-  // {
   //   nombre: 'DC Finest: Batman: Red Skies ',
   //   img: 'https://m.media-amazon.com/images/I/816KeG421GL._SL1500_.jpg',
   //   buyLink: 'https://www.amazon.com.mx/gp/product/1799502732/ref=ewc_pr_img_1?smid=AVDBXBAVVSXLQ&psc=1',
   //   note: ""
-  // },
-  // {
-  //   nombre: 'Super Mario Galaxy 1 y 2 ',
-  //   img: 'https://m.media-amazon.com/images/I/81iU39O0DCL._AC_SL1500_.jpg',
-  //   buyLink: 'https://www.amazon.com.mx/Super-Mario-GalaxyTM-MEX/dp/B0FR747K8Q/ref=sr_1_1?crid=1MYFXXV0SB7OJ&dib=eyJ2IjoiMSJ9.pu6ddAmKktIn0uPTO0q2Sjg_eEsP_qTGiqqYLjUYqEGi_OhCALqHk8klNjTaNjaoQ69n9HXeNPF0vTBzabmKF0I0rRUsTFF2NmlHEfVGXq-XZvxJ8PHZnMJdUFxuFM5nMkrqpfKpTvjBcGE9LheSSLUSK9Q-UfDu1aHAC6KjJ0AyammEAao2sQp6iP407F7hNZFcCQR7k3wAbEr72S1SrRB6iXR7q7v9ipA51pcVDQDmkowZIcmJXKt2cPfqPjO4OQIkZpmOr3PmEWobyjDnFBm_s5SXyDx81D_Afgmk80k.iXBDNnP15vUwWKrn94ZBVgmTqTbNkdDwpPjT3pGADUQ&dib_tag=se&keywords=super+mario+galaxy+switch&qid=1759860959&sprefix=super+ma%2Caps%2C154&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
-  //   note: "Este ahorita esta muuuuy caro pero alomejor en diciembre baja"
   // },
   // {
   //   nombre: 'Batman One Dark Knight',
