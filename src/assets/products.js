@@ -1,5 +1,17 @@
 export const productos = [
   {
+    nombre: 'Bleach: Thousand-Year Blood War - Ichigo Kurosaki',
+    img: 'https://m.media-amazon.com/images/I/51i+NepEEYL._AC_SL1200_.jpg',
+    buyLink: 'https://www.amazon.com.mx/TAMASHII-NATIONS-Thousand-Year-Tensazagetsu-S-H-Figuarts/dp/B0BX2NDGY4/ref=sr_1_6_mod_primary_new?__mk_es_MX=ÅMÅŽÕÑ&crid=1CWQA91O8KO4B&dib=eyJ2IjoiMSJ9.0W2ChwaXEJcbWJaV0YE6E84oJchqPTR78wAnrpRhOhuT9fmKNVkPQllMN6R0fWg19u1p_EpHB-5Lo7qArSeYBAnrFKsViPLRZYkbCN0jxTIjVUBsAJR5uFGoPrsd2DAXTfPvFCXHOGFApZtUPWj8HDu5SANAyvluCUBTZ2-NQs8xK3cxbDTCN97l0IkDifdRYjwQTjxJDql4_VHEj1vjCqNWJA6Ew2JDv0YxMh0YFZwkFv8-EBD7lSo6NvRNRiCSU0zOoJSvQ45KmFmPeYk62SZ49v_x50DPX3ceTTV-UM0.Q792u5nA2JiMFklIPtxXYWl0YQLgyUFRB5r5zyZCzWQ&dib_tag=se&keywords=sh%2Bfiguarts%2Bbleach&qid=1778655211&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=sh%2Bfiguarts%2Bbleach%2Caps%2C136&sr=8-6&th=1',
+    note: 'Me falta el 11, 12, 14, 15, 16, 17, 18'
+  },
+  {
+    nombre: 'Bleach Remix N.11',
+    img: 'https://m.media-amazon.com/images/I/61ofGnBWzlL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Bleach-Remix-N-11-Tite-Kubo/dp/6076383941/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=29FZ9J75WGMC3&dib=eyJ2IjoiMSJ9.eZm25GSEEGLH_PdEtJDCYSjz_Z-sf9SrkniNseeTQmXypQNBsq2i_cWm8dIr4vLAQEmE9hC4Ip1Fo7DYcVufVT0pC40nLYrCpkifO6xHluRb6dnnEgu9AF2Qci1_owry05nALoEbQ1XRTXSFb40c4hAYs6eUVVdCI8BqDLJ2rAZgHYu0XO_P1Eya5xpJKXvKGYwIOXYa46IKPVch3pG_5hiBkhQUn3kbF6vNob1rTaR0A396vEOixDSdqcaSpfe33GePs5ykV2qY4sW8-ufv7rdwW2jukl1oZ9KlRYHWIoY.D0E7fY9ocEmFa2-NG1Zd8NXuiYW9Ud9zI_7vX4Fxqyg&dib_tag=se&keywords=bleach+remix+11&qid=1777963447&sprefix=bleach+remix+1%2Caps%2C153&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
+    note: 'Me falta el 11, 12, 14, 15, 16, 17, 18'
+  },
+  {
     nombre: 'Batman: Sword of Azrael: Deluxe Edition',
     img: 'https://m.media-amazon.com/images/I/81jWWq4LFlL._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/Batman-Azrael-Deluxe-Dennis-ONeil/dp/1799507793/ref=sr_1_34?__mk_es_MX=ÅMÅŽÕÑ&crid=2VRUC7E68DP8D&dib=eyJ2IjoiMSJ9.cNaMLqPv4Xnp61wE917O7qyx5jIUKisJESxZ4cVJZoInno4Sy52sVNhuDAqO3LKG9SEvGPEx0ifECnAxs3BuysqaXHdkVpoaVuDHxHN6bc3Z4CRc5fBSargNnhvzYv1UFK5DIgVTx4ywK7ITZIZPuUnz3UtHSbKJqdX7Ny9lZUdmKxOYnEL1a0f-jkl9qZkGrFssgKo17hpFFEqIHLl0GkVA8obqxWcf5ta_sKtixWGIs53KXnxgePTO9NYKxvUhXf7tH282a3C0dQz0HlIzhOt5L3itSDhTUfaUen09B2g.iyy5xes_p1chKKlInFK9VOoPhXQPWfq2MzUGetNXcS8&dib_tag=se&keywords=batman+comic&qid=1777445486&sprefix=batman+comi%2Caps%2C143&sr=8-34&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
@@ -42,7 +54,7 @@ export const productos = [
   //   note: ""
   // },
   {
-    nombre: 'PlayStation DualSense® Wireless Controller - Midnight Blac',
+    nombre: 'PlayStation DualSense® Wireless Controller - Midnight Black',
     img: 'https://m.media-amazon.com/images/I/61GNEp3auhL._AC_SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/PlayStation-DualSense®-Wireless-Controller-Midnight/dp/B0CQKKHT5J/ref=sr_1_5?crid=300NSVMET2FTH&dib=eyJ2IjoiMSJ9.zr8EDfyKXbrBVwZn4xsn8reeh9ydufsZFztw4Saaap0sM2xL2j8o6Q4UbZPwCRnTiulh2MPUjX_sST7hsJcs591ck7F6lcC2b71vf8VnLIQGCVKFkk9H5dvWkX4dAoaYIuZG_WId-LKVqHgGzv7jWXpES0c2Fyig1Xppv0tUDAPa5uJ9Zz51Iq4O8DL7UsK2xHuppf-cZGhVH61cGTw3vz21Jx7WsTTJYQpFEdqFdOAt61sfwloo_fFlN6GtjmZQaIsIMpAZYqSN3roNKiscFvs1haXSZWdyqU3PYOzAGsk.G_8oyCKVH-6BDKxJFMkRG_hllgbxFPXZOVz6QXfCels&dib_tag=se&keywords=control%2Bplaystation%2B5&qid=1770607762&sprefix=control%2Bpla%2Caps%2C192&sr=8-5&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b&th=1',
     note: 'Si me compras este podemos jugar juntos'
