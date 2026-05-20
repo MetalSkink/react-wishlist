@@ -1,11 +1,5 @@
 export const productos = [
   {
-    nombre: 'Bleach: Thousand-Year Blood War - Ichigo Kurosaki',
-    img: 'https://m.media-amazon.com/images/I/51i+NepEEYL._AC_SL1200_.jpg',
-    buyLink: 'https://www.amazon.com.mx/TAMASHII-NATIONS-Thousand-Year-Tensazagetsu-S-H-Figuarts/dp/B0BX2NDGY4/ref=sr_1_6_mod_primary_new?__mk_es_MX=ÅMÅŽÕÑ&crid=1CWQA91O8KO4B&dib=eyJ2IjoiMSJ9.0W2ChwaXEJcbWJaV0YE6E84oJchqPTR78wAnrpRhOhuT9fmKNVkPQllMN6R0fWg19u1p_EpHB-5Lo7qArSeYBAnrFKsViPLRZYkbCN0jxTIjVUBsAJR5uFGoPrsd2DAXTfPvFCXHOGFApZtUPWj8HDu5SANAyvluCUBTZ2-NQs8xK3cxbDTCN97l0IkDifdRYjwQTjxJDql4_VHEj1vjCqNWJA6Ew2JDv0YxMh0YFZwkFv8-EBD7lSo6NvRNRiCSU0zOoJSvQ45KmFmPeYk62SZ49v_x50DPX3ceTTV-UM0.Q792u5nA2JiMFklIPtxXYWl0YQLgyUFRB5r5zyZCzWQ&dib_tag=se&keywords=sh%2Bfiguarts%2Bbleach&qid=1778655211&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=sh%2Bfiguarts%2Bbleach%2Caps%2C136&sr=8-6&th=1',
-    note: 'Me falta el 11, 12, 14, 15, 16, 17, 18'
-  },
-  {
     nombre: 'Bleach Remix N.11',
     img: 'https://m.media-amazon.com/images/I/61ofGnBWzlL._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/Bleach-Remix-N-11-Tite-Kubo/dp/6076383941/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=29FZ9J75WGMC3&dib=eyJ2IjoiMSJ9.eZm25GSEEGLH_PdEtJDCYSjz_Z-sf9SrkniNseeTQmXypQNBsq2i_cWm8dIr4vLAQEmE9hC4Ip1Fo7DYcVufVT0pC40nLYrCpkifO6xHluRb6dnnEgu9AF2Qci1_owry05nALoEbQ1XRTXSFb40c4hAYs6eUVVdCI8BqDLJ2rAZgHYu0XO_P1Eya5xpJKXvKGYwIOXYa46IKPVch3pG_5hiBkhQUn3kbF6vNob1rTaR0A396vEOixDSdqcaSpfe33GePs5ykV2qY4sW8-ufv7rdwW2jukl1oZ9KlRYHWIoY.D0E7fY9ocEmFa2-NG1Zd8NXuiYW9Ud9zI_7vX4Fxqyg&dib_tag=se&keywords=bleach+remix+11&qid=1777963447&sprefix=bleach+remix+1%2Caps%2C153&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
@@ -18,6 +12,16 @@ export const productos = [
     note: ''
   },
   {
+    nombre: 'Bleach: Thousand-Year Blood War - Ichigo Kurosaki',
+    img: 'https://m.media-amazon.com/images/I/51i+NepEEYL._AC_SL1200_.jpg',
+    buyLink: 'https://www.amazon.com.mx/TAMASHII-NATIONS-Thousand-Year-Tensazagetsu-S-H-Figuarts/dp/B0BX2NDGY4/ref=sr_1_6_mod_primary_new?__mk_es_MX=ÅMÅŽÕÑ&crid=1CWQA91O8KO4B&dib=eyJ2IjoiMSJ9.0W2ChwaXEJcbWJaV0YE6E84oJchqPTR78wAnrpRhOhuT9fmKNVkPQllMN6R0fWg19u1p_EpHB-5Lo7qArSeYBAnrFKsViPLRZYkbCN0jxTIjVUBsAJR5uFGoPrsd2DAXTfPvFCXHOGFApZtUPWj8HDu5SANAyvluCUBTZ2-NQs8xK3cxbDTCN97l0IkDifdRYjwQTjxJDql4_VHEj1vjCqNWJA6Ew2JDv0YxMh0YFZwkFv8-EBD7lSo6NvRNRiCSU0zOoJSvQ45KmFmPeYk62SZ49v_x50DPX3ceTTV-UM0.Q792u5nA2JiMFklIPtxXYWl0YQLgyUFRB5r5zyZCzWQ&dib_tag=se&keywords=sh%2Bfiguarts%2Bbleach&qid=1778655211&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=sh%2Bfiguarts%2Bbleach%2Caps%2C136&sr=8-6&th=1'
+  },
+  {
+    nombre: 'Mister Miracle',
+    img: 'https://m.media-amazon.com/images/I/711uZk6FZyL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Mister-Miracle-Deluxe-Tom-King/dp/1779505574/ref=asc_df_1779505574?mcid=01f9fb6559d13e71b5dbfe4540b9de88&tag=gledskshopmx-20&linkCode=df0&hvadid=709952657027&hvpos=&hvnetw=g&hvrand=8229924580466820377&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1010199&hvtargid=pla-918946190088&psc=1&hvocijid=8229924580466820377-1779505574-&hvexpln=0&language=es_MX'
+  },
+  {
     nombre: 'Batman: Dark Patterns',
     img: 'https://m.media-amazon.com/images/I/71ZtWDJJe+L._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/Batman-Dark-Patterns-Dan-Watters/dp/1799510514/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=37JCFJX78DAE6&dib=eyJ2IjoiMSJ9.GgzvRB8uqhktWGadaOb7UuRO1LPDbTcWnQ09akUNtAat1vN0ORebGHEVIO2LaQKDBIseYHBRydD526L7nYahpT4Td8jWzIS7SMU900mh7Vr52ydnp_aF0pEhkdiHGPfGGlEpVEW589WNyRdMlJIYgkUxwd9838Ds2HGPmCITcr9mFFFvGGY8czNGkP9p4QozPPxfElm10aWFzFBqimhpHck1WOH2Qschctfl99F4qSO4blgf4HhKqQvCxqGKG0JTHB2bL_WU2Jg3dpp1rp57bIkBpy2RT32bvrXaG08vXkU.B10O8y6R0uEWsZIyAA--y0EUvr_ui1j2s0Muz_eme4s&dib_tag=se&keywords=batman+dark+patterns&qid=1775712892&sprefix=batman+dark+patterns%2Caps%2C154&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
@@ -27,12 +31,6 @@ export const productos = [
     nombre: 'Peluche de 12 Pulgadas Gengar',
     img: 'https://m.media-amazon.com/images/I/91qjVbNxcRL._AC_SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/Pokémon-PKW4465-Peluche-Pulgadas-Gengar/dp/B0CTTWT8BT/ref=sr_1_6?__mk_es_MX=ÅMÅŽÕÑ&crid=3VT09JMF6BXNL&dib=eyJ2IjoiMSJ9.OQUKXgRyB29s4_wdfIwP4cKbjsh5045O2EwfvtZK0wbhE9tVcSbsQSYxnjjy8Ghs4D30RedsDkkWMlyasXOqSrMYN5BbwqnhmKk06yHGpQYGUriXmHPorgkTJQrhA9dT4AULur61ZG87QceY2YM3bpE93cHgYcGahEaJEBw1myzeYVQ-0xpsPUchVQxK2_t9tJVxL3hZNWZcajiB3CcyQFianzcY0resYbRz6JTQrXstsGtRka51dw9ZzQk7ZhALhlHEuSGMB8QcizVVTmUH59p8OnUvYtRojKqQFdRHd3k.Vh6Q-e7NXCF0ZduXGqGkN6RkIBdBJsweiThf2gZQTEU&dib_tag=se&keywords=gengar%2Bpeluche&qid=1775712065&sprefix=gengar%2Bpeluche%2Caps%2C171&sr=8-6&ufe=app_do%3Aamzn1.fos.45030d3a-91a9-4303-890a-776dee9077c1&th=1',
-    note: ''
-  },
-  {
-    nombre: 'One Piece N.112 ',
-    img: 'https://m.media-amazon.com/images/I/81VAw179-PL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/One-Piece-N-112-Eichiro-Oda/dp/6076387947/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=1MRQ3LX3FRF0C&dib=eyJ2IjoiMSJ9.jpCkj5cg4vrUM7zkh1l9QWiUroD6Nq-MaLw_ROtx_-4tLCiXxqELK7y8FXqsG_Li8SZuLLy-Q6Yv8zwrqEoq6Y2HAGGDm6mekmCQ-KFBWsRh428NTMMJUZeGs6cEwQfenknQjOxG_miNE-5_8BeJCHMYNMnx6-I8uscxBntQEMdGLSYFZgHzfF_Krrsd9J-sqYWnBSB-95VFrPLUPrkwEpcjAHjciDrYKXefhrDQ8aoBPLaNArnInYzNerzdyeAs1M6HmkxNrrPCZxqKqURgk1deX_iG_26xhETVwB0KA5g.mQ5EQRoYrgYLWHQvyPdMf_ZKfm0pfyZDsYaedZizDac&dib_tag=se&keywords=one+piece+112&qid=1775712789&sprefix=one+piece+11%2Caps%2C158&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
     note: ''
   },
   {
