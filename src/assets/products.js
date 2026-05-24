@@ -1,5 +1,11 @@
 export const productos = [
   {
+    nombre: 'Star Wars The Black Series, El Mandaloriano y Grogu',
+    img: 'https://m.media-amazon.com/images/I/71m0PWIG7DL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Star-Wars-Mandaloriano-Mandalorian-Coleccionable/dp/B0FH7MS2WJ/ref=sr_1_5?__mk_es_MX=ÅMÅŽÕÑ&crid=20RZ6F0163HRQ&dib=eyJ2IjoiMSJ9.4QKj-UOWd1G1FPXvgDNL3KXtO2AM2UQ_cpeMZDwrsvImZn_wiigQWVVX0vub7Tt-1-xD8nDqd3CrjAH9BHZ5UhylHY25aQMoDpqYZ6tQgW568M2xm8-1ji9K8ANHmyDq52BVDORnkZwDRBfp7Me3XF3R-kltnirt8FHBjl7YWLuToEqxsOFp2KUelqFuwQ9Qo-pzhlHIzH_SWkfqkm_puqkuFgzgVpq64OCHTVScwyfkIiseQezWcjm445HQNc2M2V2MRKy9nLy6ftulV95xWO7gNQAJUZQhaJ0n2ZmKsuo.SbNKVuAbArr7vmNp3vmr50UGr96sRYIVybPxxIMYCA0&dib_tag=se&keywords=mando+and+grogu+black+series&qid=1779602825&sprefix=mando+and+grogu+black+seri%2Caps%2C193&sr=8-5&ufe=app_do%3Aamzn1.fos.1f47693a-e1a6-4b06-ba29-28033858cf82',
+    note: ''
+  },
+  {
     nombre: 'Bleach Remix N.11',
     img: 'https://m.media-amazon.com/images/I/61ofGnBWzlL._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/Bleach-Remix-N-11-Tite-Kubo/dp/6076383941/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=29FZ9J75WGMC3&dib=eyJ2IjoiMSJ9.eZm25GSEEGLH_PdEtJDCYSjz_Z-sf9SrkniNseeTQmXypQNBsq2i_cWm8dIr4vLAQEmE9hC4Ip1Fo7DYcVufVT0pC40nLYrCpkifO6xHluRb6dnnEgu9AF2Qci1_owry05nALoEbQ1XRTXSFb40c4hAYs6eUVVdCI8BqDLJ2rAZgHYu0XO_P1Eya5xpJKXvKGYwIOXYa46IKPVch3pG_5hiBkhQUn3kbF6vNob1rTaR0A396vEOixDSdqcaSpfe33GePs5ykV2qY4sW8-ufv7rdwW2jukl1oZ9KlRYHWIoY.D0E7fY9ocEmFa2-NG1Zd8NXuiYW9Ud9zI_7vX4Fxqyg&dib_tag=se&keywords=bleach+remix+11&qid=1777963447&sprefix=bleach+remix+1%2Caps%2C153&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
