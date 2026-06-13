@@ -1,9 +1,21 @@
 export const productos = [
   {
-    nombre: 'Star Wars The Black Series, El Mandaloriano y Grogu',
-    img: 'https://m.media-amazon.com/images/I/71m0PWIG7DL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Star-Wars-Mandaloriano-Mandalorian-Coleccionable/dp/B0FH7MS2WJ/ref=sr_1_5?__mk_es_MX=ÅMÅŽÕÑ&crid=20RZ6F0163HRQ&dib=eyJ2IjoiMSJ9.4QKj-UOWd1G1FPXvgDNL3KXtO2AM2UQ_cpeMZDwrsvImZn_wiigQWVVX0vub7Tt-1-xD8nDqd3CrjAH9BHZ5UhylHY25aQMoDpqYZ6tQgW568M2xm8-1ji9K8ANHmyDq52BVDORnkZwDRBfp7Me3XF3R-kltnirt8FHBjl7YWLuToEqxsOFp2KUelqFuwQ9Qo-pzhlHIzH_SWkfqkm_puqkuFgzgVpq64OCHTVScwyfkIiseQezWcjm445HQNc2M2V2MRKy9nLy6ftulV95xWO7gNQAJUZQhaJ0n2ZmKsuo.SbNKVuAbArr7vmNp3vmr50UGr96sRYIVybPxxIMYCA0&dib_tag=se&keywords=mando+and+grogu+black+series&qid=1779602825&sprefix=mando+and+grogu+black+seri%2Caps%2C193&sr=8-5&ufe=app_do%3Aamzn1.fos.1f47693a-e1a6-4b06-ba29-28033858cf82',
+    nombre: 'Batman/Superman: Worlds Finest: Deluxe Edition Vol. 1',
+    img: 'https://m.media-amazon.com/images/I/911M3CDGudL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/gp/product/1799508196/ref=sw_img_1?smid=AVDBXBAVVSXLQ&psc=1',
     note: ''
+  },
+  {
+    nombre: 'Halo Campaign Evolved - PlayStation 5',
+    img: 'https://m.media-amazon.com/images/I/81Rh6IQJMmL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Halo-Campaign-Evolved-PlayStation-5/dp/B0H4HSCNY2/ref=sr_1_1?crid=3A5X2D1R9PAW0&dib=eyJ2IjoiMSJ9.PdSGF8dswTHhOHlSK8Kb-xRyr6VD56XkktLnfOkKB0lYITcdcGgUbpqWg2jeMl4UYO0jZAk61mqUqCkrz420ug.-5V6fFbIQLrwUl1L9wtkeP3BG1AAn7Qe6BmzqnMJ5H8&dib_tag=se&keywords=halo+campaign+evolved&qid=1781337199&s=books&sprefix=halo+camp%2Cstripbooks%2C137&sr=1-1-catcorr',
+    note: 'Esta en preventa sale el 28 julio'
+  },
+  {
+    nombre: 'Batman by Tom King Omnibus Vol. 2',
+    img: 'https://m.media-amazon.com/images/I/91d1RlIM+vL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Batman-Tom-King-Omnibus-Vol/dp/1799508773/ref=sr_1_2?__mk_es_MX=ÅMÅŽÕÑ&crid=2YNYG8MK0RIJU&dib=eyJ2IjoiMSJ9.UMnb0nUfvwRVb7Fe7pNeEP3y_cpk8LyEVIEcQIwLZdhKCaonuf3aJeZinJEGSoe5AYbUO6ddXkMUH8Y11QVFpM6-aPOZCvgO822ZQiB08t6XrUGRv-C-Im6JhVVHOGM89PEKJspA-GgtRW_Zs8GxXvMLDPTT7i_CvIgR7BCureeLkKPGaYn0GEs0Pt2_-KkYIRrEnFYhYjJ62Tq-SP51SzDMXo4vMa_iqV8iowgPscI.TyHdDv0S1tgdp9RyG2C7BSdenu4TtCRPSvRXMcFJj6A&dib_tag=se&keywords=batman+tom+king+omnibus&qid=1781337352&s=books&sprefix=batman+tom+king+omnibus%2Cstripbooks%2C147&sr=1-2',
+    note: 'Esta en preventa sale el 4 de agosto'
   },
   {
     nombre: 'Bleach Remix N.11',
@@ -12,16 +24,22 @@ export const productos = [
     note: 'Me falta el 11, 12, 14, 15, 16, 17, 18'
   },
   {
+    nombre: 'Star Wars The Black Series, El Mandaloriano y Grogu',
+    img: 'https://m.media-amazon.com/images/I/71m0PWIG7DL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Star-Wars-Mandaloriano-Mandalorian-Coleccionable/dp/B0FH7MS2WJ/ref=sr_1_5?__mk_es_MX=ÅMÅŽÕÑ&crid=20RZ6F0163HRQ&dib=eyJ2IjoiMSJ9.4QKj-UOWd1G1FPXvgDNL3KXtO2AM2UQ_cpeMZDwrsvImZn_wiigQWVVX0vub7Tt-1-xD8nDqd3CrjAH9BHZ5UhylHY25aQMoDpqYZ6tQgW568M2xm8-1ji9K8ANHmyDq52BVDORnkZwDRBfp7Me3XF3R-kltnirt8FHBjl7YWLuToEqxsOFp2KUelqFuwQ9Qo-pzhlHIzH_SWkfqkm_puqkuFgzgVpq64OCHTVScwyfkIiseQezWcjm445HQNc2M2V2MRKy9nLy6ftulV95xWO7gNQAJUZQhaJ0n2ZmKsuo.SbNKVuAbArr7vmNp3vmr50UGr96sRYIVybPxxIMYCA0&dib_tag=se&keywords=mando+and+grogu+black+series&qid=1779602825&sprefix=mando+and+grogu+black+seri%2Caps%2C193&sr=8-5&ufe=app_do%3Aamzn1.fos.1f47693a-e1a6-4b06-ba29-28033858cf82',
+    note: ''
+  },
+  {
     nombre: 'Batman: Sword of Azrael: Deluxe Edition',
     img: 'https://m.media-amazon.com/images/I/81jWWq4LFlL._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/Batman-Azrael-Deluxe-Dennis-ONeil/dp/1799507793/ref=sr_1_34?__mk_es_MX=ÅMÅŽÕÑ&crid=2VRUC7E68DP8D&dib=eyJ2IjoiMSJ9.cNaMLqPv4Xnp61wE917O7qyx5jIUKisJESxZ4cVJZoInno4Sy52sVNhuDAqO3LKG9SEvGPEx0ifECnAxs3BuysqaXHdkVpoaVuDHxHN6bc3Z4CRc5fBSargNnhvzYv1UFK5DIgVTx4ywK7ITZIZPuUnz3UtHSbKJqdX7Ny9lZUdmKxOYnEL1a0f-jkl9qZkGrFssgKo17hpFFEqIHLl0GkVA8obqxWcf5ta_sKtixWGIs53KXnxgePTO9NYKxvUhXf7tH282a3C0dQz0HlIzhOt5L3itSDhTUfaUen09B2g.iyy5xes_p1chKKlInFK9VOoPhXQPWfq2MzUGetNXcS8&dib_tag=se&keywords=batman+comic&qid=1777445486&sprefix=batman+comi%2Caps%2C143&sr=8-34&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
     note: ''
   },
-  {
-    nombre: 'Bleach: Thousand-Year Blood War - Ichigo Kurosaki',
-    img: 'https://m.media-amazon.com/images/I/51i+NepEEYL._AC_SL1200_.jpg',
-    buyLink: 'https://www.amazon.com.mx/TAMASHII-NATIONS-Thousand-Year-Tensazagetsu-S-H-Figuarts/dp/B0BX2NDGY4/ref=sr_1_6_mod_primary_new?__mk_es_MX=ÅMÅŽÕÑ&crid=1CWQA91O8KO4B&dib=eyJ2IjoiMSJ9.0W2ChwaXEJcbWJaV0YE6E84oJchqPTR78wAnrpRhOhuT9fmKNVkPQllMN6R0fWg19u1p_EpHB-5Lo7qArSeYBAnrFKsViPLRZYkbCN0jxTIjVUBsAJR5uFGoPrsd2DAXTfPvFCXHOGFApZtUPWj8HDu5SANAyvluCUBTZ2-NQs8xK3cxbDTCN97l0IkDifdRYjwQTjxJDql4_VHEj1vjCqNWJA6Ew2JDv0YxMh0YFZwkFv8-EBD7lSo6NvRNRiCSU0zOoJSvQ45KmFmPeYk62SZ49v_x50DPX3ceTTV-UM0.Q792u5nA2JiMFklIPtxXYWl0YQLgyUFRB5r5zyZCzWQ&dib_tag=se&keywords=sh%2Bfiguarts%2Bbleach&qid=1778655211&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=sh%2Bfiguarts%2Bbleach%2Caps%2C136&sr=8-6&th=1'
-  },
+  // {
+  //   nombre: 'Bleach: Thousand-Year Blood War - Ichigo Kurosaki',
+  //   img: 'https://m.media-amazon.com/images/I/51i+NepEEYL._AC_SL1200_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/TAMASHII-NATIONS-Thousand-Year-Tensazagetsu-S-H-Figuarts/dp/B0BX2NDGY4/ref=sr_1_6_mod_primary_new?__mk_es_MX=ÅMÅŽÕÑ&crid=1CWQA91O8KO4B&dib=eyJ2IjoiMSJ9.0W2ChwaXEJcbWJaV0YE6E84oJchqPTR78wAnrpRhOhuT9fmKNVkPQllMN6R0fWg19u1p_EpHB-5Lo7qArSeYBAnrFKsViPLRZYkbCN0jxTIjVUBsAJR5uFGoPrsd2DAXTfPvFCXHOGFApZtUPWj8HDu5SANAyvluCUBTZ2-NQs8xK3cxbDTCN97l0IkDifdRYjwQTjxJDql4_VHEj1vjCqNWJA6Ew2JDv0YxMh0YFZwkFv8-EBD7lSo6NvRNRiCSU0zOoJSvQ45KmFmPeYk62SZ49v_x50DPX3ceTTV-UM0.Q792u5nA2JiMFklIPtxXYWl0YQLgyUFRB5r5zyZCzWQ&dib_tag=se&keywords=sh%2Bfiguarts%2Bbleach&qid=1778655211&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=sh%2Bfiguarts%2Bbleach%2Caps%2C136&sr=8-6&th=1'
+  // },
   {
     nombre: 'Mister Miracle',
     img: 'https://m.media-amazon.com/images/I/711uZk6FZyL._SL1500_.jpg',
@@ -33,18 +51,18 @@ export const productos = [
     buyLink: 'https://www.amazon.com.mx/Batman-Dark-Patterns-Dan-Watters/dp/1799510514/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=37JCFJX78DAE6&dib=eyJ2IjoiMSJ9.GgzvRB8uqhktWGadaOb7UuRO1LPDbTcWnQ09akUNtAat1vN0ORebGHEVIO2LaQKDBIseYHBRydD526L7nYahpT4Td8jWzIS7SMU900mh7Vr52ydnp_aF0pEhkdiHGPfGGlEpVEW589WNyRdMlJIYgkUxwd9838Ds2HGPmCITcr9mFFFvGGY8czNGkP9p4QozPPxfElm10aWFzFBqimhpHck1WOH2Qschctfl99F4qSO4blgf4HhKqQvCxqGKG0JTHB2bL_WU2Jg3dpp1rp57bIkBpy2RT32bvrXaG08vXkU.B10O8y6R0uEWsZIyAA--y0EUvr_ui1j2s0Muz_eme4s&dib_tag=se&keywords=batman+dark+patterns&qid=1775712892&sprefix=batman+dark+patterns%2Caps%2C154&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
     note: ''
   },
-  {
-    nombre: 'Peluche de 12 Pulgadas Gengar',
-    img: 'https://m.media-amazon.com/images/I/91qjVbNxcRL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Pokémon-PKW4465-Peluche-Pulgadas-Gengar/dp/B0CTTWT8BT/ref=sr_1_6?__mk_es_MX=ÅMÅŽÕÑ&crid=3VT09JMF6BXNL&dib=eyJ2IjoiMSJ9.OQUKXgRyB29s4_wdfIwP4cKbjsh5045O2EwfvtZK0wbhE9tVcSbsQSYxnjjy8Ghs4D30RedsDkkWMlyasXOqSrMYN5BbwqnhmKk06yHGpQYGUriXmHPorgkTJQrhA9dT4AULur61ZG87QceY2YM3bpE93cHgYcGahEaJEBw1myzeYVQ-0xpsPUchVQxK2_t9tJVxL3hZNWZcajiB3CcyQFianzcY0resYbRz6JTQrXstsGtRka51dw9ZzQk7ZhALhlHEuSGMB8QcizVVTmUH59p8OnUvYtRojKqQFdRHd3k.Vh6Q-e7NXCF0ZduXGqGkN6RkIBdBJsweiThf2gZQTEU&dib_tag=se&keywords=gengar%2Bpeluche&qid=1775712065&sprefix=gengar%2Bpeluche%2Caps%2C171&sr=8-6&ufe=app_do%3Aamzn1.fos.45030d3a-91a9-4303-890a-776dee9077c1&th=1',
-    note: ''
-  },
-  {
-    nombre: 'Goku S.H Figuarts Dragon Ball Z',
-    img: 'https://m.media-amazon.com/images/I/71PCsi4x9ML._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/TAMASHII-NATIONS-BAS67612/dp/B0DX8GTJKB/ref=sr_1_5?__mk_es_MX=ÅMÅŽÕÑ&crid=2J6Z7GBME1HMT&dib=eyJ2IjoiMSJ9.tUkbGUatpFzRJj5zwQAy11mD-c8bgOTry4Vy78RvU9dJjmER81G7tz1tIoqVPmdLKYXZ3ONXpiA_qVifkNjcqTqeGqJ3AIbeZpL1GzXPKkH-pcckaG0c0qMAkI7rtxy3pV7RXtoCxlaLgWd62-Uhujan3BXniEiQBAFqTfkMbFiZyZgm2RKkjew4nKJf9okhqITA9_3OY7lxfi1mtYhyArSr1ZOUirH2kBwrrJACkzLVGj_aa8OhoCwjvOfdg6hHFZayk74V_MWhSXdzZ04OtPnjp7FEsc-wTGFq-ie0630.At8ohLQ1zYJW2Y27P9mOW-bOAWv64ZFF2w2z8mmKyk4&dib_tag=se&keywords=tamahashi+nations&qid=1768802669&sprefix=tamahashi+nation%2Caps%2C195&sr=8-5&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
-    note: ""
-  },
+  // {
+  //   nombre: 'Peluche de 12 Pulgadas Gengar',
+  //   img: 'https://m.media-amazon.com/images/I/91qjVbNxcRL._AC_SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/Pokémon-PKW4465-Peluche-Pulgadas-Gengar/dp/B0CTTWT8BT/ref=sr_1_6?__mk_es_MX=ÅMÅŽÕÑ&crid=3VT09JMF6BXNL&dib=eyJ2IjoiMSJ9.OQUKXgRyB29s4_wdfIwP4cKbjsh5045O2EwfvtZK0wbhE9tVcSbsQSYxnjjy8Ghs4D30RedsDkkWMlyasXOqSrMYN5BbwqnhmKk06yHGpQYGUriXmHPorgkTJQrhA9dT4AULur61ZG87QceY2YM3bpE93cHgYcGahEaJEBw1myzeYVQ-0xpsPUchVQxK2_t9tJVxL3hZNWZcajiB3CcyQFianzcY0resYbRz6JTQrXstsGtRka51dw9ZzQk7ZhALhlHEuSGMB8QcizVVTmUH59p8OnUvYtRojKqQFdRHd3k.Vh6Q-e7NXCF0ZduXGqGkN6RkIBdBJsweiThf2gZQTEU&dib_tag=se&keywords=gengar%2Bpeluche&qid=1775712065&sprefix=gengar%2Bpeluche%2Caps%2C171&sr=8-6&ufe=app_do%3Aamzn1.fos.45030d3a-91a9-4303-890a-776dee9077c1&th=1',
+  //   note: ''
+  // },
+  // {
+  //   nombre: 'Goku S.H Figuarts Dragon Ball Z',
+  //   img: 'https://m.media-amazon.com/images/I/71PCsi4x9ML._AC_SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/TAMASHII-NATIONS-BAS67612/dp/B0DX8GTJKB/ref=sr_1_5?__mk_es_MX=ÅMÅŽÕÑ&crid=2J6Z7GBME1HMT&dib=eyJ2IjoiMSJ9.tUkbGUatpFzRJj5zwQAy11mD-c8bgOTry4Vy78RvU9dJjmER81G7tz1tIoqVPmdLKYXZ3ONXpiA_qVifkNjcqTqeGqJ3AIbeZpL1GzXPKkH-pcckaG0c0qMAkI7rtxy3pV7RXtoCxlaLgWd62-Uhujan3BXniEiQBAFqTfkMbFiZyZgm2RKkjew4nKJf9okhqITA9_3OY7lxfi1mtYhyArSr1ZOUirH2kBwrrJACkzLVGj_aa8OhoCwjvOfdg6hHFZayk74V_MWhSXdzZ04OtPnjp7FEsc-wTGFq-ie0630.At8ohLQ1zYJW2Y27P9mOW-bOAWv64ZFF2w2z8mmKyk4&dib_tag=se&keywords=tamahashi+nations&qid=1768802669&sprefix=tamahashi+nation%2Caps%2C195&sr=8-5&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
+  //   note: ""
+  // },
   // {
     //   nombre: 'MARVEL Legends Series Gamerverse MarvelS Juggernaut ',
     //   img: 'https://m.media-amazon.com/images/I/81POV0hEhCL._AC_SL1500_.jpg',
@@ -57,18 +75,18 @@ export const productos = [
   //   buyLink: 'https://www.amazon.com.mx/Pokémon-TCG-Mega-Charizard-Tin/dp/B0G5S61BHK/ref=sr_1_5?crid=1TI5JFQ0SO1WE&dib=eyJ2IjoiMSJ9.uBGvufuEmLEuZMoZpasLxYoe0JaGQ80OIeW_r2LySydhMzbCXk32OR4h-1q2ZLtNiyoyPP3m4M-3Xk8r_vCGkKwHKfVl5E1S0MkS1tdHH7clnFtDh61H_U0_youQXItuN7964rKbdckIPyLfeApWMA_VnF0foEz9FdOOjP1-kUF37qJZYdV4-wcR6Z2GTe3ZNWzwe4a8m_tn1Q-bDoDVNZrcte3oB7-3AnpbGPTholPafrDoXWll3WnBQTgf5zaeZJDyVPstu7KmcxdU0l8nOsTPDuTmNDX521mcsnL6gUo.LLZmIBTTfXIZ1yFRay07jXSmrJi4RGvS4CTQ462cs0g&dib_tag=se&keywords=lata+mega+charizard&qid=1772873029&sprefix=lata+mega+%2Caps%2C140&sr=8-5&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
   //   note: ""
   // },
-  {
-    nombre: 'PlayStation DualSense® Wireless Controller - Midnight Black',
-    img: 'https://m.media-amazon.com/images/I/61GNEp3auhL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/PlayStation-DualSense®-Wireless-Controller-Midnight/dp/B0CQKKHT5J/ref=sr_1_5?crid=300NSVMET2FTH&dib=eyJ2IjoiMSJ9.zr8EDfyKXbrBVwZn4xsn8reeh9ydufsZFztw4Saaap0sM2xL2j8o6Q4UbZPwCRnTiulh2MPUjX_sST7hsJcs591ck7F6lcC2b71vf8VnLIQGCVKFkk9H5dvWkX4dAoaYIuZG_WId-LKVqHgGzv7jWXpES0c2Fyig1Xppv0tUDAPa5uJ9Zz51Iq4O8DL7UsK2xHuppf-cZGhVH61cGTw3vz21Jx7WsTTJYQpFEdqFdOAt61sfwloo_fFlN6GtjmZQaIsIMpAZYqSN3roNKiscFvs1haXSZWdyqU3PYOzAGsk.G_8oyCKVH-6BDKxJFMkRG_hllgbxFPXZOVz6QXfCels&dib_tag=se&keywords=control%2Bplaystation%2B5&qid=1770607762&sprefix=control%2Bpla%2Caps%2C192&sr=8-5&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b&th=1',
-    note: 'Si me compras este podemos jugar juntos'
-  },
-  {
-    nombre: 'Hulk de Peter David Omnibus',
-    img: 'https://m.media-amazon.com/images/I/71Nh6eFlO7L._SL1200_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Peter-David-Vol-01-Marvel-Omnibus/dp/6076382635/ref=sr_1_1?crid=C3JMEQ3P3SKT&dib=eyJ2IjoiMSJ9.-TzFdVL1L-9prhhP_HL_si7QY-B12TUksL8UW9yS9b8o3HLVTRNIl2ECWlqUZ7dgxfO26T1WrGM57NQshXLHppWuYuaiSWYVGUsFBSGS3H-JLTwnklmNVtMgIipte786NCBVu19R_P4oz7rHQlmiE9sADBvjyWuf8FUjQZzwf5j27f7BtuTPnwc22npLhlJVI4DF8fGcrmgEXtxtyE5vAnlZubgsqF0GrrXAUK5rrMjZnso2ED0Cc6teh0vUhm4mYVOgXB_82drj1v1-ZepKWD1YPSEbbKLzYzF9yfAHdSY.GGP1QT4aTulmMmjIP1IfjEKd4RcSPicklzdq6Kj1EjU&dib_tag=se&keywords=hulk+omnibus&qid=1766077295&sprefix=hulk+om%2Caps%2C133&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
-    note: ""
-  },
+  // {
+  //   nombre: 'PlayStation DualSense® Wireless Controller - Midnight Black',
+  //   img: 'https://m.media-amazon.com/images/I/61GNEp3auhL._AC_SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/PlayStation-DualSense®-Wireless-Controller-Midnight/dp/B0CQKKHT5J/ref=sr_1_5?crid=300NSVMET2FTH&dib=eyJ2IjoiMSJ9.zr8EDfyKXbrBVwZn4xsn8reeh9ydufsZFztw4Saaap0sM2xL2j8o6Q4UbZPwCRnTiulh2MPUjX_sST7hsJcs591ck7F6lcC2b71vf8VnLIQGCVKFkk9H5dvWkX4dAoaYIuZG_WId-LKVqHgGzv7jWXpES0c2Fyig1Xppv0tUDAPa5uJ9Zz51Iq4O8DL7UsK2xHuppf-cZGhVH61cGTw3vz21Jx7WsTTJYQpFEdqFdOAt61sfwloo_fFlN6GtjmZQaIsIMpAZYqSN3roNKiscFvs1haXSZWdyqU3PYOzAGsk.G_8oyCKVH-6BDKxJFMkRG_hllgbxFPXZOVz6QXfCels&dib_tag=se&keywords=control%2Bplaystation%2B5&qid=1770607762&sprefix=control%2Bpla%2Caps%2C192&sr=8-5&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b&th=1',
+  //   note: 'Si me compras este podemos jugar juntos'
+  // },
+  // {
+  //   nombre: 'Hulk de Peter David Omnibus',
+  //   img: 'https://m.media-amazon.com/images/I/71Nh6eFlO7L._SL1200_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/Peter-David-Vol-01-Marvel-Omnibus/dp/6076382635/ref=sr_1_1?crid=C3JMEQ3P3SKT&dib=eyJ2IjoiMSJ9.-TzFdVL1L-9prhhP_HL_si7QY-B12TUksL8UW9yS9b8o3HLVTRNIl2ECWlqUZ7dgxfO26T1WrGM57NQshXLHppWuYuaiSWYVGUsFBSGS3H-JLTwnklmNVtMgIipte786NCBVu19R_P4oz7rHQlmiE9sADBvjyWuf8FUjQZzwf5j27f7BtuTPnwc22npLhlJVI4DF8fGcrmgEXtxtyE5vAnlZubgsqF0GrrXAUK5rrMjZnso2ED0Cc6teh0vUhm4mYVOgXB_82drj1v1-ZepKWD1YPSEbbKLzYzF9yfAHdSY.GGP1QT4aTulmMmjIP1IfjEKd4RcSPicklzdq6Kj1EjU&dib_tag=se&keywords=hulk+omnibus&qid=1766077295&sprefix=hulk+om%2Caps%2C133&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
+  //   note: ""
+  // },
   // {
   //   nombre: 'McFarlane Toys DC Multiverse Man-Bat',
   //   img: 'https://m.media-amazon.com/images/I/71SDS1YnZML._AC_SL1500_.jpg',
