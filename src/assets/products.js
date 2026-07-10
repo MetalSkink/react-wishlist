@@ -1,15 +1,15 @@
 export const productos = [
   {
+    nombre: 'Bleach Remix N.11',
+    img: 'https://m.media-amazon.com/images/I/61u1X2sN0SL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Bleach-Remix-N-15-Editorial-Panini/dp/6076387505/ref=asc_df_6076387505?mcid=66349b9bd4153a019efb6cec8f34cd26&tag=gledskshopmx-20&linkCode=df0&hvadid=767538732478&hvpos=&hvnetw=g&hvrand=3650102242054814519&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1010199&hvtargid=pla-2460160282250&psc=1&hvocijid=3650102242054814519-6076387505-&hvexpln=0&language=es_MX',
+    note: 'Me falta el 12, 14, 15, 16, 17, 18'
+  },
+  {
     nombre: 'Batman/Superman: Worlds Finest: Deluxe Edition Vol. 1',
     img: 'https://m.media-amazon.com/images/I/911M3CDGudL._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/gp/product/1799508196/ref=sw_img_1?smid=AVDBXBAVVSXLQ&psc=1',
     note: ''
-  },
-  {
-    nombre: 'Halo Campaign Evolved - PlayStation 5',
-    img: 'https://m.media-amazon.com/images/I/81Rh6IQJMmL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Halo-Campaign-Evolved-PlayStation-5/dp/B0H4HSCNY2/ref=sr_1_1?crid=3A5X2D1R9PAW0&dib=eyJ2IjoiMSJ9.PdSGF8dswTHhOHlSK8Kb-xRyr6VD56XkktLnfOkKB0lYITcdcGgUbpqWg2jeMl4UYO0jZAk61mqUqCkrz420ug.-5V6fFbIQLrwUl1L9wtkeP3BG1AAn7Qe6BmzqnMJ5H8&dib_tag=se&keywords=halo+campaign+evolved&qid=1781337199&s=books&sprefix=halo+camp%2Cstripbooks%2C137&sr=1-1-catcorr',
-    note: 'Esta en preventa sale el 28 julio'
   },
   {
     nombre: 'Batman by Tom King Omnibus Vol. 2',
@@ -17,18 +17,12 @@ export const productos = [
     buyLink: 'https://www.amazon.com.mx/Batman-Tom-King-Omnibus-Vol/dp/1799508773/ref=sr_1_2?__mk_es_MX=ÅMÅŽÕÑ&crid=2YNYG8MK0RIJU&dib=eyJ2IjoiMSJ9.UMnb0nUfvwRVb7Fe7pNeEP3y_cpk8LyEVIEcQIwLZdhKCaonuf3aJeZinJEGSoe5AYbUO6ddXkMUH8Y11QVFpM6-aPOZCvgO822ZQiB08t6XrUGRv-C-Im6JhVVHOGM89PEKJspA-GgtRW_Zs8GxXvMLDPTT7i_CvIgR7BCureeLkKPGaYn0GEs0Pt2_-KkYIRrEnFYhYjJ62Tq-SP51SzDMXo4vMa_iqV8iowgPscI.TyHdDv0S1tgdp9RyG2C7BSdenu4TtCRPSvRXMcFJj6A&dib_tag=se&keywords=batman+tom+king+omnibus&qid=1781337352&s=books&sprefix=batman+tom+king+omnibus%2Cstripbooks%2C147&sr=1-2',
     note: 'Esta en preventa sale el 4 de agosto'
   },
-  {
-    nombre: 'Bleach Remix N.11',
-    img: 'https://m.media-amazon.com/images/I/61ofGnBWzlL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Bleach-Remix-N-11-Tite-Kubo/dp/6076383941/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=29FZ9J75WGMC3&dib=eyJ2IjoiMSJ9.eZm25GSEEGLH_PdEtJDCYSjz_Z-sf9SrkniNseeTQmXypQNBsq2i_cWm8dIr4vLAQEmE9hC4Ip1Fo7DYcVufVT0pC40nLYrCpkifO6xHluRb6dnnEgu9AF2Qci1_owry05nALoEbQ1XRTXSFb40c4hAYs6eUVVdCI8BqDLJ2rAZgHYu0XO_P1Eya5xpJKXvKGYwIOXYa46IKPVch3pG_5hiBkhQUn3kbF6vNob1rTaR0A396vEOixDSdqcaSpfe33GePs5ykV2qY4sW8-ufv7rdwW2jukl1oZ9KlRYHWIoY.D0E7fY9ocEmFa2-NG1Zd8NXuiYW9Ud9zI_7vX4Fxqyg&dib_tag=se&keywords=bleach+remix+11&qid=1777963447&sprefix=bleach+remix+1%2Caps%2C153&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
-    note: 'Me falta el 11, 12, 14, 15, 16, 17, 18'
-  },
-  {
-    nombre: 'Star Wars The Black Series, El Mandaloriano y Grogu',
-    img: 'https://m.media-amazon.com/images/I/71m0PWIG7DL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Star-Wars-Mandaloriano-Mandalorian-Coleccionable/dp/B0FH7MS2WJ/ref=sr_1_5?__mk_es_MX=ÅMÅŽÕÑ&crid=20RZ6F0163HRQ&dib=eyJ2IjoiMSJ9.4QKj-UOWd1G1FPXvgDNL3KXtO2AM2UQ_cpeMZDwrsvImZn_wiigQWVVX0vub7Tt-1-xD8nDqd3CrjAH9BHZ5UhylHY25aQMoDpqYZ6tQgW568M2xm8-1ji9K8ANHmyDq52BVDORnkZwDRBfp7Me3XF3R-kltnirt8FHBjl7YWLuToEqxsOFp2KUelqFuwQ9Qo-pzhlHIzH_SWkfqkm_puqkuFgzgVpq64OCHTVScwyfkIiseQezWcjm445HQNc2M2V2MRKy9nLy6ftulV95xWO7gNQAJUZQhaJ0n2ZmKsuo.SbNKVuAbArr7vmNp3vmr50UGr96sRYIVybPxxIMYCA0&dib_tag=se&keywords=mando+and+grogu+black+series&qid=1779602825&sprefix=mando+and+grogu+black+seri%2Caps%2C193&sr=8-5&ufe=app_do%3Aamzn1.fos.1f47693a-e1a6-4b06-ba29-28033858cf82',
-    note: ''
-  },
+  // {
+  //   nombre: 'Star Wars The Black Series, El Mandaloriano y Grogu',
+  //   img: 'https://m.media-amazon.com/images/I/71m0PWIG7DL._AC_SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/Star-Wars-Mandaloriano-Mandalorian-Coleccionable/dp/B0FH7MS2WJ/ref=sr_1_5?__mk_es_MX=ÅMÅŽÕÑ&crid=20RZ6F0163HRQ&dib=eyJ2IjoiMSJ9.4QKj-UOWd1G1FPXvgDNL3KXtO2AM2UQ_cpeMZDwrsvImZn_wiigQWVVX0vub7Tt-1-xD8nDqd3CrjAH9BHZ5UhylHY25aQMoDpqYZ6tQgW568M2xm8-1ji9K8ANHmyDq52BVDORnkZwDRBfp7Me3XF3R-kltnirt8FHBjl7YWLuToEqxsOFp2KUelqFuwQ9Qo-pzhlHIzH_SWkfqkm_puqkuFgzgVpq64OCHTVScwyfkIiseQezWcjm445HQNc2M2V2MRKy9nLy6ftulV95xWO7gNQAJUZQhaJ0n2ZmKsuo.SbNKVuAbArr7vmNp3vmr50UGr96sRYIVybPxxIMYCA0&dib_tag=se&keywords=mando+and+grogu+black+series&qid=1779602825&sprefix=mando+and+grogu+black+seri%2Caps%2C193&sr=8-5&ufe=app_do%3Aamzn1.fos.1f47693a-e1a6-4b06-ba29-28033858cf82',
+  //   note: ''
+  // },
   {
     nombre: 'Batman: Sword of Azrael: Deluxe Edition',
     img: 'https://m.media-amazon.com/images/I/81jWWq4LFlL._SL1500_.jpg',
