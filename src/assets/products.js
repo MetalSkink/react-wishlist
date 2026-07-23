@@ -1,5 +1,11 @@
 export const productos = [
   {
+    nombre: 'MARVEL Tōkon: Fighting Souls - PlayStation 5',
+    img: 'https://m.media-amazon.com/images/I/71HA1qtu33L._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/MARVEL-Tōkon-Fighting-Souls-PlayStation/dp/B0GTBSWJ2H/ref=sr_1_5?__mk_es_MX=ÅMÅŽÕÑ&crid=21LYZNVF496K9&dib=eyJ2IjoiMSJ9.dbQbVqwryGLH2laiu0nf73Hfvp3pM8Mjq8pQa5_4rZGj8Rk7IQWh7DVKsj2_smX16Cfnxv77xnexeGmEddspcFrpxDrtnziiwKrNRezNPyb9mqvtUWixP_U5BQb08W52Ey-DUX1tGIfbrSZKmigsCkj9COdR-ni-TsB1Vs2Y89-ZgTKOcg5WMMwsaw36GXXe5Tynd7Y6PE9blfPUVzN31isCBh-Kp3MYD5Fa6G3QcJpC_7IJiv32ULWbWgKY7eqBdvyYOUEAbBwCvKvlXwJS-kmbPM_-cp7oHGYZrAbWU3k.Qk8lhYEuv76o2IB1WN1Wz63g2mXlEBlc1A6BABUyqYQ&dib_tag=se&keywords=marvel+tokon&qid=1784779762&sprefix=marvel+tokon%2Caps%2C211&sr=8-5',
+    note: 'Va a salir este juego de pelea de marvel para ps5, se ve muy bueno.'
+  },
+  {
     nombre: 'Bleach Remix N.15',
     img: 'https://m.media-amazon.com/images/I/61u1X2sN0SL._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/Bleach-Remix-N-15-Editorial-Panini/dp/6076387505/ref=asc_df_6076387505?mcid=66349b9bd4153a019efb6cec8f34cd26&tag=gledskshopmx-20&linkCode=df0&hvadid=767538732478&hvpos=&hvnetw=g&hvrand=3650102242054814519&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1010199&hvtargid=pla-2460160282250&psc=1&hvocijid=3650102242054814519-6076387505-&hvexpln=0&language=es_MX',
