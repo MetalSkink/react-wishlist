@@ -1,9 +1,9 @@
 export const productos = [
   {
-    nombre: 'MARVEL Tōkon: Fighting Souls - PlayStation 5',
-    img: 'https://m.media-amazon.com/images/I/71HA1qtu33L._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/MARVEL-Tōkon-Fighting-Souls-PlayStation/dp/B0GTBSWJ2H/ref=sr_1_5?__mk_es_MX=ÅMÅŽÕÑ&crid=21LYZNVF496K9&dib=eyJ2IjoiMSJ9.dbQbVqwryGLH2laiu0nf73Hfvp3pM8Mjq8pQa5_4rZGj8Rk7IQWh7DVKsj2_smX16Cfnxv77xnexeGmEddspcFrpxDrtnziiwKrNRezNPyb9mqvtUWixP_U5BQb08W52Ey-DUX1tGIfbrSZKmigsCkj9COdR-ni-TsB1Vs2Y89-ZgTKOcg5WMMwsaw36GXXe5Tynd7Y6PE9blfPUVzN31isCBh-Kp3MYD5Fa6G3QcJpC_7IJiv32ULWbWgKY7eqBdvyYOUEAbBwCvKvlXwJS-kmbPM_-cp7oHGYZrAbWU3k.Qk8lhYEuv76o2IB1WN1Wz63g2mXlEBlc1A6BABUyqYQ&dib_tag=se&keywords=marvel+tokon&qid=1784779762&sprefix=marvel+tokon%2Caps%2C211&sr=8-5',
-    note: 'Va a salir este juego de pelea de marvel para ps5, se ve muy bueno.'
+    nombre: 'Swamp Thing: Dark Genesis Omnibus',
+    img: 'https://m.media-amazon.com/images/I/81uCkBBQSlL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Swamp-Thing-Dark-Genesis-Omnibus/dp/1799509052/ref=sr_1_1?crid=1ORALBI4TQEOV&dib=eyJ2IjoiMSJ9.y0y7pzUhjMw0z8NNgCdeGQhvPbOP4M-8kjXoaErE3AbBXAD9zzQB3x35P2V7es5CyNGiKx1TbvLCfFtScEk0KwvGlBnM88p8ZvXA2Y9QcfZbt6gVYBZJTC-gqhAfFK-PmDKlyeUaJ3tp4XmQHNo6gKWAy2SEX5zgRZVycTDmbSGqBBHva_A7ptRG8zwCBSgceNaEQZztiftY9t0Shy3gt2gfR7xh55zeWtHYAzixR1GVHlIRvepyYMEt4Q6fZo2q60MMb80RJPNT1CY-46So18aMePTvVA3bQu5wYEkgSmw.eucR1BX7lrrfddPv5N3MwF5KJXjE_yUjjuiW9cjqPCw&dib_tag=se&keywords=swamp+thing+dark+genesis+omnibus&qid=1789442798&sprefix=dark+genesis+swa%2Caps%2C225&sr=8-1',
+    note: ''
   },
   {
     nombre: 'Bleach Remix N.15',
@@ -11,30 +11,12 @@ export const productos = [
     buyLink: 'https://www.amazon.com.mx/Bleach-Remix-N-15-Editorial-Panini/dp/6076387505/ref=asc_df_6076387505?mcid=66349b9bd4153a019efb6cec8f34cd26&tag=gledskshopmx-20&linkCode=df0&hvadid=767538732478&hvpos=&hvnetw=g&hvrand=3650102242054814519&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1010199&hvtargid=pla-2460160282250&psc=1&hvocijid=3650102242054814519-6076387505-&hvexpln=0&language=es_MX',
     note: 'Me falta el 12, 15, 16, 17, 18'
   },
-  {
-    nombre: 'Batman: Sword of Azrael: Deluxe Edition',
-    img: 'https://m.media-amazon.com/images/I/81jWWq4LFlL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Batman-Azrael-Deluxe-Dennis-ONeil/dp/1799507793/ref=sr_1_34?__mk_es_MX=ÅMÅŽÕÑ&crid=2VRUC7E68DP8D&dib=eyJ2IjoiMSJ9.cNaMLqPv4Xnp61wE917O7qyx5jIUKisJESxZ4cVJZoInno4Sy52sVNhuDAqO3LKG9SEvGPEx0ifECnAxs3BuysqaXHdkVpoaVuDHxHN6bc3Z4CRc5fBSargNnhvzYv1UFK5DIgVTx4ywK7ITZIZPuUnz3UtHSbKJqdX7Ny9lZUdmKxOYnEL1a0f-jkl9qZkGrFssgKo17hpFFEqIHLl0GkVA8obqxWcf5ta_sKtixWGIs53KXnxgePTO9NYKxvUhXf7tH282a3C0dQz0HlIzhOt5L3itSDhTUfaUen09B2g.iyy5xes_p1chKKlInFK9VOoPhXQPWfq2MzUGetNXcS8&dib_tag=se&keywords=batman+comic&qid=1777445486&sprefix=batman+comi%2Caps%2C143&sr=8-34&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
-    note: ''
-  },
   // {
-  //   nombre: 'Batman/Superman: Worlds Finest: Deluxe Edition Vol. 1',
-  //   img: 'https://m.media-amazon.com/images/I/911M3CDGudL._SL1500_.jpg',
-  //   buyLink: 'https://www.amazon.com.mx/gp/product/1799508196/ref=sw_img_1?smid=AVDBXBAVVSXLQ&psc=1',
-  //   note: ''
+  //   nombre: 'Batman by Chip Zdarsky Omnibus Vol. 1',
+  //   img: 'https://m.media-amazon.com/images/I/61bXKlVa6OL._SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/Batman-Chip-Zdarsky-Omnibus-Vol/dp/1799507815/ref=sr_1_81?__mk_es_MX=ÅMÅŽÕÑ&crid=6IMPW61IWH7V&dib=eyJ2IjoiMSJ9.AjcevViulhjWNUZmYU790LO3ruPuofk_HPMLxOuLcGlenTgJzHzWWFDBqUM2iCQaha9CFe-vJgICfrVD_LfOiQIoKCc9nJ_fLQpcNGdtr_0uyrYi6ckK-3BOYwI7NxPjwxOEqpWeKUR4018JOr7t4Pg0ppyq9kpROuyG2iqPe-UpF5cZH0vy0193Qn04w2OjrCBwvVKvzFFTx6RyEUi5XcBxWBjy-jp7Lz4ckLwqBDKeeVVCRc5IXCO8EfBemTi34L8J0o7tQTBflU7cRtztvgr2uyU02AvOi34o2k0HpmQ.-BpErTvwaViWSrp8gW6ACpVD0IHqPY1F4VbHLhOEilg&dib_tag=se&keywords=dc+omnibus&qid=1784610344&sprefix=dc+omnibu%2Caps%2C167&sr=8-81&ufe=app_do%3Aamzn1.fos.30d51276-0fbc-410d-8be7-303f563d3c50&xpid=V_kp2pCjcY5wM',
+  //   note: 'Un Omnibus de Batman :D'
   // },
-  {
-    nombre: 'Batman by Chip Zdarsky Omnibus Vol. 1',
-    img: 'https://m.media-amazon.com/images/I/61bXKlVa6OL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Batman-Chip-Zdarsky-Omnibus-Vol/dp/1799507815/ref=sr_1_81?__mk_es_MX=ÅMÅŽÕÑ&crid=6IMPW61IWH7V&dib=eyJ2IjoiMSJ9.AjcevViulhjWNUZmYU790LO3ruPuofk_HPMLxOuLcGlenTgJzHzWWFDBqUM2iCQaha9CFe-vJgICfrVD_LfOiQIoKCc9nJ_fLQpcNGdtr_0uyrYi6ckK-3BOYwI7NxPjwxOEqpWeKUR4018JOr7t4Pg0ppyq9kpROuyG2iqPe-UpF5cZH0vy0193Qn04w2OjrCBwvVKvzFFTx6RyEUi5XcBxWBjy-jp7Lz4ckLwqBDKeeVVCRc5IXCO8EfBemTi34L8J0o7tQTBflU7cRtztvgr2uyU02AvOi34o2k0HpmQ.-BpErTvwaViWSrp8gW6ACpVD0IHqPY1F4VbHLhOEilg&dib_tag=se&keywords=dc+omnibus&qid=1784610344&sprefix=dc+omnibu%2Caps%2C167&sr=8-81&ufe=app_do%3Aamzn1.fos.30d51276-0fbc-410d-8be7-303f563d3c50&xpid=V_kp2pCjcY5wM',
-    note: 'Un Omnibus de Batman :D'
-  },
-  {
-    nombre: 'Batman by Tom King Omnibus Vol. 2',
-    img: 'https://m.media-amazon.com/images/I/91d1RlIM+vL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Batman-Tom-King-Omnibus-Vol/dp/1799508773/ref=sr_1_2?__mk_es_MX=ÅMÅŽÕÑ&crid=2YNYG8MK0RIJU&dib=eyJ2IjoiMSJ9.UMnb0nUfvwRVb7Fe7pNeEP3y_cpk8LyEVIEcQIwLZdhKCaonuf3aJeZinJEGSoe5AYbUO6ddXkMUH8Y11QVFpM6-aPOZCvgO822ZQiB08t6XrUGRv-C-Im6JhVVHOGM89PEKJspA-GgtRW_Zs8GxXvMLDPTT7i_CvIgR7BCureeLkKPGaYn0GEs0Pt2_-KkYIRrEnFYhYjJ62Tq-SP51SzDMXo4vMa_iqV8iowgPscI.TyHdDv0S1tgdp9RyG2C7BSdenu4TtCRPSvRXMcFJj6A&dib_tag=se&keywords=batman+tom+king+omnibus&qid=1781337352&s=books&sprefix=batman+tom+king+omnibus%2Cstripbooks%2C147&sr=1-2',
-    note: 'Esta en preventa sale el 4 de agosto'
-  },
   // {
   //   nombre: 'Star Wars The Black Series, El Mandaloriano y Grogu',
   //   img: 'https://m.media-amazon.com/images/I/71m0PWIG7DL._AC_SL1500_.jpg',
@@ -42,20 +24,10 @@ export const productos = [
   //   note: ''
   // },
   {
-    nombre: 'Bleach: Thousand-Year Blood War - Ichigo Kurosaki',
-    img: 'https://m.media-amazon.com/images/I/71YdSTNT-TL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/TAMASHII-NATIONS-Thousand-Year-Zangetsu-S-H-Figuarts/dp/B0D27JJY1Y/ref=sr_1_3?__mk_es_MX=ÅMÅŽÕÑ&crid=2POB5L2F0HJ8L&dib=eyJ2IjoiMSJ9.4UbH6crjSwXVEms6IYGZYT8PXu3IrO3xplh-E_oJkU9JOOVXxIve2vKsRoiabobakj2NGtF5841WkuGEHJaW4EP1OjLJ0yTueB9PbwL_MMmDRs1SCIg4O3g9ECXS80nlBk4qFg0wCyTB_TKTfIFuRk6O9c_uCGd_r75FCm_I5xqndoGTzeyyNiMpTpH6tm8mbbulLMC7IOgXbNPpfpriIw87FnelvOdtzPQ4r8r8AzDE9ic_FHgxIKtGu28tjiJDxAGofTeo9pJGJCDJ0_VJtW3iLWLmKHz3qQ2s0ahBcIk.olU687I1caAEQXelOify6wck2G4Ygh0ml8rFtOnKzuU&dib_tag=se&keywords=sh%2Bfiguarts%2Bbleach&qid=1784609881&s=toys&sprefix=sh%2Bfiguarts%2Bbleach%2Ctoys%2C169&sr=1-3&ufe=app_do%3Aamzn1.fos.e9c905c0-296e-4852-9ea7-c9f4c88300d3&th=1'
-  },
-  {
     nombre: 'Batman: Dark Patterns',
     img: 'https://m.media-amazon.com/images/I/71ZtWDJJe+L._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/Batman-Dark-Patterns-Dan-Watters/dp/1799510514/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=37JCFJX78DAE6&dib=eyJ2IjoiMSJ9.GgzvRB8uqhktWGadaOb7UuRO1LPDbTcWnQ09akUNtAat1vN0ORebGHEVIO2LaQKDBIseYHBRydD526L7nYahpT4Td8jWzIS7SMU900mh7Vr52ydnp_aF0pEhkdiHGPfGGlEpVEW589WNyRdMlJIYgkUxwd9838Ds2HGPmCITcr9mFFFvGGY8czNGkP9p4QozPPxfElm10aWFzFBqimhpHck1WOH2Qschctfl99F4qSO4blgf4HhKqQvCxqGKG0JTHB2bL_WU2Jg3dpp1rp57bIkBpy2RT32bvrXaG08vXkU.B10O8y6R0uEWsZIyAA--y0EUvr_ui1j2s0Muz_eme4s&dib_tag=se&keywords=batman+dark+patterns&qid=1775712892&sprefix=batman+dark+patterns%2Caps%2C154&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
     note: ''
-  },
-  {
-    nombre: 'Mister Miracle',
-    img: 'https://m.media-amazon.com/images/I/711uZk6FZyL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Mister-Miracle-Deluxe-Tom-King/dp/1779505574/ref=asc_df_1779505574?mcid=01f9fb6559d13e71b5dbfe4540b9de88&tag=gledskshopmx-20&linkCode=df0&hvadid=709952657027&hvpos=&hvnetw=g&hvrand=8229924580466820377&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1010199&hvtargid=pla-918946190088&psc=1&hvocijid=8229924580466820377-1779505574-&hvexpln=0&language=es_MX'
   },
   // {
   //   nombre: 'Peluche de 12 Pulgadas Gengar',
