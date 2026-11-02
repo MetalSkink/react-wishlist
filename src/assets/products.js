@@ -5,12 +5,12 @@ export const productos = [
     buyLink: 'https://www.amazon.com.mx/Swamp-Thing-Dark-Genesis-Omnibus/dp/1799509052/ref=sr_1_1?crid=1ORALBI4TQEOV&dib=eyJ2IjoiMSJ9.y0y7pzUhjMw0z8NNgCdeGQhvPbOP4M-8kjXoaErE3AbBXAD9zzQB3x35P2V7es5CyNGiKx1TbvLCfFtScEk0KwvGlBnM88p8ZvXA2Y9QcfZbt6gVYBZJTC-gqhAfFK-PmDKlyeUaJ3tp4XmQHNo6gKWAy2SEX5zgRZVycTDmbSGqBBHva_A7ptRG8zwCBSgceNaEQZztiftY9t0Shy3gt2gfR7xh55zeWtHYAzixR1GVHlIRvepyYMEt4Q6fZo2q60MMb80RJPNT1CY-46So18aMePTvVA3bQu5wYEkgSmw.eucR1BX7lrrfddPv5N3MwF5KJXjE_yUjjuiW9cjqPCw&dib_tag=se&keywords=swamp+thing+dark+genesis+omnibus&qid=1789442798&sprefix=dark+genesis+swa%2Caps%2C225&sr=8-1',
     note: ''
   },
-  {
-    nombre: 'Bleach Remix N.15',
-    img: 'https://m.media-amazon.com/images/I/61u1X2sN0SL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Bleach-Remix-N-15-Editorial-Panini/dp/6076387505/ref=asc_df_6076387505?mcid=66349b9bd4153a019efb6cec8f34cd26&tag=gledskshopmx-20&linkCode=df0&hvadid=767538732478&hvpos=&hvnetw=g&hvrand=3650102242054814519&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1010199&hvtargid=pla-2460160282250&psc=1&hvocijid=3650102242054814519-6076387505-&hvexpln=0&language=es_MX',
-    note: 'Me falta el 12, 15, 16, 17, 18'
-  },
+  // {
+  //   nombre: 'Bleach Remix N.15',
+  //   img: 'https://m.media-amazon.com/images/I/61u1X2sN0SL._SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/Bleach-Remix-N-15-Editorial-Panini/dp/6076387505/ref=asc_df_6076387505?mcid=66349b9bd4153a019efb6cec8f34cd26&tag=gledskshopmx-20&linkCode=df0&hvadid=767538732478&hvpos=&hvnetw=g&hvrand=3650102242054814519&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1010199&hvtargid=pla-2460160282250&psc=1&hvocijid=3650102242054814519-6076387505-&hvexpln=0&language=es_MX',
+  //   note: 'Me falta el 12, 15, 16, 17, 18'
+  // },
   // {
   //   nombre: 'Batman by Chip Zdarsky Omnibus Vol. 1',
   //   img: 'https://m.media-amazon.com/images/I/61bXKlVa6OL._SL1500_.jpg',
@@ -27,6 +27,18 @@ export const productos = [
     nombre: 'Batman: Dark Patterns',
     img: 'https://m.media-amazon.com/images/I/71ZtWDJJe+L._SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/Batman-Dark-Patterns-Dan-Watters/dp/1799510514/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=37JCFJX78DAE6&dib=eyJ2IjoiMSJ9.GgzvRB8uqhktWGadaOb7UuRO1LPDbTcWnQ09akUNtAat1vN0ORebGHEVIO2LaQKDBIseYHBRydD526L7nYahpT4Td8jWzIS7SMU900mh7Vr52ydnp_aF0pEhkdiHGPfGGlEpVEW589WNyRdMlJIYgkUxwd9838Ds2HGPmCITcr9mFFFvGGY8czNGkP9p4QozPPxfElm10aWFzFBqimhpHck1WOH2Qschctfl99F4qSO4blgf4HhKqQvCxqGKG0JTHB2bL_WU2Jg3dpp1rp57bIkBpy2RT32bvrXaG08vXkU.B10O8y6R0uEWsZIyAA--y0EUvr_ui1j2s0Muz_eme4s&dib_tag=se&keywords=batman+dark+patterns&qid=1775712892&sprefix=batman+dark+patterns%2Caps%2C154&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
+    note: ''
+  },
+  {
+    nombre: 'Batman: The Dark Knight Returns Deluxe Edition',
+    img: 'https://m.media-amazon.com/images/I/71-32e8N-uL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Batman-Dark-Knight-Returns-Deluxe/dp/1799513106/ref=sr_1_4?crid=QOUSFCLTCS8V&dib=eyJ2IjoiMSJ9.cNaMLqPv4Xnp61wE917O7hOAwYCObvHP5BR3cOSrT9PBMWVAGRe16PzzsMEQ17NqUaw9LO_w__ug6eBQJQzlQz5AhIr_JQJZ6tnPb44SeAJ3GP3FA9vTPuRTzIfAy4qgyUF3UGc-vOIAgoJqcfYxY_6nRmoMkQG0hh_OIZKZvTN0AS5mSBi94x3r95FQGQdRY2GQTRbOJoj7_P0FswLzv03LsCCnkerGbjjZSvN0XOv0qnx5dPREVmuL0YAdWbGImqM7z_8qMavYlayAvxpwVTCAVV4LwK15NY1meHBCo4w.9alFQUOevXBRDFGr8WkE8-XV8VsvdiRJW9EUOZS6wXk&dib_tag=se&keywords=batman+the+dark+knight+returns&qid=1793642400&sprefix=batman+the+dark+knight+retunr%2Caps%2C198&sr=8-4&ufe=app_do%3Aamzn1.fos.8a90e69c-45ea-4ce4-8795-da8fd1ef78a6',
+    note: ''
+  },
+  {
+    nombre: 'SCUF Elite Series 2 Joysticks de Alto Rendimiento para Xbox Elite Series 2',
+    img: 'https://m.media-amazon.com/images/I/71QNSGNbNOL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/SCUF-Elite-Thumbsticks-Xbox-4-Pack/dp/B0DJ9L2XHR/ref=sr_1_6?crid=2OEE70JJV49E8&dib=eyJ2IjoiMSJ9._lKAsgAiKR2ZoYVXlNmKE_GIHuPf4qu6lx65QxCchnYDsezLP83ymHSC0nFCDLvmXREkNKAM1xDcHU-0wJQX1QtAX-RVWOjwq9bHE3yRW644YrltmmSoeWjSt0l61o813h1zklaEpOXHaAAvvC_CL85A7WQAIoSb-Y6RnYfO7zAXRXO424idRsYpR3P2yjaFGOYgyj6q_XdGbF9wt0LbVRHX3bJEhkAznQ9DCqd-spPDUm3RLhRcvtdCSJgsHPRbAh5_LwWEi8fpi9deERzUPCdS9IaaoOyCbJIhn-rI38c.-BzCqpd95bQngfyZA6q9QnoF2FsZjSVqUZwbGf46M6s&dib_tag=se&keywords=scuf+xbox+elite+series+2&qid=1793642510&sprefix=scuf+elite+%2Caps%2C217&sr=8-6&ufe=app_do%3Aamzn1.fos.06fa9770-d92c-4c52-90c1-2e1c2a45e1df',
     note: ''
   },
   // {
