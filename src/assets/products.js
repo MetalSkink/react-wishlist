@@ -1,8 +1,20 @@
 export const productos = [
   {
-    nombre: 'Swamp Thing: Dark Genesis Omnibus',
-    img: 'https://m.media-amazon.com/images/I/81uCkBBQSlL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Swamp-Thing-Dark-Genesis-Omnibus/dp/1799509052/ref=sr_1_1?crid=1ORALBI4TQEOV&dib=eyJ2IjoiMSJ9.y0y7pzUhjMw0z8NNgCdeGQhvPbOP4M-8kjXoaErE3AbBXAD9zzQB3x35P2V7es5CyNGiKx1TbvLCfFtScEk0KwvGlBnM88p8ZvXA2Y9QcfZbt6gVYBZJTC-gqhAfFK-PmDKlyeUaJ3tp4XmQHNo6gKWAy2SEX5zgRZVycTDmbSGqBBHva_A7ptRG8zwCBSgceNaEQZztiftY9t0Shy3gt2gfR7xh55zeWtHYAzixR1GVHlIRvepyYMEt4Q6fZo2q60MMb80RJPNT1CY-46So18aMePTvVA3bQu5wYEkgSmw.eucR1BX7lrrfddPv5N3MwF5KJXjE_yUjjuiW9cjqPCw&dib_tag=se&keywords=swamp+thing+dark+genesis+omnibus&qid=1789442798&sprefix=dark+genesis+swa%2Caps%2C225&sr=8-1',
+    nombre: 'Batman: The Bronze Age Omnibus Vol. 1',
+    img: 'https://m.media-amazon.com/images/I/81wlZebrgfL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Batman-Bronze-Age-Omnibus-Vol/dp/1799508498/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=2Q5GH7HW9LXT8&dib=eyJ2IjoiMSJ9.8StFP9n7PHFnteTynkV3VVJkIJMc81FpCJsVdizDvz9reTI-UyMEqG5ncDHHRSmpFbaVA-_3mvOSGb29jL_u82fmHvLkUcQLia_odhy_HcGNmaOVPZHlkH_n_kEF0yPKbYONx3tjAS5llRF6KubrfE9n8iqWiSo1YuePpEiaGCSHeEG7wxkP6Q14syKSgivACPiQSvmPsmpHYniE5K2agvj-u7cnDEJv19pH_dS99W1RwXNY_KQ2Cu8r4Lyxeoe6cVUafa9U917tj9ooRJrmKzQzjZJORKKUqs22gaVY7Rk.UnI0dNUM5IXknj0Pbfxh-ej-ay1-L0eecgJvtgz1Vi0&dib_tag=se&keywords=batman+the+bronze+age&qid=1794292389&sprefix=batman+the+bornze+a%2Caps%2C218&sr=8-1&ufe=app_do%3Aamzn1.fos.8a90e69c-45ea-4ce4-8795-da8fd1ef78a6',
+    note: 'Este me gustaria muchito aunque si esta caro'
+  },
+  // {
+  //   nombre: 'Swamp Thing: Dark Genesis Omnibus',
+  //   img: 'https://m.media-amazon.com/images/I/81uCkBBQSlL._SL1500_.jpg',
+  //   buyLink: 'https://www.amazon.com.mx/Swamp-Thing-Dark-Genesis-Omnibus/dp/1799509052/ref=sr_1_1?crid=1ORALBI4TQEOV&dib=eyJ2IjoiMSJ9.y0y7pzUhjMw0z8NNgCdeGQhvPbOP4M-8kjXoaErE3AbBXAD9zzQB3x35P2V7es5CyNGiKx1TbvLCfFtScEk0KwvGlBnM88p8ZvXA2Y9QcfZbt6gVYBZJTC-gqhAfFK-PmDKlyeUaJ3tp4XmQHNo6gKWAy2SEX5zgRZVycTDmbSGqBBHva_A7ptRG8zwCBSgceNaEQZztiftY9t0Shy3gt2gfR7xh55zeWtHYAzixR1GVHlIRvepyYMEt4Q6fZo2q60MMb80RJPNT1CY-46So18aMePTvVA3bQu5wYEkgSmw.eucR1BX7lrrfddPv5N3MwF5KJXjE_yUjjuiW9cjqPCw&dib_tag=se&keywords=swamp+thing+dark+genesis+omnibus&qid=1789442798&sprefix=dark+genesis+swa%2Caps%2C225&sr=8-1',
+  //   note: ''
+  // },
+  {
+    nombre: 'Marvel Set Legends Series X-Men Kitty Pryde & Colossus',
+    img: 'https://m.media-amazon.com/images/I/71c3zvAVpnL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Marvel-Colossus-coleccionables-inspiradas-Astonishing/dp/B0FHGTS3R8/ref=sr_1_6?crid=1B9RWZTIOS9F5&dib=eyJ2IjoiMSJ9.onnwQHP9nLR8O7q6gJ_aX2vhdSe0Pb0qqO1k0T3oBqrlY9qmJiIXYC7nu7u0A8HrTD5AhWmuUGOUWx2_ZExxDZJbI4991Gn7Q-ZC_T0vnahr6cuhSzhJnyUuZwzF4I8t2KF3VBRkpi1PIKrgF3GTgK0-MHyAwTGmnXxjFb_VzLtX1UzhUtz_h69Rax5AGbpLohsBT7beVa0YBuGkSgJfAPzxjJ_WZy6k2_G-svpvRGTNs7zmWsikPAe9u_FrGvSd0cKYTUkKQ1C1fPB8U7ei7C9C3TZEuOaZo5ooyOld9s0.fAPV7ZXujQ5cBTVlNYlTrRcYb6jnPzyj9ooOEt2lm6k&dib_tag=se&keywords=marvel+legends+colossus&qid=1794291543&sprefix=marvel+legends+col%2Caps%2C207&sr=8-6&ufe=app_do%3Aamzn1.fos.06fa9770-d92c-4c52-90c1-2e1c2a45e1df',
     note: ''
   },
   // {
