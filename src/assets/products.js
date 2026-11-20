@@ -42,6 +42,12 @@ export const productos = [
     note: ''
   },
   {
+    nombre: 'Marvel Legends Series Daredevil',
+    img: 'https://m.media-amazon.com/images/I/71MiA3WGoYL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Marvel-Press-G2417-MVL-Legends/dp/B0FHL1FNBS/ref=sr_1_5?crid=15DN0OYQB304F&dib=eyJ2IjoiMSJ9.NbvBQ6EPN1X8WzPUJQITQO9XBni0_HQCyVi1hgsis-MiNxYllO1FOCNDpsf8JF7zOLv9K36JH1G1WCFDT55AsDPJntprrqYCoJ7nwCT1ezvvVxaBpj5s4GddnacoqP_eyt8dwOoiNc1xvernt4xu7Pmfr0UPGbTPQJzBskM2ecS612dyKxhyOUWeztSLsANw4ljdbDwnVhXr-tB2s6S9-I_8eT1cXAlLbODAsanLbwnSOrLCnwbgZzjESWQ6Tnj2CyfOjOAGnt51WZMGWgR9M5xAqWWSspYlf0qk1la1lqU.OGRg9UlSQud_lziNF-KptECZ66kl0wGjdVZLNQE5Mko&dib_tag=se&keywords=marvel+legends+daredevil&qid=1795169364&sprefix=marvel+legends+da%2Caps%2C234&sr=8-5&ufe=app_do%3Aamzn1.fos.06fa9770-d92c-4c52-90c1-2e1c2a45e1df',
+    note: ''
+  },
+  {
     nombre: 'SCUF Elite Series 2 Joysticks de Alto Rendimiento para Xbox Elite Series 2',
     img: 'https://m.media-amazon.com/images/I/71QNSGNbNOL._AC_SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/SCUF-Elite-Thumbsticks-Xbox-4-Pack/dp/B0DJ9L2XHR/ref=sr_1_6?crid=2OEE70JJV49E8&dib=eyJ2IjoiMSJ9._lKAsgAiKR2ZoYVXlNmKE_GIHuPf4qu6lx65QxCchnYDsezLP83ymHSC0nFCDLvmXREkNKAM1xDcHU-0wJQX1QtAX-RVWOjwq9bHE3yRW644YrltmmSoeWjSt0l61o813h1zklaEpOXHaAAvvC_CL85A7WQAIoSb-Y6RnYfO7zAXRXO424idRsYpR3P2yjaFGOYgyj6q_XdGbF9wt0LbVRHX3bJEhkAznQ9DCqd-spPDUm3RLhRcvtdCSJgsHPRbAh5_LwWEi8fpi9deERzUPCdS9IaaoOyCbJIhn-rI38c.-BzCqpd95bQngfyZA6q9QnoF2FsZjSVqUZwbGf46M6s&dib_tag=se&keywords=scuf+xbox+elite+series+2&qid=1793642510&sprefix=scuf+elite+%2Caps%2C217&sr=8-6&ufe=app_do%3Aamzn1.fos.06fa9770-d92c-4c52-90c1-2e1c2a45e1df',
