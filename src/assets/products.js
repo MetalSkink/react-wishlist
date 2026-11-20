@@ -1,9 +1,15 @@
 export const productos = [
   {
-    nombre: 'Batman: The Bronze Age Omnibus Vol. 1',
-    img: 'https://m.media-amazon.com/images/I/81wlZebrgfL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Batman-Bronze-Age-Omnibus-Vol/dp/1799508498/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=2Q5GH7HW9LXT8&dib=eyJ2IjoiMSJ9.8StFP9n7PHFnteTynkV3VVJkIJMc81FpCJsVdizDvz9reTI-UyMEqG5ncDHHRSmpFbaVA-_3mvOSGb29jL_u82fmHvLkUcQLia_odhy_HcGNmaOVPZHlkH_n_kEF0yPKbYONx3tjAS5llRF6KubrfE9n8iqWiSo1YuePpEiaGCSHeEG7wxkP6Q14syKSgivACPiQSvmPsmpHYniE5K2agvj-u7cnDEJv19pH_dS99W1RwXNY_KQ2Cu8r4Lyxeoe6cVUafa9U917tj9ooRJrmKzQzjZJORKKUqs22gaVY7Rk.UnI0dNUM5IXknj0Pbfxh-ej-ay1-L0eecgJvtgz1Vi0&dib_tag=se&keywords=batman+the+bronze+age&qid=1794292389&sprefix=batman+the+bornze+a%2Caps%2C218&sr=8-1&ufe=app_do%3Aamzn1.fos.8a90e69c-45ea-4ce4-8795-da8fd1ef78a6',
-    note: 'Este me gustaria muchito aunque si esta caro'
+    nombre: 'Batman: The Dark Knight Returns Deluxe Edition',
+    img: 'https://m.media-amazon.com/images/I/71-32e8N-uL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Batman-Dark-Knight-Returns-Deluxe/dp/1799513106/ref=sr_1_4?crid=QOUSFCLTCS8V&dib=eyJ2IjoiMSJ9.cNaMLqPv4Xnp61wE917O7hOAwYCObvHP5BR3cOSrT9PBMWVAGRe16PzzsMEQ17NqUaw9LO_w__ug6eBQJQzlQz5AhIr_JQJZ6tnPb44SeAJ3GP3FA9vTPuRTzIfAy4qgyUF3UGc-vOIAgoJqcfYxY_6nRmoMkQG0hh_OIZKZvTN0AS5mSBi94x3r95FQGQdRY2GQTRbOJoj7_P0FswLzv03LsCCnkerGbjjZSvN0XOv0qnx5dPREVmuL0YAdWbGImqM7z_8qMavYlayAvxpwVTCAVV4LwK15NY1meHBCo4w.9alFQUOevXBRDFGr8WkE8-XV8VsvdiRJW9EUOZS6wXk&dib_tag=se&keywords=batman+the+dark+knight+returns&qid=1793642400&sprefix=batman+the+dark+knight+retunr%2Caps%2C198&sr=8-4&ufe=app_do%3Aamzn1.fos.8a90e69c-45ea-4ce4-8795-da8fd1ef78a6',
+    note: ''
+  },
+  {
+    nombre: 'Batman de Doug Moench',
+    img: 'https://m.media-amazon.com/images/I/71wgNd2LMXL._SL1200_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Batman-Doug-Moench-Vol-01-Dough/dp/6075827412/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=1TT9PRC9JKHS7&dib=eyJ2IjoiMSJ9.EPHX5McLco_ll-lGqAB01oRoy2g9r-szRUr9IJUwD7lUW6xnTEv-ASciVf78TvIwJO96Idf9ZuC1drEyzP02IJwqWIAzrqsfxoboOJl3vAfPXjXnDfSymMeGXVWqSBVX.Epk_XfYwLfuRkYNwGY2xkBPDZ9gfG_e4pCwsJufdHRU&dib_tag=se&keywords=batman+por+dough+moench&qid=1795168946&sprefix=batman+por+dough+moen%2Caps%2C227&sr=8-1&ufe=app_do%3Aamzn1.fos.ecf8ea6b-8840-4b28-821b-333c5ba4275b',
+    note: ''
   },
   // {
   //   nombre: 'Swamp Thing: Dark Genesis Omnibus',
@@ -12,17 +18,11 @@ export const productos = [
   //   note: ''
   // },
   {
-    nombre: 'Marvel Set Legends Series X-Men Kitty Pryde & Colossus',
-    img: 'https://m.media-amazon.com/images/I/71c3zvAVpnL._AC_SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Marvel-Colossus-coleccionables-inspiradas-Astonishing/dp/B0FHGTS3R8/ref=sr_1_6?crid=1B9RWZTIOS9F5&dib=eyJ2IjoiMSJ9.onnwQHP9nLR8O7q6gJ_aX2vhdSe0Pb0qqO1k0T3oBqrlY9qmJiIXYC7nu7u0A8HrTD5AhWmuUGOUWx2_ZExxDZJbI4991Gn7Q-ZC_T0vnahr6cuhSzhJnyUuZwzF4I8t2KF3VBRkpi1PIKrgF3GTgK0-MHyAwTGmnXxjFb_VzLtX1UzhUtz_h69Rax5AGbpLohsBT7beVa0YBuGkSgJfAPzxjJ_WZy6k2_G-svpvRGTNs7zmWsikPAe9u_FrGvSd0cKYTUkKQ1C1fPB8U7ei7C9C3TZEuOaZo5ooyOld9s0.fAPV7ZXujQ5cBTVlNYlTrRcYb6jnPzyj9ooOEt2lm6k&dib_tag=se&keywords=marvel+legends+colossus&qid=1794291543&sprefix=marvel+legends+col%2Caps%2C207&sr=8-6&ufe=app_do%3Aamzn1.fos.06fa9770-d92c-4c52-90c1-2e1c2a45e1df',
+    nombre: 'Batman Second Knight',
+    img: 'https://m.media-amazon.com/images/I/81Lgafb9-zL._SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Batman-Second-Knight-Dan-Jurgens/dp/6076446188/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&crid=3VW1S7735WZWR&dib=eyJ2IjoiMSJ9.kD6rkhyzcuTxDQJeDQnGaP9fxQWSBHJs0H8lecU3rYHc1Pa6yMaWuR8_-S9RhViFQXtjQokvyEUGG6frrKit_aIdM3io9sW-4hkptzLY-1li1F94_inD-3CghsqIxXLYP-SjeoreKWQaQyCn0DuZmpJRvB5iydxnQJH5odpE-1GIgbffHIH0P8NFQTSYVtDzwIc7ssyJrv6mu6TsitMFlfxZZjYXVf-RrRYNfHysy5amgXTt_dOGPdO7jh8cG7U5b7UQ8tKqn4nRmLECZtHVPuqpu8yE69LNBaudKQGHUe4.l7mFbVNW5MxzCB1g-x69qr6p-_EULWGuYdsVL2vi388&dib_tag=se&keywords=batman+second+knight&qid=1795168073&sprefix=batman+second+knight%2Caps%2C226&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b',
     note: ''
   },
-  // {
-  //   nombre: 'Bleach Remix N.15',
-  //   img: 'https://m.media-amazon.com/images/I/61u1X2sN0SL._SL1500_.jpg',
-  //   buyLink: 'https://www.amazon.com.mx/Bleach-Remix-N-15-Editorial-Panini/dp/6076387505/ref=asc_df_6076387505?mcid=66349b9bd4153a019efb6cec8f34cd26&tag=gledskshopmx-20&linkCode=df0&hvadid=767538732478&hvpos=&hvnetw=g&hvrand=3650102242054814519&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1010199&hvtargid=pla-2460160282250&psc=1&hvocijid=3650102242054814519-6076387505-&hvexpln=0&language=es_MX',
-  //   note: 'Me falta el 12, 15, 16, 17, 18'
-  // },
   // {
   //   nombre: 'Batman by Chip Zdarsky Omnibus Vol. 1',
   //   img: 'https://m.media-amazon.com/images/I/61bXKlVa6OL._SL1500_.jpg',
@@ -42,15 +42,15 @@ export const productos = [
     note: ''
   },
   {
-    nombre: 'Batman: The Dark Knight Returns Deluxe Edition',
-    img: 'https://m.media-amazon.com/images/I/71-32e8N-uL._SL1500_.jpg',
-    buyLink: 'https://www.amazon.com.mx/Batman-Dark-Knight-Returns-Deluxe/dp/1799513106/ref=sr_1_4?crid=QOUSFCLTCS8V&dib=eyJ2IjoiMSJ9.cNaMLqPv4Xnp61wE917O7hOAwYCObvHP5BR3cOSrT9PBMWVAGRe16PzzsMEQ17NqUaw9LO_w__ug6eBQJQzlQz5AhIr_JQJZ6tnPb44SeAJ3GP3FA9vTPuRTzIfAy4qgyUF3UGc-vOIAgoJqcfYxY_6nRmoMkQG0hh_OIZKZvTN0AS5mSBi94x3r95FQGQdRY2GQTRbOJoj7_P0FswLzv03LsCCnkerGbjjZSvN0XOv0qnx5dPREVmuL0YAdWbGImqM7z_8qMavYlayAvxpwVTCAVV4LwK15NY1meHBCo4w.9alFQUOevXBRDFGr8WkE8-XV8VsvdiRJW9EUOZS6wXk&dib_tag=se&keywords=batman+the+dark+knight+returns&qid=1793642400&sprefix=batman+the+dark+knight+retunr%2Caps%2C198&sr=8-4&ufe=app_do%3Aamzn1.fos.8a90e69c-45ea-4ce4-8795-da8fd1ef78a6',
-    note: ''
-  },
-  {
     nombre: 'SCUF Elite Series 2 Joysticks de Alto Rendimiento para Xbox Elite Series 2',
     img: 'https://m.media-amazon.com/images/I/71QNSGNbNOL._AC_SL1500_.jpg',
     buyLink: 'https://www.amazon.com.mx/SCUF-Elite-Thumbsticks-Xbox-4-Pack/dp/B0DJ9L2XHR/ref=sr_1_6?crid=2OEE70JJV49E8&dib=eyJ2IjoiMSJ9._lKAsgAiKR2ZoYVXlNmKE_GIHuPf4qu6lx65QxCchnYDsezLP83ymHSC0nFCDLvmXREkNKAM1xDcHU-0wJQX1QtAX-RVWOjwq9bHE3yRW644YrltmmSoeWjSt0l61o813h1zklaEpOXHaAAvvC_CL85A7WQAIoSb-Y6RnYfO7zAXRXO424idRsYpR3P2yjaFGOYgyj6q_XdGbF9wt0LbVRHX3bJEhkAznQ9DCqd-spPDUm3RLhRcvtdCSJgsHPRbAh5_LwWEi8fpi9deERzUPCdS9IaaoOyCbJIhn-rI38c.-BzCqpd95bQngfyZA6q9QnoF2FsZjSVqUZwbGf46M6s&dib_tag=se&keywords=scuf+xbox+elite+series+2&qid=1793642510&sprefix=scuf+elite+%2Caps%2C217&sr=8-6&ufe=app_do%3Aamzn1.fos.06fa9770-d92c-4c52-90c1-2e1c2a45e1df',
+    note: ''
+  },
+  {
+    nombre: 'Marvel Set Legends Series X-Men Kitty Pryde & Colossus',
+    img: 'https://m.media-amazon.com/images/I/71c3zvAVpnL._AC_SL1500_.jpg',
+    buyLink: 'https://www.amazon.com.mx/Marvel-Colossus-coleccionables-inspiradas-Astonishing/dp/B0FHGTS3R8/ref=sr_1_6?crid=1B9RWZTIOS9F5&dib=eyJ2IjoiMSJ9.onnwQHP9nLR8O7q6gJ_aX2vhdSe0Pb0qqO1k0T3oBqrlY9qmJiIXYC7nu7u0A8HrTD5AhWmuUGOUWx2_ZExxDZJbI4991Gn7Q-ZC_T0vnahr6cuhSzhJnyUuZwzF4I8t2KF3VBRkpi1PIKrgF3GTgK0-MHyAwTGmnXxjFb_VzLtX1UzhUtz_h69Rax5AGbpLohsBT7beVa0YBuGkSgJfAPzxjJ_WZy6k2_G-svpvRGTNs7zmWsikPAe9u_FrGvSd0cKYTUkKQ1C1fPB8U7ei7C9C3TZEuOaZo5ooyOld9s0.fAPV7ZXujQ5cBTVlNYlTrRcYb6jnPzyj9ooOEt2lm6k&dib_tag=se&keywords=marvel+legends+colossus&qid=1794291543&sprefix=marvel+legends+col%2Caps%2C207&sr=8-6&ufe=app_do%3Aamzn1.fos.06fa9770-d92c-4c52-90c1-2e1c2a45e1df',
     note: ''
   },
   // {
